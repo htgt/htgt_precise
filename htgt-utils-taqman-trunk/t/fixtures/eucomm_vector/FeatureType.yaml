@@ -1,0 +1,130 @@
+--- 
+- 
+  description: G5_U5
+  feature_type_id: 1000
+- 
+  description: U3_D5
+  feature_type_id: 1001
+- 
+  description: D3_G3
+  feature_type_id: 1002
+- 
+  description: candidate region G5
+  feature_type_id: 1
+- 
+  description: candidate region G3
+  feature_type_id: 2
+- 
+  description: candidate region U5
+  feature_type_id: 3
+- 
+  description: candidate region U3
+  feature_type_id: 4
+- 
+  description: candidate region D5
+  feature_type_id: 5
+- 
+  description: candidate region D3
+  feature_type_id: 6
+- 
+  description: G5
+  feature_type_id: 7
+- 
+  description: G3
+  feature_type_id: 8
+- 
+  description: U5
+  feature_type_id: 9
+- 
+  description: U3
+  feature_type_id: 10
+- 
+  description: D5
+  feature_type_id: 11
+- 
+  description: D3
+  feature_type_id: 12
+- 
+  description: RD
+  feature_type_id: 1666
+- 
+  description: U5_U3
+  feature_type_id: 25
+- 
+  description: D5_D3
+  feature_type_id: 26
+- 
+  description: GR4
+  feature_type_id: 3011
+- 
+  description: GR3
+  feature_type_id: 3010
+- 
+  description: EX32
+  feature_type_id: 3009
+- 
+  description: EX52
+  feature_type_id: 3008
+- 
+  description: GF4
+  feature_type_id: 3007
+- 
+  description: GF3
+  feature_type_id: 3006
+- 
+  description: GR2
+  feature_type_id: 3005
+- 
+  description: GR1
+  feature_type_id: 3004
+- 
+  description: EX3
+  feature_type_id: 3003
+- 
+  description: EX5
+  feature_type_id: 3002
+- 
+  description: GF2
+  feature_type_id: 3001
+- 
+  description: GF1
+  feature_type_id: 3000
+- 
+  description: U5_15
+  feature_type_id: 2001
+- 
+  description: D3_15
+  feature_type_id: 2002
+- 
+  description: U5_D3
+  feature_type_id: 1003
+- 
+  description: 15_E_15
+  feature_type_id: 2003
+- 
+  description: LF1
+  feature_type_id: 3012
+- 
+  description: LF2
+  feature_type_id: 3013
+- 
+  description: LF3
+  feature_type_id: 3014
+- 
+  description: LR1
+  feature_type_id: 3015
+- 
+  description: LR2
+  feature_type_id: 3016
+- 
+  description: LR3
+  feature_type_id: 3017
+- 
+  description: PNFLR1
+  feature_type_id: 3018
+- 
+  description: PNFLR2
+  feature_type_id: 3019
+- 
+  description: PNFLR3
+  feature_type_id: 3020

@@ -1,0 +1,1282 @@
+--- 
+- 
+  data_type: clone_selection
+  data_value: pooled
+  edit_date: ~
+  edit_user: ~
+  plate_data_id: 749
+  plate_id: 2751
+- 
+  data_type: es_cell_line
+  data_value: JM8.N4
+  edit_date: 23-MAR-10
+  edit_user: ~
+  plate_data_id: 806
+  plate_id: 2881
+- 
+  data_type: source
+  data_value: EUCOMM
+  edit_date: ~
+  edit_user: ~
+  plate_data_id: 2137
+  plate_id: 58
+- 
+  data_type: first_qc_date
+  data_value: 18-Mar-08
+  edit_date: ~
+  edit_user: ~
+  plate_data_id: 1030
+  plate_id: 2511
+- 
+  data_type: source
+  data_value: EUCOMM
+  edit_date: ~
+  edit_user: ~
+  plate_data_id: 2173
+  plate_id: 2729
+- 
+  data_type: first_qc_date
+  data_value: 19-Aug-07
+  edit_date: ~
+  edit_user: ~
+  plate_data_id: 870
+  plate_id: 587
+- 
+  data_type: sources
+  data_value: "EUCOMM(88) : External EUCOMM Request(2) : Internal EUCOMM Request(1) : Internal EUCOMM:MGP(5) : Internal Request(5) : NORCOMM Priority(4)"
+  edit_date: ~
+  edit_user: ~
+  plate_data_id: 102
+  plate_id: 58
+- 
+  data_type: bacs
+  data_value: C57BL/6J
+  edit_date: 08-OCT-08
+  edit_user: dj3
+  plate_data_id: 152
+  plate_id: 58
+- 
+  data_type: es_cell_line
+  data_value: JM8.N4
+  edit_date: 23-MAR-10
+  edit_user: skarnes
+  plate_data_id: 2308
+  plate_id: 3217
+- 
+  data_type: first_qc_date
+  data_value: 31-May-07
+  edit_date: ~
+  edit_user: ~
+  plate_data_id: 1127
+  plate_id: 586
+- 
+  data_type: bacs
+  data_value: C57BL/6J
+  edit_date: ~
+  edit_user: ~
+  plate_data_id: 2218
+  plate_id: 2729
+- 
+  data_type: es_cell_line
+  data_value: JM8.N4
+  edit_date: 23-MAR-10
+  edit_user: antje.buerger@gsf.de
+  plate_data_id: 6286
+  plate_id: 3725
+- 
+  data_type: es_cell_line
+  data_value: JM8.N4
+  edit_date: 23-MAR-10
+  edit_user: antje.buerger@gsf.de
+  plate_data_id: 9089
+  plate_id: 4969
+- 
+  data_type: bacs
+  data_value: C57BL/6J
+  edit_date: 16-JAN-09
+  edit_user: dj3
+  plate_data_id: 9295
+  plate_id: 3249
+- 
+  data_type: clone_selection
+  data_value: pooled_2_retransformed
+  edit_date: 03-OCT-08
+  edit_user: apw
+  plate_data_id: 7161
+  plate_id: 4176
+- 
+  data_type: ship_date_csd
+  data_value: 1-SEP-08
+  edit_date: 28-AUG-08
+  edit_user: ~
+  plate_data_id: 6547
+  plate_id: 3598
+- 
+  data_type: ship_date_hzm
+  data_value: 1-SEP-08
+  edit_date: 28-AUG-08
+  edit_user: ~
+  plate_data_id: 6668
+  plate_id: 3598
+- 
+  data_type: clone_selection
+  data_value: pooled_8_selected
+  edit_date: 03-SEP-08
+  edit_user: apw
+  plate_data_id: 6699
+  plate_id: 3948
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12255
+  plate_id: 6816
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12257
+  plate_id: 6818
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12259
+  plate_id: 6820
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12261
+  plate_id: 6822
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12279
+  plate_id: 6840
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12282
+  plate_id: 6843
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12284
+  plate_id: 6845
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12285
+  plate_id: 6846
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12295
+  plate_id: 6856
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12297
+  plate_id: 6858
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12299
+  plate_id: 6860
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 13-MAY-09
+  edit_user: do2
+  plate_data_id: 12301
+  plate_id: 6862
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 16-JUN-09
+  edit_user: vvi
+  plate_data_id: 13192
+  plate_id: 7678
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 16-JUN-09
+  edit_user: vvi
+  plate_data_id: 13193
+  plate_id: 7679
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 16-JUN-09
+  edit_user: vvi
+  plate_data_id: 13194
+  plate_id: 7680
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 16-JUN-09
+  edit_user: vvi
+  plate_data_id: 13195
+  plate_id: 7681
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 16-JUN-09
+  edit_user: vvi
+  plate_data_id: 13197
+  plate_id: 7683
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 16-JUN-09
+  edit_user: vvi
+  plate_data_id: 13198
+  plate_id: 7684
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 16-JUN-09
+  edit_user: vvi
+  plate_data_id: 13199
+  plate_id: 7685
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 25-AUG-09
+  edit_user: rm7
+  plate_data_id: 13790
+  plate_id: 9033
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 25-AUG-09
+  edit_user: rm7
+  plate_data_id: 13791
+  plate_id: 9034
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 25-AUG-09
+  edit_user: rm7
+  plate_data_id: 13792
+  plate_id: 9035
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 25-AUG-09
+  edit_user: rm7
+  plate_data_id: 13793
+  plate_id: 9036
+- 
+  data_type: archive_label
+  data_value: PG 129
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24531
+  plate_id: 6856
+- 
+  data_type: archive_label
+  data_value: PG 129
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24532
+  plate_id: 6858
+- 
+  data_type: archive_label
+  data_value: PG 129
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24533
+  plate_id: 6860
+- 
+  data_type: archive_label
+  data_value: PG 129
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24534
+  plate_id: 6862
+- 
+  data_type: archive_label
+  data_value: PG 130
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24535
+  plate_id: 6840
+- 
+  data_type: archive_label
+  data_value: PG 130
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24536
+  plate_id: 6843
+- 
+  data_type: archive_label
+  data_value: PG 130
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24537
+  plate_id: 6845
+- 
+  data_type: archive_label
+  data_value: PG 130
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24538
+  plate_id: 6846
+- 
+  data_type: archive_label
+  data_value: PG 131
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24539
+  plate_id: 6816
+- 
+  data_type: archive_label
+  data_value: PG 131
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24540
+  plate_id: 6818
+- 
+  data_type: archive_label
+  data_value: PG 131
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24541
+  plate_id: 6820
+- 
+  data_type: archive_label
+  data_value: PG 131
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24542
+  plate_id: 6822
+- 
+  data_type: archive_label
+  data_value: PG 214
+  edit_date: 22-SEP-09
+  edit_user: ~
+  plate_data_id: 25303
+  plate_id: 9033
+- 
+  data_type: archive_label
+  data_value: PG 214
+  edit_date: 22-SEP-09
+  edit_user: ~
+  plate_data_id: 25304
+  plate_id: 9034
+- 
+  data_type: archive_label
+  data_value: PG 214
+  edit_date: 22-SEP-09
+  edit_user: ~
+  plate_data_id: 25305
+  plate_id: 9035
+- 
+  data_type: archive_label
+  data_value: PG 214
+  edit_date: 22-SEP-09
+  edit_user: ~
+  plate_data_id: 25306
+  plate_id: 9036
+- 
+  data_type: archive_label
+  data_value: PG 237
+  edit_date: 22-SEP-09
+  edit_user: ~
+  plate_data_id: 26032
+  plate_id: 10586
+- 
+  data_type: archive_label
+  data_value: PG 237
+  edit_date: 22-SEP-09
+  edit_user: ~
+  plate_data_id: 26033
+  plate_id: 10587
+- 
+  data_type: archive_label
+  data_value: PG 237
+  edit_date: 22-SEP-09
+  edit_user: ~
+  plate_data_id: 26034
+  plate_id: 10588
+- 
+  data_type: archive_label
+  data_value: PG 237
+  edit_date: 22-SEP-09
+  edit_user: ~
+  plate_data_id: 26035
+  plate_id: 10589
+- 
+  data_type: archive_label
+  data_value: PG 290
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24975
+  plate_id: 7678
+- 
+  data_type: archive_label
+  data_value: PG 290
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24976
+  plate_id: 7679
+- 
+  data_type: archive_label
+  data_value: PG 290
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24977
+  plate_id: 7680
+- 
+  data_type: archive_label
+  data_value: PG 290
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24978
+  plate_id: 7681
+- 
+  data_type: archive_label
+  data_value: PG 291
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24980
+  plate_id: 7683
+- 
+  data_type: archive_label
+  data_value: PG 291
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24981
+  plate_id: 7684
+- 
+  data_type: archive_label
+  data_value: PG 291
+  edit_date: 21-SEP-09
+  edit_user: ~
+  plate_data_id: 24982
+  plate_id: 7685
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  plate_data_id: 25751
+  plate_id: 10586
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  plate_data_id: 25752
+  plate_id: 10587
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  plate_data_id: 25753
+  plate_id: 10588
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  plate_data_id: 25754
+  plate_id: 10589
+- 
+  data_type: plate_label
+  data_value: PG109X_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30775
+  plate_id: 6816
+- 
+  data_type: plate_label
+  data_value: PG109X_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30776
+  plate_id: 6818
+- 
+  data_type: plate_label
+  data_value: PG109X_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30777
+  plate_id: 6820
+- 
+  data_type: plate_label
+  data_value: PG109X_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30778
+  plate_id: 6822
+- 
+  data_type: plate_label
+  data_value: PG109Y_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30779
+  plate_id: 6840
+- 
+  data_type: plate_label
+  data_value: PG109Y_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30780
+  plate_id: 6843
+- 
+  data_type: plate_label
+  data_value: PG109Y_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30781
+  plate_id: 6845
+- 
+  data_type: plate_label
+  data_value: PG109Y_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30782
+  plate_id: 6846
+- 
+  data_type: plate_label
+  data_value: PG109Z_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30783
+  plate_id: 6856
+- 
+  data_type: plate_label
+  data_value: PG109Z_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30784
+  plate_id: 6858
+- 
+  data_type: plate_label
+  data_value: PG109Z_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30785
+  plate_id: 6860
+- 
+  data_type: plate_label
+  data_value: PG109Z_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 30786
+  plate_id: 6862
+- 
+  data_type: plate_label
+  data_value: PG33A_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31327
+  plate_id: 10586
+- 
+  data_type: plate_label
+  data_value: PG33A_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31328
+  plate_id: 10587
+- 
+  data_type: plate_label
+  data_value: PG33A_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31329
+  plate_id: 10588
+- 
+  data_type: plate_label
+  data_value: PG33A_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31330
+  plate_id: 10589
+- 
+  data_type: plate_label
+  data_value: PG68Z_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31634
+  plate_id: 7678
+- 
+  data_type: plate_label
+  data_value: PG68Z_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31635
+  plate_id: 7679
+- 
+  data_type: plate_label
+  data_value: PG68Z_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31636
+  plate_id: 7680
+- 
+  data_type: plate_label
+  data_value: PG68Z_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31637
+  plate_id: 7681
+- 
+  data_type: plate_label
+  data_value: PG68Z_5-8
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31639
+  plate_id: 7683
+- 
+  data_type: plate_label
+  data_value: PG68Z_5-8
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31640
+  plate_id: 7684
+- 
+  data_type: plate_label
+  data_value: PG68Z_5-8
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31641
+  plate_id: 7685
+- 
+  data_type: plate_label
+  data_value: PGR3A_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31882
+  plate_id: 9033
+- 
+  data_type: plate_label
+  data_value: PGR3A_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31883
+  plate_id: 9034
+- 
+  data_type: plate_label
+  data_value: PGR3A_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31884
+  plate_id: 9035
+- 
+  data_type: plate_label
+  data_value: PGR3A_1-4
+  edit_date: 24-SEP-09
+  edit_user: ~
+  plate_data_id: 31885
+  plate_id: 9036
+- 
+  data_type: archive_label
+  data_value: PC 193
+  edit_date: 13-OCT-09
+  edit_user: ~
+  plate_data_id: 32865
+  plate_id: 2751
+- 
+  data_type: plate_label
+  data_value: ARC0004
+  edit_date: 13-OCT-09
+  edit_user: ~
+  plate_data_id: 32866
+  plate_id: 2751
+- 
+  data_type: archive_label
+  data_value: PC 205
+  edit_date: 13-OCT-09
+  edit_user: ~
+  plate_data_id: 32967
+  plate_id: 3948
+- 
+  data_type: plate_label
+  data_value: ARC0016
+  edit_date: 13-OCT-09
+  edit_user: ~
+  plate_data_id: 32968
+  plate_id: 3948
+- 
+  data_type: archive_quadrant
+  data_value: 1
+  edit_date: 19-OCT-09
+  edit_user: ~
+  plate_data_id: 33248
+  plate_id: 2751
+- 
+  data_type: archive_quadrant
+  data_value: 4
+  edit_date: 19-OCT-09
+  edit_user: ~
+  plate_data_id: 33299
+  plate_id: 3948
+- 
+  data_type: report_date
+  data_value: 01-AUG-08
+  edit_date: 10-MAR-10
+  edit_user: rm7
+  plate_data_id: 37723
+  plate_id: 3725
+- 
+  data_type: alternate_clone_recovery
+  data_value: 'yes'
+  edit_date: 25-MAR-10
+  edit_user: apw
+  plate_data_id: 37842
+  plate_id: 13999
+- 
+  data_type: qc_done
+  data_value: 'yes'
+  edit_date: 05-MAR-10
+  edit_user: vvi
+  plate_data_id: 37140
+  plate_id: 586
+- 
+  data_type: qc_done
+  data_value: 'yes'
+  edit_date: 05-MAR-10
+  edit_user: vvi
+  plate_data_id: 37178
+  plate_id: 2751
+- 
+  data_type: qc_done
+  data_value: 'yes'
+  edit_date: 05-MAR-10
+  edit_user: vvi
+  plate_data_id: 37208
+  plate_id: 5402
+- 
+  data_type: report_date
+  data_value: 11-JUL-08
+  edit_date: 10-MAR-10
+  edit_user: rl6
+  plate_data_id: 37524
+  plate_id: 3217
+- 
+  data_type: report_date
+  data_value: 01-NOV-08
+  edit_date: 10-MAR-10
+  edit_user: rm7
+  plate_data_id: 37711
+  plate_id: 4969
+- 
+  data_type: qc_done
+  data_value: 'yes'
+  edit_date: 27-MAY-10
+  edit_user: ~
+  plate_data_id: 39623
+  plate_id: 3948
+- 
+  data_type: archive_quadrant
+  data_value: 1
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45043
+  plate_id: 9033
+- 
+  data_type: archive_quadrant
+  data_value: 2
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45044
+  plate_id: 9034
+- 
+  data_type: archive_quadrant
+  data_value: 3
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45045
+  plate_id: 9035
+- 
+  data_type: archive_quadrant
+  data_value: 4
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45046
+  plate_id: 9036
+- 
+  data_type: archive_quadrant
+  data_value: 1
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45127
+  plate_id: 10586
+- 
+  data_type: archive_quadrant
+  data_value: 2
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45128
+  plate_id: 10587
+- 
+  data_type: archive_quadrant
+  data_value: 3
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45129
+  plate_id: 10588
+- 
+  data_type: archive_quadrant
+  data_value: 4
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45130
+  plate_id: 10589
+- 
+  data_type: archive_quadrant
+  data_value: 1
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45314
+  plate_id: 7678
+- 
+  data_type: archive_quadrant
+  data_value: 2
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45315
+  plate_id: 7679
+- 
+  data_type: archive_quadrant
+  data_value: 3
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45316
+  plate_id: 7680
+- 
+  data_type: archive_quadrant
+  data_value: 4
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45317
+  plate_id: 7681
+- 
+  data_type: archive_quadrant
+  data_value: 2
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45319
+  plate_id: 7683
+- 
+  data_type: archive_quadrant
+  data_value: 3
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45320
+  plate_id: 7684
+- 
+  data_type: archive_quadrant
+  data_value: 4
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 45321
+  plate_id: 7685
+- 
+  data_type: archive_quadrant
+  data_value: 1
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44535
+  plate_id: 6856
+- 
+  data_type: archive_quadrant
+  data_value: 2
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44536
+  plate_id: 6858
+- 
+  data_type: archive_quadrant
+  data_value: 3
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44537
+  plate_id: 6860
+- 
+  data_type: archive_quadrant
+  data_value: 4
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44538
+  plate_id: 6862
+- 
+  data_type: archive_quadrant
+  data_value: 1
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44539
+  plate_id: 6840
+- 
+  data_type: archive_quadrant
+  data_value: 2
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44540
+  plate_id: 6843
+- 
+  data_type: archive_quadrant
+  data_value: 3
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44541
+  plate_id: 6845
+- 
+  data_type: archive_quadrant
+  data_value: 4
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44542
+  plate_id: 6846
+- 
+  data_type: archive_quadrant
+  data_value: 1
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44543
+  plate_id: 6816
+- 
+  data_type: archive_quadrant
+  data_value: 2
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44544
+  plate_id: 6818
+- 
+  data_type: archive_quadrant
+  data_value: 3
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44545
+  plate_id: 6820
+- 
+  data_type: archive_quadrant
+  data_value: 4
+  edit_date: 09-JUN-10
+  edit_user: ~
+  plate_data_id: 44546
+  plate_id: 6822
+- 
+  data_type: Seq_QC_Finished
+  data_value: 'yes'
+  edit_date: 29-SEP-10
+  edit_user: sp12
+  plate_data_id: 55127
+  plate_id: 13999
+- 
+  data_type: Seq_QC_Finished
+  data_value: 'yes'
+  edit_date: 29-SEP-10
+  edit_user: sp12
+  plate_data_id: 55288
+  plate_id: 2511
+- 
+  data_type: Seq_QC_Finished
+  data_value: 'yes'
+  edit_date: 29-SEP-10
+  edit_user: sp12
+  plate_data_id: 55353
+  plate_id: 3951
+- 
+  data_type: Seq_QC_Finished
+  data_value: 'yes'
+  edit_date: 29-SEP-10
+  edit_user: sp12
+  plate_data_id: 55354
+  plate_id: 4178
+- 
+  data_type: Seq_QC_Finished
+  data_value: 'yes'
+  edit_date: 29-SEP-10
+  edit_user: sp12
+  plate_data_id: 55355
+  plate_id: 4217
+- 
+  data_type: Seq_QC_Finished
+  data_value: 'yes'
+  edit_date: 29-SEP-10
+  edit_user: sp12
+  plate_data_id: 55356
+  plate_id: 4422
+- 
+  data_type: es_cell_line
+  data_value: "[Enter your data value]"
+  edit_date: 08-DEC-10
+  edit_user: ~
+  plate_data_id: 56029
+  plate_id: 18818 
+- 
+  data_type: bacs
+  data_value: C57BL/6J
+  edit_date: 12-JUL-09
+  edit_user: vvi
+  plate_data_id: 13540
+  plate_id: 7244
+- 
+  data_type: archive_label
+  data_value: PG577
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56801
+  plate_id: 19000
+- 
+  data_type: archive_quadrant
+  data_value: 1
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56802
+  plate_id: 19000
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 04-JAN-11
+  edit_user: jfp
+  plate_data_id: 56082
+  plate_id: 19000
+- 
+  data_type: plate_label
+  data_value: PG00222_Z_1-4
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56803
+  plate_id: 19000
+- 
+  data_type: archive_label
+  data_value: PG577
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56804
+  plate_id: 19001
+- 
+  data_type: archive_quadrant
+  data_value: 2
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56805
+  plate_id: 19001
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 04-JAN-11
+  edit_user: jfp
+  plate_data_id: 56083
+  plate_id: 19001
+- 
+  data_type: plate_label
+  data_value: PG00222_Z_1-4
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56806
+  plate_id: 19001
+- 
+  data_type: archive_label
+  data_value: PG577
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56810
+  plate_id: 19003
+- 
+  data_type: archive_quadrant
+  data_value: 4
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56811
+  plate_id: 19003
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 04-JAN-11
+  edit_user: jfp
+  plate_data_id: 56085
+  plate_id: 19003
+- 
+  data_type: plate_label
+  data_value: PG00222_Z_1-4
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56812
+  plate_id: 19003
+- 
+  data_type: archive_label
+  data_value: PG578
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56822
+  plate_id: 19007
+- 
+  data_type: archive_quadrant
+  data_value: 4
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56823
+  plate_id: 19007
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 04-JAN-11
+  edit_user: jfp
+  plate_data_id: 56089
+  plate_id: 19007
+- 
+  data_type: plate_label
+  data_value: PG00222_Z_5-8
+  edit_date: 09-FEB-11
+  edit_user: jg7
+  plate_data_id: 56824
+  plate_id: 19007
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 12-JAN-11
+  edit_user: ms10
+  plate_data_id: 56145
+  plate_id: 19277
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 12-JAN-11
+  edit_user: ms10
+  plate_data_id: 56146
+  plate_id: 19278
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 12-JAN-11
+  edit_user: ms10
+  plate_data_id: 56152
+  plate_id: 19284
+- 
+  data_type: es_cell_line
+  data_value: JM8A3.N1
+  edit_date: 28-FEB-11
+  edit_user: wr1
+  plate_data_id: 56760
+  plate_id: 19665
+- 
+  data_type: report_date
+  data_value: Feb-11
+  edit_date: 28-FEB-11
+  edit_user: wr1
+  plate_data_id: 57032
+  plate_id: 19665 
+- 
+  data_type: bacs
+  data_value: C57BL/6J
+  edit_date: 12-JUL-09
+  edit_user: vvi
+  plate_data_id: 13543
+  plate_id: 5401
+- 
+  data_type: report_date
+  data_value: Feb-11
+  edit_date: 10-MAY-11
+  edit_user: wr1
+  plate_data_id: 57034
+  plate_id: 19946
+- 
+  data_type: es_cell_line
+  data_value: JM8A3.N1
+  edit_date: 24-MAR-11
+  edit_user: antje.buerger@gsf.de
+  plate_data_id: 57009
+  plate_id: 19946
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 04-JAN-11
+  edit_user: ms10
+  plate_data_id: 56098
+  plate_id: 19016
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 04-JAN-11
+  edit_user: ms10
+  plate_data_id: 56099
+  plate_id: 19017
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 04-JAN-11
+  edit_user: ms10
+  plate_data_id: 56105
+  plate_id: 19023
+- 
+  data_type: is_384
+  data_value: 'yes'
+  edit_date: 18-JAN-11
+  edit_user: ms10
+  plate_data_id: 56192
+  plate_id: 19373
+- 
+  data_type: alternate_clone_recovery
+  data_value: 'yes'
+  edit_date: 01-JUN-11
+  edit_user: jg7
+  plate_data_id: 58423
+  plate_id: 21709
+- 
+  data_type: archive_label
+  data_value: PG575
+  edit_date: 31-MAY-11
+  edit_user: jg7
+  plate_data_id: 58304
+  plate_id: 19373
+- 
+  data_type: archive_quadrant
+  data_value: 1
+  edit_date: 31-MAY-11
+  edit_user: jg7
+  plate_data_id: 58305
+  plate_id: 19373
+- 
+  data_type: plate_label
+  data_value: PG00223_Z_1-4
+  edit_date: 31-MAY-11
+  edit_user: jg7
+  plate_data_id: 58306
+  plate_id: 19373
+- 
+  data_type: Seq_QC_finished
+  data_value: 'yes'
+  edit_date: 30-JUN-11
+  edit_user: jg7
+  plate_data_id: 58822
+  plate_id: 21709
+- 
+  data_type: es_cell_line
+  data_value: JM8A3.N1
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  plate_data_id: 57319
+  plate_id: 20743
+- 
+  data_type: report_date
+  data_value: Apr-11
+  edit_date: 27-MAY-11
+  edit_user: wr1
+  plate_data_id: 58092
+  plate_id: 20743

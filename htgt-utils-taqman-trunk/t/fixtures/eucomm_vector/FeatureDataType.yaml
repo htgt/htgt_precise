@@ -1,0 +1,40 @@
+--- 
+- 
+  description: sequence
+  feature_data_type_id: 1
+- 
+  description: make reverse complement
+  feature_data_type_id: 2
+- 
+  description: validated
+  feature_data_type_id: 3
+- 
+  description: region order
+  feature_data_type_id: 4
+- 
+  description: append sequence
+  feature_data_type_id: 5
+- 
+  description: oligo category
+  feature_data_type_id: 6
+- 
+  description: part of feature
+  feature_data_type_id: 7
+- 
+  description: candidate region priority
+  feature_data_type_id: 8
+- 
+  description: note
+  feature_data_type_id: 9
+- 
+  description: blast checked
+  feature_data_type_id: 10
+- 
+  description: member of G pair
+  feature_data_type_id: 11
+- 
+  description: member of U pair
+  feature_data_type_id: 12
+- 
+  description: member of D pair
+  feature_data_type_id: 13

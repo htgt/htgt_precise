@@ -1,0 +1,105 @@
+--- 
+- 
+  category_id: 61
+  design_comment: ~
+  design_comment_id: 89652
+  design_id: 437840
+  edited_date: 22-MAR-12 14.55.12.495058
+  edited_user: mt4
+  visibility: public
+- 
+  category_id: 61
+  design_comment: ~
+  design_comment_id: 48888
+  design_id: 369477
+  edited_date: 26-JUL-11 11.49.18.921015
+  edited_user: rm7
+  visibility: public
+- 
+  category_id: 61
+  design_comment: ~
+  design_comment_id: 98591
+  design_id: 453790
+  edited_date: 28-NOV-12 11.53.02.789140
+  edited_user: mt4
+  visibility: public
+- 
+  category_id: 61
+  design_comment: ~
+  design_comment_id: 98589
+  design_id: 453788
+  edited_date: 28-NOV-12 11.50.09.784926
+  edited_user: mt4
+  visibility: public
+- 
+  category_id: 61
+  design_comment: ~
+  design_comment_id: 98587
+  design_id: 453786
+  edited_date: 28-NOV-12 11.29.56.417316
+  edited_user: mt4
+  visibility: public
+- 
+  category_id: 61
+  design_comment: ~
+  design_comment_id: 82743
+  design_id: 378337
+  edited_date: 20-JAN-12 10.22.32.479570
+  edited_user: mqt
+  visibility: public
+- 
+  category_id: 61
+  design_comment: ~
+  design_comment_id: 98585
+  design_id: 453784
+  edited_date: 28-NOV-12 11.26.41.535581
+  edited_user: mt4
+  visibility: public
+- 
+  category_id: 61
+  design_comment: ~
+  design_comment_id: 98590
+  design_id: 453789
+  edited_date: 28-NOV-12 11.51.40.089172
+  edited_user: mt4
+  visibility: public
+- 
+  category_id: 61
+  design_comment: ~
+  design_comment_id: 90646
+  design_id: 440046
+  edited_date: 13-APR-12 14.53.57.875151
+  edited_user: mt4
+  visibility: public
+- 
+  category_id: 81
+  design_comment: intron replacement
+  design_comment_id: 90647
+  design_id: 440046
+  edited_date: 13-APR-12 14.59.08.379002
+  edited_user: mt4
+  visibility: internal
+- 
+  category_id: 81
+  design_comment: intron_replacement
+  design_comment_id: 93588
+  design_id: 445983
+  edited_date: 13-JUL-12 12.26.04.179171
+  edited_user: mt4
+  visibility: internal
+- 
+  category_id: 61
+  design_comment: ~
+  design_comment_id: 99999
+  design_id: 39217
+  edited_date: 13-APR-12 14.53.57.875151
+  edited_user: mt4
+  visibility: public
+- 
+  category_id: 16
+  design_comment: score 1 - NorCOMM design
+  design_comment_id: 2828
+  design_id: 117767
+  edited_date: 05-JAN-09 19.03.10.000000
+  edited_user: mp7
+  visibility: internal

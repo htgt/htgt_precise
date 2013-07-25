@@ -1,0 +1,27 @@
+--- 
+- 
+  centre_id: 1
+  clone_id: 85804
+  comments: ~
+  created_date: 05-DEC-08
+  creator_id: 26
+  distribution_centre_id: 1
+  edit_date: 05-DEC-08
+  edited_by: do2
+  id: 6616
+  is_failed: 0
+  is_interested_only: 0
+  proposed_mi_date: 14-OCT-08
+- 
+  centre_id: 1
+  clone_id: 85805
+  comments: ~
+  created_date: 10-FEB-09
+  creator_id: 26
+  distribution_centre_id: 1
+  edit_date: 10-FEB-09
+  edited_by: vvi
+  id: 7077
+  is_failed: ~
+  is_interested_only: ~
+  proposed_mi_date: 23-JAN-09

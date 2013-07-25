@@ -1,0 +1,4586 @@
+--- 
+- 
+  data_type: pcr_d
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1771319
+  well_id: 90199
+- 
+  data_type: pcr_g
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1771320
+  well_id: 90199
+- 
+  data_type: pcr_u
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1771318
+  well_id: 90199
+- 
+  data_type: postcre
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1771325
+  well_id: 90199
+- 
+  data_type: rec-result
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1771326
+  well_id: 90199
+- 
+  data_type: rec_d
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1771322
+  well_id: 90199
+- 
+  data_type: rec_g
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1771323
+  well_id: 90199
+- 
+  data_type: rec_ns
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1771324
+  well_id: 90199
+- 
+  data_type: rec_u
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1771321
+  well_id: 90199
+- 
+  data_type: sponsor
+  data_value: EUCOMM
+  edit_date: 25-MAY-11
+  edit_user: sp12
+  well_data_id: 12234440
+  well_id: 90199
+- 
+  data_type: clone_name
+  data_value: PC00026_B_G06_1
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 158078
+  well_id: 90338
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 158079
+  well_id: 90338
+- 
+  data_type: qctest_result_id
+  data_value: 102160
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 493071
+  well_id: 90338
+- 
+  data_type: DNA_QUALITY
+  data_value: L
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 203454
+  well_id: 90339
+- 
+  data_type: NG_UL_DNA
+  data_value: 351.42
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 203252
+  well_id: 90339
+- 
+  data_type: UG_DNA
+  data_value: 5
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 203249
+  well_id: 90339
+- 
+  data_type: VOL_DNA
+  data_value: 14.227989300552
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 203253
+  well_id: 90339
+- 
+  data_type: VOL_MIX
+  data_value: 13
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 203250
+  well_id: 90339
+- 
+  data_type: VOL_WATER
+  data_value: 72.772010699448
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 203251
+  well_id: 90339
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 386542
+  well_id: 90339
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 392053
+  well_id: 90339
+- 
+  data_type: clone_name
+  data_value: PG00026_B_G06_1
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 158080
+  well_id: 90339
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 158081
+  well_id: 90339
+- 
+  data_type: qctest_result_id
+  data_value: 123393
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 493167
+  well_id: 90339
+- 
+  data_type: pcr_d
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1808489
+  well_id: 160823
+- 
+  data_type: pcr_g
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1808490
+  well_id: 160823
+- 
+  data_type: pcr_u
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1808488
+  well_id: 160823
+- 
+  data_type: postcre
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1808495
+  well_id: 160823
+- 
+  data_type: rec-result
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1808496
+  well_id: 160823
+- 
+  data_type: rec_d
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1808492
+  well_id: 160823
+- 
+  data_type: rec_g
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1808493
+  well_id: 160823
+- 
+  data_type: rec_ns
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1808494
+  well_id: 160823
+- 
+  data_type: rec_u
+  data_value: pass
+  edit_date: 10-DEC-08
+  edit_user: dk3_hack
+  well_data_id: 1808491
+  well_id: 160823
+- 
+  data_type: sponsor
+  data_value: EUCOMM
+  edit_date: 25-MAY-11
+  edit_user: sp12
+  well_data_id: 12238642
+  well_id: 160823
+- 
+  data_type: clone_name
+  data_value: PC00025_A_G06_1
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 394696
+  well_id: 292453
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 394697
+  well_id: 292453
+- 
+  data_type: qctest_result_id
+  data_value: 15758
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 494534
+  well_id: 292453
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 573345
+  well_id: 324891
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 573344
+  well_id: 324891
+- 
+  data_type: clone_name
+  data_value: PG00026_A_G06_1
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 573342
+  well_id: 324891
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 573343
+  well_id: 324891
+- 
+  data_type: qctest_result_id
+  data_value: 57168
+  edit_date: 11-JUN-08
+  edit_user: vvi
+  well_data_id: 573346
+  well_id: 324891
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 24-FEB-09
+  edit_user: ~
+  well_data_id: 2241840
+  well_id: 624031
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 24-FEB-09
+  edit_user: ~
+  well_data_id: 2241839
+  well_id: 624031
+- 
+  data_type: sponsor
+  data_value: KOMP
+  edit_date: 25-MAY-11
+  edit_user: sp12
+  well_data_id: 12250524
+  well_id: 646260
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 13-JUL-09
+  edit_user: apw
+  well_data_id: 3853347
+  well_id: 862314
+- 
+  data_type: clone_name
+  data_value: PCS00173_A_D02_1
+  edit_date: 12-MAR-10
+  edit_user: apw
+  well_data_id: 6484307
+  well_id: 862314
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 29-JUN-10
+  edit_user: rm7
+  well_data_id: 7724009
+  well_id: 862314
+- 
+  data_type: pass_level
+  data_value: pass4.3
+  edit_date: 14-MAY-10
+  edit_user: apw
+  well_data_id: 6484306
+  well_id: 862314
+- 
+  data_type: qctest_result_id
+  data_value: 2085160
+  edit_date: 12-MAR-10
+  edit_user: apw
+  well_data_id: 6484305
+  well_id: 862314
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 13-JUL-09
+  edit_user: ~
+  well_data_id: 3853443
+  well_id: 862410
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_P
+  edit_date: 19-AUG-09
+  edit_user: apw
+  well_data_id: 3853539
+  well_id: 862410
+- 
+  data_type: clone_name
+  data_value: PG00173_Z_D02_1
+  edit_date: 14-JUL-09
+  edit_user: apw
+  well_data_id: 3860211
+  well_id: 862410
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 15-JUL-09
+  edit_user: ~
+  well_data_id: 3882837
+  well_id: 862410
+- 
+  data_type: pass_level
+  data_value: pass
+  edit_date: 14-JUL-09
+  edit_user: apw
+  well_data_id: 3860210
+  well_id: 862410
+- 
+  data_type: qctest_result_id
+  data_value: 1115720
+  edit_date: 14-JUL-09
+  edit_user: apw
+  well_data_id: 3860209
+  well_id: 862410
+- 
+  data_type: DNA_STATUS
+  data_value: pass
+  edit_date: 12-AUG-09
+  edit_user: rl6
+  well_data_id: 4149625
+  well_id: 905606
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 12-AUG-09
+  edit_user: ~
+  well_data_id: 4149419
+  well_id: 905606
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 12-AUG-09
+  edit_user: ~
+  well_data_id: 4149418
+  well_id: 905606
+- 
+  data_type: COLONIES_PICKED
+  data_value: 32
+  edit_date: 14-SEP-09
+  edit_user: hh2
+  well_data_id: 4521556
+  well_id: 948803
+- 
+  data_type: REMAINING_UNSTAINED_COLONIES
+  data_value: 216
+  edit_date: 14-SEP-09
+  edit_user: hh2
+  well_data_id: 4521562
+  well_id: 948803
+- 
+  data_type: TOTAL_COLONIES
+  data_value: 248
+  edit_date: 14-SEP-09
+  edit_user: hh2
+  well_data_id: 4521557
+  well_id: 948803
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 01-SEP-09
+  edit_user: ~
+  well_data_id: 4376091
+  well_id: 948803
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 01-SEP-09
+  edit_user: ~
+  well_data_id: 4376090
+  well_id: 948803
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520433
+  well_id: 984703
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520432
+  well_id: 984703
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610508
+  well_id: 984703
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610509
+  well_id: 984703
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610510
+  well_id: 984703
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129081
+  well_id: 984703
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129079
+  well_id: 984703
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129082
+  well_id: 984703
+- 
+  data_type: qctest_result_id
+  data_value: 1308972
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129080
+  well_id: 984703
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129083
+  well_id: 984703
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520449
+  well_id: 984711
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520448
+  well_id: 984711
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610532
+  well_id: 984711
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610533
+  well_id: 984711
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610534
+  well_id: 984711
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129055
+  well_id: 984711
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129053
+  well_id: 984711
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129056
+  well_id: 984711
+- 
+  data_type: qctest_result_id
+  data_value: 1308964
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129054
+  well_id: 984711
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129057
+  well_id: 984711
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520451
+  well_id: 984712
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520450
+  well_id: 984712
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610535
+  well_id: 984712
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610536
+  well_id: 984712
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610537
+  well_id: 984712
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129074
+  well_id: 984712
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129072
+  well_id: 984712
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129075
+  well_id: 984712
+- 
+  data_type: qctest_result_id
+  data_value: 1308970
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129073
+  well_id: 984712
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129077
+  well_id: 984712
+- 
+  data_type: allele_name
+  data_value: Calcoco2<sup>tm1(KOMP)Wtsi</sup>
+  edit_date: 01-OCT-09
+  edit_user: rm7
+  well_data_id: 5167379
+  well_id: 984717
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520461
+  well_id: 984717
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520460
+  well_id: 984717
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610550
+  well_id: 984717
+- 
+  data_type: computed_loxP_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610551
+  well_id: 984717
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610552
+  well_id: 984717
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 28-SEP-09
+  edit_user: apw
+  well_data_id: 5133780
+  well_id: 984717
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128928
+  well_id: 984717
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128926
+  well_id: 984717
+- 
+  data_type: pass_level
+  data_value: pass4
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128929
+  well_id: 984717
+- 
+  data_type: primer_band_gf3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120836
+  well_id: 984717
+- 
+  data_type: primer_band_gr3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120756
+  well_id: 984717
+- 
+  data_type: primer_band_gr4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120795
+  well_id: 984717
+- 
+  data_type: qctest_result_id
+  data_value: 1308933
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128927
+  well_id: 984717
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128930
+  well_id: 984717
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520463
+  well_id: 984718
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520462
+  well_id: 984718
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610553
+  well_id: 984718
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610554
+  well_id: 984718
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610555
+  well_id: 984718
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129106
+  well_id: 984718
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129104
+  well_id: 984718
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129108
+  well_id: 984718
+- 
+  data_type: qctest_result_id
+  data_value: 1308981
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129105
+  well_id: 984718
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129110
+  well_id: 984718
+- 
+  data_type: allele_name
+  data_value: Calcoco2<sup>tm1(KOMP)Wtsi</sup>
+  edit_date: 01-OCT-09
+  edit_user: rm7
+  well_data_id: 5167380
+  well_id: 984719
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520465
+  well_id: 984719
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520464
+  well_id: 984719
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610556
+  well_id: 984719
+- 
+  data_type: computed_loxP_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610557
+  well_id: 984719
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610558
+  well_id: 984719
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 28-SEP-09
+  edit_user: apw
+  well_data_id: 5133787
+  well_id: 984719
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128921
+  well_id: 984719
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128918
+  well_id: 984719
+- 
+  data_type: pass_level
+  data_value: pass4
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128922
+  well_id: 984719
+- 
+  data_type: primer_band_gf3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120851
+  well_id: 984719
+- 
+  data_type: primer_band_gr3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120765
+  well_id: 984719
+- 
+  data_type: primer_band_gr4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120801
+  well_id: 984719
+- 
+  data_type: qctest_result_id
+  data_value: 1308932
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128920
+  well_id: 984719
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128923
+  well_id: 984719
+- 
+  data_type: allele_name
+  data_value: Calcoco2<sup>tm1(KOMP)Wtsi</sup>
+  edit_date: 01-OCT-09
+  edit_user: rm7
+  well_data_id: 5167381
+  well_id: 984727
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520481
+  well_id: 984727
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520480
+  well_id: 984727
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610580
+  well_id: 984727
+- 
+  data_type: computed_loxP_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610581
+  well_id: 984727
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610582
+  well_id: 984727
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 28-SEP-09
+  edit_user: apw
+  well_data_id: 5133775
+  well_id: 984727
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128975
+  well_id: 984727
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128973
+  well_id: 984727
+- 
+  data_type: pass_level
+  data_value: pass4
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128976
+  well_id: 984727
+- 
+  data_type: primer_band_gf3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120826
+  well_id: 984727
+- 
+  data_type: primer_band_gr3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120733
+  well_id: 984727
+- 
+  data_type: primer_band_gr4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120790
+  well_id: 984727
+- 
+  data_type: qctest_result_id
+  data_value: 1308941
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128974
+  well_id: 984727
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128977
+  well_id: 984727
+- 
+  data_type: allele_name
+  data_value: Calcoco2<sup>tm1(KOMP)Wtsi</sup>
+  edit_date: 01-OCT-09
+  edit_user: rm7
+  well_data_id: 5167382
+  well_id: 984731
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520489
+  well_id: 984731
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520488
+  well_id: 984731
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610592
+  well_id: 984731
+- 
+  data_type: computed_loxP_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610593
+  well_id: 984731
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610594
+  well_id: 984731
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 28-SEP-09
+  edit_user: apw
+  well_data_id: 5133776
+  well_id: 984731
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128942
+  well_id: 984731
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128939
+  well_id: 984731
+- 
+  data_type: pass_level
+  data_value: pass4
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128943
+  well_id: 984731
+- 
+  data_type: primer_band_gf3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120827
+  well_id: 984731
+- 
+  data_type: primer_band_gr3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120740
+  well_id: 984731
+- 
+  data_type: primer_band_gr4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120791
+  well_id: 984731
+- 
+  data_type: qctest_result_id
+  data_value: 1308935
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128941
+  well_id: 984731
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128944
+  well_id: 984731
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520491
+  well_id: 984732
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520490
+  well_id: 984732
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610595
+  well_id: 984732
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610596
+  well_id: 984732
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610597
+  well_id: 984732
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128996
+  well_id: 984732
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128994
+  well_id: 984732
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128997
+  well_id: 984732
+- 
+  data_type: qctest_result_id
+  data_value: 1308947
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128995
+  well_id: 984732
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128998
+  well_id: 984732
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520495
+  well_id: 984734
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520494
+  well_id: 984734
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610601
+  well_id: 984734
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610602
+  well_id: 984734
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610603
+  well_id: 984734
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129035
+  well_id: 984734
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129032
+  well_id: 984734
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129037
+  well_id: 984734
+- 
+  data_type: qctest_result_id
+  data_value: 1308958
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129034
+  well_id: 984734
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129038
+  well_id: 984734
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520507
+  well_id: 984740
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520506
+  well_id: 984740
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610619
+  well_id: 984740
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610620
+  well_id: 984740
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610621
+  well_id: 984740
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129061
+  well_id: 984740
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129058
+  well_id: 984740
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129062
+  well_id: 984740
+- 
+  data_type: qctest_result_id
+  data_value: 1308966
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129059
+  well_id: 984740
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129064
+  well_id: 984740
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520515
+  well_id: 984744
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520514
+  well_id: 984744
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610631
+  well_id: 984744
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610632
+  well_id: 984744
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610633
+  well_id: 984744
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129008
+  well_id: 984744
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129006
+  well_id: 984744
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129009
+  well_id: 984744
+- 
+  data_type: qctest_result_id
+  data_value: 1308952
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129007
+  well_id: 984744
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129010
+  well_id: 984744
+- 
+  data_type: allele_name
+  data_value: Calcoco2<sup>tm1(KOMP)Wtsi</sup>
+  edit_date: 01-OCT-09
+  edit_user: rm7
+  well_data_id: 5167383
+  well_id: 984746
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520519
+  well_id: 984746
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520518
+  well_id: 984746
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610637
+  well_id: 984746
+- 
+  data_type: computed_loxP_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610638
+  well_id: 984746
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610639
+  well_id: 984746
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 28-SEP-09
+  edit_user: apw
+  well_data_id: 5133783
+  well_id: 984746
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128962
+  well_id: 984746
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128959
+  well_id: 984746
+- 
+  data_type: pass_level
+  data_value: pass4
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128964
+  well_id: 984746
+- 
+  data_type: primer_band_gf3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120845
+  well_id: 984746
+- 
+  data_type: primer_band_gr3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120761
+  well_id: 984746
+- 
+  data_type: primer_band_gr4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120798
+  well_id: 984746
+- 
+  data_type: qctest_result_id
+  data_value: 1308938
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128960
+  well_id: 984746
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128965
+  well_id: 984746
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520523
+  well_id: 984748
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520522
+  well_id: 984748
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610643
+  well_id: 984748
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610644
+  well_id: 984748
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610645
+  well_id: 984748
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129096
+  well_id: 984748
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129094
+  well_id: 984748
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129097
+  well_id: 984748
+- 
+  data_type: qctest_result_id
+  data_value: 1308977
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129095
+  well_id: 984748
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129098
+  well_id: 984748
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520525
+  well_id: 984749
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520524
+  well_id: 984749
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610646
+  well_id: 984749
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610647
+  well_id: 984749
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610648
+  well_id: 984749
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128989
+  well_id: 984749
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128987
+  well_id: 984749
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128990
+  well_id: 984749
+- 
+  data_type: qctest_result_id
+  data_value: 1308945
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128988
+  well_id: 984749
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128991
+  well_id: 984749
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520539
+  well_id: 984756
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520538
+  well_id: 984756
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610667
+  well_id: 984756
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610668
+  well_id: 984756
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610669
+  well_id: 984756
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129002
+  well_id: 984756
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128999
+  well_id: 984756
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129004
+  well_id: 984756
+- 
+  data_type: qctest_result_id
+  data_value: 1308950
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129001
+  well_id: 984756
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129005
+  well_id: 984756
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520541
+  well_id: 984757
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520540
+  well_id: 984757
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610670
+  well_id: 984757
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610671
+  well_id: 984757
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610672
+  well_id: 984757
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129029
+  well_id: 984757
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129026
+  well_id: 984757
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129030
+  well_id: 984757
+- 
+  data_type: qctest_result_id
+  data_value: 1308957
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129028
+  well_id: 984757
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129031
+  well_id: 984757
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520549
+  well_id: 984761
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520548
+  well_id: 984761
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610970
+  well_id: 984761
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610971
+  well_id: 984761
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610972
+  well_id: 984761
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129048
+  well_id: 984761
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129046
+  well_id: 984761
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129049
+  well_id: 984761
+- 
+  data_type: qctest_result_id
+  data_value: 1308962
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129047
+  well_id: 984761
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129050
+  well_id: 984761
+- 
+  data_type: allele_name
+  data_value: Calcoco2<sup>tm1(KOMP)Wtsi</sup>
+  edit_date: 01-OCT-09
+  edit_user: rm7
+  well_data_id: 5167384
+  well_id: 984765
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520557
+  well_id: 984765
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520556
+  well_id: 984765
+- 
+  data_type: cell_sng_assign_date
+  data_value: 26-Jul-2010
+  edit_date: 26-JUL-10
+  edit_user: rl6
+  well_data_id: 8004892
+  well_id: 984765
+- 
+  data_type: cell_sng_status
+  data_value: assigned
+  edit_date: 26-JUL-10
+  edit_user: rl6
+  well_data_id: 8004891
+  well_id: 984765
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610982
+  well_id: 984765
+- 
+  data_type: computed_loxP_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610983
+  well_id: 984765
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610984
+  well_id: 984765
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 28-SEP-09
+  edit_user: apw
+  well_data_id: 5133794
+  well_id: 984765
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128907
+  well_id: 984765
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128905
+  well_id: 984765
+- 
+  data_type: pass_level
+  data_value: pass4
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128908
+  well_id: 984765
+- 
+  data_type: primer_band_gf3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120863
+  well_id: 984765
+- 
+  data_type: primer_band_gf4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120899
+  well_id: 984765
+- 
+  data_type: primer_band_gr3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120771
+  well_id: 984765
+- 
+  data_type: primer_band_gr4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120808
+  well_id: 984765
+- 
+  data_type: qctest_result_id
+  data_value: 1308930
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128906
+  well_id: 984765
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128909
+  well_id: 984765
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520559
+  well_id: 984766
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520558
+  well_id: 984766
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610985
+  well_id: 984766
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610986
+  well_id: 984766
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610987
+  well_id: 984766
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129015
+  well_id: 984766
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129013
+  well_id: 984766
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129016
+  well_id: 984766
+- 
+  data_type: qctest_result_id
+  data_value: 1308953
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129014
+  well_id: 984766
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129017
+  well_id: 984766
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520561
+  well_id: 984767
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520560
+  well_id: 984767
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610988
+  well_id: 984767
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610989
+  well_id: 984767
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10610990
+  well_id: 984767
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129086
+  well_id: 984767
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129084
+  well_id: 984767
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129087
+  well_id: 984767
+- 
+  data_type: qctest_result_id
+  data_value: 1308974
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129085
+  well_id: 984767
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129088
+  well_id: 984767
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520569
+  well_id: 984771
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520568
+  well_id: 984771
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611000
+  well_id: 984771
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611001
+  well_id: 984771
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611002
+  well_id: 984771
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129091
+  well_id: 984771
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129089
+  well_id: 984771
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129092
+  well_id: 984771
+- 
+  data_type: qctest_result_id
+  data_value: 1308975
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129090
+  well_id: 984771
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129093
+  well_id: 984771
+- 
+  data_type: allele_name
+  data_value: Calcoco2<sup>tm1(KOMP)Wtsi</sup>
+  edit_date: 01-OCT-09
+  edit_user: rm7
+  well_data_id: 5167385
+  well_id: 984777
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520581
+  well_id: 984777
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520580
+  well_id: 984777
+- 
+  data_type: cell_sng_assign_date
+  data_value: 26-Jul-2010
+  edit_date: 26-JUL-10
+  edit_user: rl6
+  well_data_id: 8004890
+  well_id: 984777
+- 
+  data_type: cell_sng_status
+  data_value: assigned
+  edit_date: 26-JUL-10
+  edit_user: rl6
+  well_data_id: 8004889
+  well_id: 984777
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611018
+  well_id: 984777
+- 
+  data_type: computed_loxP_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611019
+  well_id: 984777
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611020
+  well_id: 984777
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 28-SEP-09
+  edit_user: apw
+  well_data_id: 5133797
+  well_id: 984777
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128914
+  well_id: 984777
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128912
+  well_id: 984777
+- 
+  data_type: pass_level
+  data_value: pass4
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128915
+  well_id: 984777
+- 
+  data_type: primer_band_gf3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120868
+  well_id: 984777
+- 
+  data_type: primer_band_gf4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120906
+  well_id: 984777
+- 
+  data_type: primer_band_gr3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120774
+  well_id: 984777
+- 
+  data_type: primer_band_gr4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120811
+  well_id: 984777
+- 
+  data_type: qctest_result_id
+  data_value: 1308931
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128913
+  well_id: 984777
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128916
+  well_id: 984777
+- 
+  data_type: allele_name
+  data_value: Calcoco2<sup>tm1(KOMP)Wtsi</sup>
+  edit_date: 01-OCT-09
+  edit_user: rm7
+  well_data_id: 5167386
+  well_id: 984780
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520587
+  well_id: 984780
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520586
+  well_id: 984780
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611027
+  well_id: 984780
+- 
+  data_type: computed_loxP_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611028
+  well_id: 984780
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611029
+  well_id: 984780
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 28-SEP-09
+  edit_user: apw
+  well_data_id: 5133786
+  well_id: 984780
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128949
+  well_id: 984780
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128946
+  well_id: 984780
+- 
+  data_type: pass_level
+  data_value: pass4
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128950
+  well_id: 984780
+- 
+  data_type: primer_band_gf3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120848
+  well_id: 984780
+- 
+  data_type: primer_band_gr3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120764
+  well_id: 984780
+- 
+  data_type: primer_band_gr4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120800
+  well_id: 984780
+- 
+  data_type: qctest_result_id
+  data_value: 1308936
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128948
+  well_id: 984780
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128951
+  well_id: 984780
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520591
+  well_id: 984782
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520590
+  well_id: 984782
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611033
+  well_id: 984782
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611034
+  well_id: 984782
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611035
+  well_id: 984782
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129022
+  well_id: 984782
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129020
+  well_id: 984782
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129023
+  well_id: 984782
+- 
+  data_type: qctest_result_id
+  data_value: 1308955
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129021
+  well_id: 984782
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129024
+  well_id: 984782
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520593
+  well_id: 984783
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520592
+  well_id: 984783
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611036
+  well_id: 984783
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611037
+  well_id: 984783
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611038
+  well_id: 984783
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129067
+  well_id: 984783
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129065
+  well_id: 984783
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129069
+  well_id: 984783
+- 
+  data_type: qctest_result_id
+  data_value: 1308968
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129066
+  well_id: 984783
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129071
+  well_id: 984783
+- 
+  data_type: allele_name
+  data_value: Calcoco2<sup>tm1(KOMP)Wtsi</sup>
+  edit_date: 01-OCT-09
+  edit_user: rm7
+  well_data_id: 5167376
+  well_id: 984784
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520595
+  well_id: 984784
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520594
+  well_id: 984784
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611039
+  well_id: 984784
+- 
+  data_type: computed_loxP_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611040
+  well_id: 984784
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611041
+  well_id: 984784
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 28-SEP-09
+  edit_user: apw
+  well_data_id: 5133798
+  well_id: 984784
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128935
+  well_id: 984784
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128933
+  well_id: 984784
+- 
+  data_type: pass_level
+  data_value: pass4
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128936
+  well_id: 984784
+- 
+  data_type: primer_band_gf3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120873
+  well_id: 984784
+- 
+  data_type: primer_band_gr3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120775
+  well_id: 984784
+- 
+  data_type: primer_band_gr4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120812
+  well_id: 984784
+- 
+  data_type: qctest_result_id
+  data_value: 1308934
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128934
+  well_id: 984784
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128937
+  well_id: 984784
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520597
+  well_id: 984785
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520596
+  well_id: 984785
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611042
+  well_id: 984785
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611043
+  well_id: 984785
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611044
+  well_id: 984785
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128982
+  well_id: 984785
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128980
+  well_id: 984785
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128983
+  well_id: 984785
+- 
+  data_type: qctest_result_id
+  data_value: 1308943
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128981
+  well_id: 984785
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128984
+  well_id: 984785
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520601
+  well_id: 984787
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520600
+  well_id: 984787
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611048
+  well_id: 984787
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611049
+  well_id: 984787
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611050
+  well_id: 984787
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129101
+  well_id: 984787
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129099
+  well_id: 984787
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129102
+  well_id: 984787
+- 
+  data_type: qctest_result_id
+  data_value: 1308979
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129100
+  well_id: 984787
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129103
+  well_id: 984787
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520613
+  well_id: 984793
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520612
+  well_id: 984793
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611066
+  well_id: 984793
+- 
+  data_type: computed_loxP_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611067
+  well_id: 984793
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: nd
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611068
+  well_id: 984793
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129041
+  well_id: 984793
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129039
+  well_id: 984793
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129042
+  well_id: 984793
+- 
+  data_type: qctest_result_id
+  data_value: 1308960
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129040
+  well_id: 984793
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5129043
+  well_id: 984793
+- 
+  data_type: allele_name
+  data_value: Calcoco2<sup>tm1(KOMP)Wtsi</sup>
+  edit_date: 01-OCT-09
+  edit_user: rm7
+  well_data_id: 5167377
+  well_id: 984797
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520621
+  well_id: 984797
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520620
+  well_id: 984797
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611078
+  well_id: 984797
+- 
+  data_type: computed_loxP_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611079
+  well_id: 984797
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611080
+  well_id: 984797
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 28-SEP-09
+  edit_user: apw
+  well_data_id: 5133792
+  well_id: 984797
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128968
+  well_id: 984797
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128966
+  well_id: 984797
+- 
+  data_type: pass_level
+  data_value: pass4
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128970
+  well_id: 984797
+- 
+  data_type: primer_band_gf3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120857
+  well_id: 984797
+- 
+  data_type: primer_band_gf4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120897
+  well_id: 984797
+- 
+  data_type: primer_band_gr3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120769
+  well_id: 984797
+- 
+  data_type: primer_band_gr4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120806
+  well_id: 984797
+- 
+  data_type: qctest_result_id
+  data_value: 1308940
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128967
+  well_id: 984797
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128972
+  well_id: 984797
+- 
+  data_type: allele_name
+  data_value: Calcoco2<sup>tm1(KOMP)Wtsi</sup>
+  edit_date: 01-OCT-09
+  edit_user: rm7
+  well_data_id: 5167378
+  well_id: 984798
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520623
+  well_id: 984798
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 14-SEP-09
+  edit_user: ~
+  well_data_id: 4520622
+  well_id: 984798
+- 
+  data_type: computed_five_arm_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611081
+  well_id: 984798
+- 
+  data_type: computed_loxP_pass_level
+  data_value: fail
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611082
+  well_id: 984798
+- 
+  data_type: computed_three_arm_pass_level
+  data_value: pass
+  edit_date: 18-JUL-11
+  edit_user: HTGTDB::Well
+  well_data_id: 10611083
+  well_id: 984798
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 28-SEP-09
+  edit_user: apw
+  well_data_id: 5133793
+  well_id: 984798
+- 
+  data_type: exp_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128956
+  well_id: 984798
+- 
+  data_type: obs_design_id
+  data_value: 173D02_233442
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128952
+  well_id: 984798
+- 
+  data_type: pass_level
+  data_value: pass4
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128957
+  well_id: 984798
+- 
+  data_type: primer_band_gf3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120860
+  well_id: 984798
+- 
+  data_type: primer_band_gr3
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120770
+  well_id: 984798
+- 
+  data_type: primer_band_gr4
+  data_value: 'yes'
+  edit_date: 25-SEP-09
+  edit_user: iw1
+  well_data_id: 5120807
+  well_id: 984798
+- 
+  data_type: qctest_result_id
+  data_value: 1308937
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128954
+  well_id: 984798
+- 
+  data_type: synthetic_allele_id
+  data_value: 75172
+  edit_date: 28-SEP-09
+  edit_user: wy1
+  well_data_id: 5128958
+  well_id: 984798
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813507
+  well_id: 1037688
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813506
+  well_id: 1037688
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813509
+  well_id: 1037689
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813508
+  well_id: 1037689
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813511
+  well_id: 1037690
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813510
+  well_id: 1037690
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813513
+  well_id: 1037691
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813512
+  well_id: 1037691
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813517
+  well_id: 1037693
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813516
+  well_id: 1037693
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813521
+  well_id: 1037695
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813520
+  well_id: 1037695
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813523
+  well_id: 1037696
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813522
+  well_id: 1037696
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813531
+  well_id: 1037700
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813530
+  well_id: 1037700
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813537
+  well_id: 1037703
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813536
+  well_id: 1037703
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813545
+  well_id: 1037707
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813544
+  well_id: 1037707
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813555
+  well_id: 1037712
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813554
+  well_id: 1037712
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813557
+  well_id: 1037713
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813556
+  well_id: 1037713
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813561
+  well_id: 1037715
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813560
+  well_id: 1037715
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813567
+  well_id: 1037718
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813566
+  well_id: 1037718
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813573
+  well_id: 1037721
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813572
+  well_id: 1037721
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813585
+  well_id: 1037727
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813584
+  well_id: 1037727
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813587
+  well_id: 1037728
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813586
+  well_id: 1037728
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813595
+  well_id: 1037732
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813594
+  well_id: 1037732
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813601
+  well_id: 1037735
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813600
+  well_id: 1037735
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813603
+  well_id: 1037736
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813602
+  well_id: 1037736
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813607
+  well_id: 1037738
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813606
+  well_id: 1037738
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813611
+  well_id: 1037740
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813610
+  well_id: 1037740
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813623
+  well_id: 1037746
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813622
+  well_id: 1037746
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813635
+  well_id: 1037752
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813634
+  well_id: 1037752
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813637
+  well_id: 1037753
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813636
+  well_id: 1037753
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813647
+  well_id: 1037758
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813646
+  well_id: 1037758
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813649
+  well_id: 1037759
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813648
+  well_id: 1037759
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813651
+  well_id: 1037760
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813650
+  well_id: 1037760
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813653
+  well_id: 1037761
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813652
+  well_id: 1037761
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813655
+  well_id: 1037762
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813654
+  well_id: 1037762
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813677
+  well_id: 1037773
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813676
+  well_id: 1037773
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813681
+  well_id: 1037775
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 18-SEP-09
+  edit_user: ~
+  well_data_id: 4813680
+  well_id: 1037775
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4972042
+  well_id: 1070946
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4972041
+  well_id: 1070946
+- 
+  data_type: clone_name
+  data_value: PG00026_A_G06_1
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4972270
+  well_id: 1070946
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4972269
+  well_id: 1070946
+- 
+  data_type: qctest_result_id
+  data_value: 57168
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4972268
+  well_id: 1070946
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4972522
+  well_id: 1071042
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4972521
+  well_id: 1071042
+- 
+  data_type: clone_name
+  data_value: PG00026_A_G06_2
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4972750
+  well_id: 1071042
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4972749
+  well_id: 1071042
+- 
+  data_type: qctest_result_id
+  data_value: 57171
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4972748
+  well_id: 1071042
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4973002
+  well_id: 1071138
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4973001
+  well_id: 1071138
+- 
+  data_type: clone_name
+  data_value: PG00026_A_G06_3
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4973230
+  well_id: 1071138
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4973229
+  well_id: 1071138
+- 
+  data_type: qctest_result_id
+  data_value: 57170
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4973228
+  well_id: 1071138
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4973482
+  well_id: 1071234
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4973481
+  well_id: 1071234
+- 
+  data_type: clone_name
+  data_value: PG00026_A_G06_4
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4973710
+  well_id: 1071234
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4973709
+  well_id: 1071234
+- 
+  data_type: qctest_result_id
+  data_value: 57169
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4973708
+  well_id: 1071234
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4973962
+  well_id: 1071330
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4973961
+  well_id: 1071330
+- 
+  data_type: clone_name
+  data_value: PG00026_B_G06_1
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4974211
+  well_id: 1071330
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4974210
+  well_id: 1071330
+- 
+  data_type: qctest_result_id
+  data_value: 123393
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4974209
+  well_id: 1071330
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4974442
+  well_id: 1071426
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4974441
+  well_id: 1071426
+- 
+  data_type: clone_name
+  data_value: PG00026_B_G06_2
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4974691
+  well_id: 1071426
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4974690
+  well_id: 1071426
+- 
+  data_type: qctest_result_id
+  data_value: 123396
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4974689
+  well_id: 1071426
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4974922
+  well_id: 1071522
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4974921
+  well_id: 1071522
+- 
+  data_type: clone_name
+  data_value: PG00026_B_G06_3
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4975171
+  well_id: 1071522
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4975170
+  well_id: 1071522
+- 
+  data_type: qctest_result_id
+  data_value: 123394
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4975169
+  well_id: 1071522
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4975402
+  well_id: 1071618
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4975401
+  well_id: 1071618
+- 
+  data_type: clone_name
+  data_value: PG00026_B_G06_4
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4975651
+  well_id: 1071618
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4975650
+  well_id: 1071618
+- 
+  data_type: qctest_result_id
+  data_value: 123398
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4975649
+  well_id: 1071618
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4975882
+  well_id: 1071714
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4975881
+  well_id: 1071714
+- 
+  data_type: clone_name
+  data_value: PG00026_B_G06_5
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4976137
+  well_id: 1071714
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4976136
+  well_id: 1071714
+- 
+  data_type: qctest_result_id
+  data_value: 123397
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4976135
+  well_id: 1071714
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4976362
+  well_id: 1071810
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4976361
+  well_id: 1071810
+- 
+  data_type: clone_name
+  data_value: PG00026_B_G06_6
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4976614
+  well_id: 1071810
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4976613
+  well_id: 1071810
+- 
+  data_type: qctest_result_id
+  data_value: 123400
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4976612
+  well_id: 1071810
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4976842
+  well_id: 1071906
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4976841
+  well_id: 1071906
+- 
+  data_type: clone_name
+  data_value: PG00026_B_G06_7
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4977094
+  well_id: 1071906
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4977093
+  well_id: 1071906
+- 
+  data_type: qctest_result_id
+  data_value: 123395
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4977092
+  well_id: 1071906
+- 
+  data_type: backbone
+  data_value: L3L4_pZero_DTA_kan
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4977322
+  well_id: 1072002
+- 
+  data_type: cassette
+  data_value: L1L2_gt1
+  edit_date: 22-SEP-09
+  edit_user: ~
+  well_data_id: 4977321
+  well_id: 1072002
+- 
+  data_type: clone_name
+  data_value: PG00026_B_G06_8
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4977568
+  well_id: 1072002
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4977567
+  well_id: 1072002
+- 
+  data_type: qctest_result_id
+  data_value: 123399
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  well_data_id: 4977566
+  well_id: 1072002
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 08-JAN-10
+  edit_user: ~
+  well_data_id: 5894425
+  well_id: 1243152
+- 
+  data_type: clone_name
+  data_value: PC00173_A_D02_1
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5905493
+  well_id: 1243152
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5905492
+  well_id: 1243152
+- 
+  data_type: qctest_result_id
+  data_value: 1640529
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5905491
+  well_id: 1243152
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 08-JAN-10
+  edit_user: ~
+  well_data_id: 5894521
+  well_id: 1243248
+- 
+  data_type: clone_name
+  data_value: PC00173_A_D02_2
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5905781
+  well_id: 1243248
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5905780
+  well_id: 1243248
+- 
+  data_type: qctest_result_id
+  data_value: 1640527
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5905779
+  well_id: 1243248
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 08-JAN-10
+  edit_user: ~
+  well_data_id: 5894617
+  well_id: 1243344
+- 
+  data_type: clone_name
+  data_value: PC00173_A_D02_3
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906069
+  well_id: 1243344
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906068
+  well_id: 1243344
+- 
+  data_type: qctest_result_id
+  data_value: 1640528
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906067
+  well_id: 1243344
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 08-JAN-10
+  edit_user: ~
+  well_data_id: 5894713
+  well_id: 1243440
+- 
+  data_type: clone_name
+  data_value: PC00173_A_D02_4
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906357
+  well_id: 1243440
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906356
+  well_id: 1243440
+- 
+  data_type: qctest_result_id
+  data_value: 1640537
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906355
+  well_id: 1243440
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 08-JAN-10
+  edit_user: ~
+  well_data_id: 5894809
+  well_id: 1243536
+- 
+  data_type: clone_name
+  data_value: PC00173_A_D02_5
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906645
+  well_id: 1243536
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906644
+  well_id: 1243536
+- 
+  data_type: qctest_result_id
+  data_value: 1640531
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906643
+  well_id: 1243536
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 08-JAN-10
+  edit_user: ~
+  well_data_id: 5894905
+  well_id: 1243632
+- 
+  data_type: clone_name
+  data_value: PC00173_A_D02_6
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906933
+  well_id: 1243632
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906932
+  well_id: 1243632
+- 
+  data_type: qctest_result_id
+  data_value: 1640532
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5906931
+  well_id: 1243632
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 08-JAN-10
+  edit_user: ~
+  well_data_id: 5895001
+  well_id: 1243728
+- 
+  data_type: clone_name
+  data_value: PC00173_A_D02_7
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5907221
+  well_id: 1243728
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5907220
+  well_id: 1243728
+- 
+  data_type: qctest_result_id
+  data_value: 1640533
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5907219
+  well_id: 1243728
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 08-JAN-10
+  edit_user: ~
+  well_data_id: 5895097
+  well_id: 1243824
+- 
+  data_type: clone_name
+  data_value: PC00173_A_D02_8
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5907509
+  well_id: 1243824
+- 
+  data_type: pass_level
+  data_value: fail
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5907508
+  well_id: 1243824
+- 
+  data_type: qctest_result_id
+  data_value: 1640530
+  edit_date: 11-JAN-10
+  edit_user: wy1
+  well_data_id: 5907507
+  well_id: 1243824
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6884878
+  well_id: 1448069
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_P
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6884877
+  well_id: 1448069
+- 
+  data_type: clone_name
+  data_value: PG00173_Z_D02_1
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6885108
+  well_id: 1448069
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 14-MAY-10
+  edit_user: team87
+  well_data_id: 7093033
+  well_id: 1448069
+- 
+  data_type: pass_level
+  data_value: pass4.1
+  edit_date: 14-MAY-10
+  edit_user: wy1
+  well_data_id: 6885107
+  well_id: 1448069
+- 
+  data_type: qctest_result_id
+  data_value: 2327167
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6885106
+  well_id: 1448069
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6885358
+  well_id: 1448165
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_P
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6885357
+  well_id: 1448165
+- 
+  data_type: clone_name
+  data_value: PG00173_Z_D02_2
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6885588
+  well_id: 1448165
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 14-MAY-10
+  edit_user: team87
+  well_data_id: 7093105
+  well_id: 1448165
+- 
+  data_type: pass_level
+  data_value: pass4.1
+  edit_date: 14-MAY-10
+  edit_user: wy1
+  well_data_id: 6885587
+  well_id: 1448165
+- 
+  data_type: qctest_result_id
+  data_value: 2327169
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6885586
+  well_id: 1448165
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6885838
+  well_id: 1448261
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_P
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6885837
+  well_id: 1448261
+- 
+  data_type: clone_name
+  data_value: PG00173_Z_D02_3
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6886068
+  well_id: 1448261
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 14-MAY-10
+  edit_user: team87
+  well_data_id: 7093175
+  well_id: 1448261
+- 
+  data_type: pass_level
+  data_value: pass4.1
+  edit_date: 14-MAY-10
+  edit_user: wy1
+  well_data_id: 6886067
+  well_id: 1448261
+- 
+  data_type: qctest_result_id
+  data_value: 2327173
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6886066
+  well_id: 1448261
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6886318
+  well_id: 1448357
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_P
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6886317
+  well_id: 1448357
+- 
+  data_type: clone_name
+  data_value: PG00173_Z_D02_4
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6886548
+  well_id: 1448357
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 14-MAY-10
+  edit_user: team87
+  well_data_id: 7093248
+  well_id: 1448357
+- 
+  data_type: pass_level
+  data_value: pass4.1
+  edit_date: 14-MAY-10
+  edit_user: wy1
+  well_data_id: 6886547
+  well_id: 1448357
+- 
+  data_type: qctest_result_id
+  data_value: 2327174
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6886546
+  well_id: 1448357
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6886798
+  well_id: 1448453
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_P
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6886797
+  well_id: 1448453
+- 
+  data_type: clone_name
+  data_value: PG00173_Z_D02_5
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6887028
+  well_id: 1448453
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 14-MAY-10
+  edit_user: team87
+  well_data_id: 7093320
+  well_id: 1448453
+- 
+  data_type: pass_level
+  data_value: pass4.1
+  edit_date: 14-MAY-10
+  edit_user: wy1
+  well_data_id: 6887027
+  well_id: 1448453
+- 
+  data_type: qctest_result_id
+  data_value: 2327172
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6887026
+  well_id: 1448453
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6887278
+  well_id: 1448549
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_P
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6887277
+  well_id: 1448549
+- 
+  data_type: clone_name
+  data_value: PG00173_Z_D02_6
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6887508
+  well_id: 1448549
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 14-MAY-10
+  edit_user: team87
+  well_data_id: 7093394
+  well_id: 1448549
+- 
+  data_type: pass_level
+  data_value: pass4.1
+  edit_date: 14-MAY-10
+  edit_user: wy1
+  well_data_id: 6887507
+  well_id: 1448549
+- 
+  data_type: qctest_result_id
+  data_value: 2327176
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6887506
+  well_id: 1448549
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6887758
+  well_id: 1448645
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_P
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6887757
+  well_id: 1448645
+- 
+  data_type: clone_name
+  data_value: PG00173_Z_D02_7
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6887988
+  well_id: 1448645
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 14-MAY-10
+  edit_user: team87
+  well_data_id: 7093469
+  well_id: 1448645
+- 
+  data_type: pass_level
+  data_value: pass4.1
+  edit_date: 14-MAY-10
+  edit_user: wy1
+  well_data_id: 6887987
+  well_id: 1448645
+- 
+  data_type: qctest_result_id
+  data_value: 2327171
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6887986
+  well_id: 1448645
+- 
+  data_type: backbone
+  data_value: R3R4_pBR_DTA+_Bsd_amp
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6888238
+  well_id: 1448741
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_P
+  edit_date: 28-APR-10
+  edit_user: ~
+  well_data_id: 6888237
+  well_id: 1448741
+- 
+  data_type: clone_name
+  data_value: PG00173_Z_D02_8
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6888468
+  well_id: 1448741
+- 
+  data_type: distribute
+  data_value: 'yes'
+  edit_date: 14-MAY-10
+  edit_user: team87
+  well_data_id: 7093544
+  well_id: 1448741
+- 
+  data_type: pass_level
+  data_value: pass4.1
+  edit_date: 14-MAY-10
+  edit_user: wy1
+  well_data_id: 6888467
+  well_id: 1448741
+- 
+  data_type: qctest_result_id
+  data_value: 2327175
+  edit_date: 28-APR-10
+  edit_user: wy1
+  well_data_id: 6888466
+  well_id: 1448741
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 22-FEB-11
+  edit_user: nm6
+  well_data_id: 9749082
+  well_id: 1935098
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 22-FEB-11
+  edit_user: nm6
+  well_data_id: 9749083
+  well_id: 1935099
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 22-FEB-11
+  edit_user: nm6
+  well_data_id: 9749087
+  well_id: 1935103
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 22-FEB-11
+  edit_user: nm6
+  well_data_id: 9749090
+  well_id: 1935106
+- 
+  data_type: cassette
+  data_value: L1L2_Bact_EM7
+  edit_date: 22-FEB-11
+  edit_user: nm6
+  well_data_id: 9749092
+  well_id: 1935108

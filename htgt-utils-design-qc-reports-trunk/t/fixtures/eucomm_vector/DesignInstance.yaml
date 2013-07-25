@@ -1,0 +1,25 @@
+--- 
+- 
+  design_id: 220202
+  design_instance_id: 122306
+  plate: 1002
+  source: regeneronRun4
+  well: A100
+- 
+  design_id: 41044
+  design_instance_id: 100768
+  plate: 26
+  source: ~
+  well: G06
+- 
+  design_id: 233442
+  design_instance_id: 124102
+  plate: 173
+  source: ~
+  well: D02
+- 
+  design_id: 258111
+  design_instance_id: 126802
+  plate: 196
+  source: ~
+  well: A07

@@ -1,0 +1,3961 @@
+---
+- 
+  design_instance_id: 102031
+  edit_date: ~
+  edit_user: ~
+  parent_well_id: ~
+  plate_id: 58
+  qctest_result_id: ~
+  well_id: 89765
+  well_name: A07
+- 
+  design_instance_id: 102031
+  edit_date: ~
+  edit_user: ~
+  parent_well_id: ~
+  plate_id: 58
+  qctest_result_id: ~
+  well_id: 89768
+  well_name: C07
+- 
+  design_instance_id: 102031
+  edit_date: ~
+  edit_user: ~
+  parent_well_id: 89765
+  plate_id: 586
+  qctest_result_id: ~
+  well_id: 89894
+  well_name: C07
+- 
+  design_instance_id: 102031
+  edit_date: ~
+  edit_user: ~
+  parent_well_id: 89894
+  plate_id: 587
+  qctest_result_id: ~
+  well_id: 89895
+  well_name: C07
+- 
+  design_instance_id: 102031
+  edit_date: 15-AUG-08
+  edit_user: apw
+  parent_well_id: 89894
+  plate_id: 1262
+  qctest_result_id: ~
+  well_id: 155251
+  well_name: E02
+- 
+  design_instance_id: 105990
+  edit_date: 23-APR-08
+  edit_user: apw
+  parent_well_id: 349784
+  plate_id: 2511
+  qctest_result_id: ~
+  well_id: 329858
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 22-APR-08
+  edit_user: ~
+  parent_well_id: ~
+  plate_id: 2729
+  qctest_result_id: ~
+  well_id: 347676
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 22-OCT-09
+  edit_user: apw
+  parent_well_id: 55
+  plate_id: 2751
+  qctest_result_id: ~
+  well_id: 349783
+  well_name: B02
+- 
+  design_instance_id: 105990
+  edit_date: 22-OCT-09
+  edit_user: apw
+  parent_well_id: 347676
+  plate_id: 2751
+  qctest_result_id: ~
+  well_id: 349784
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 17-FEB-09
+  edit_user: wr1
+  parent_well_id: 612781
+  plate_id: 2881
+  qctest_result_id: ~
+  well_id: 361069
+  well_name: EP00128_E04
+- 
+  design_instance_id: 105990
+  edit_date: 17-FEB-09
+  edit_user: wr1
+  parent_well_id: 613681
+  plate_id: 3217
+  qctest_result_id: ~
+  well_id: 390940
+  well_name: EP00156_E02
+- 
+  design_instance_id: 110505
+  edit_date: 24-JUN-08
+  edit_user: ~
+  parent_well_id: ~
+  plate_id: 3249
+  qctest_result_id: ~
+  well_id: 393945
+  well_name: B08
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422698
+  well_name: EPD0156_5_G09
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422700
+  well_name: EPD0156_5_F11
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422715
+  well_name: EPD0156_5_D12
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422720
+  well_name: EPD0156_5_B09
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422726
+  well_name: EPD0156_5_E11
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422727
+  well_name: EPD0156_5_B11
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422731
+  well_name: EPD0156_5_D10
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422738
+  well_name: EPD0156_5_A12
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422739
+  well_name: EPD0156_5_H11
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422740
+  well_name: EPD0156_5_G12
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422746
+  well_name: EPD0156_5_G11
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422747
+  well_name: EPD0156_5_E12
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422752
+  well_name: EPD0156_5_A11
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422753
+  well_name: EPD0156_5_B12
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422757
+  well_name: EPD0156_5_C10
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422758
+  well_name: EPD0156_5_H12
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422759
+  well_name: EPD0156_5_B10
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422762
+  well_name: EPD0156_5_C11
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422763
+  well_name: EPD0156_5_G10
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422764
+  well_name: EPD0156_5_A10
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422765
+  well_name: EPD0156_5_H10
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422766
+  well_name: EPD0156_5_E10
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422767
+  well_name: EPD0156_5_D11
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422770
+  well_name: EPD0156_5_E09
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422771
+  well_name: EPD0156_5_C09
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422781
+  well_name: EPD0156_5_D09
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422782
+  well_name: EPD0156_5_A09
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422784
+  well_name: EPD0156_5_F12
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422785
+  well_name: EPD0156_5_F10
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422788
+  well_name: EPD0156_5_C12
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422791
+  well_name: EPD0156_5_F09
+- 
+  design_instance_id: 105990
+  edit_date: 24-JUL-08
+  edit_user: ~
+  parent_well_id: 390940
+  plate_id: 3557
+  qctest_result_id: ~
+  well_id: 422792
+  well_name: EPD0156_5_H09
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422727
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426235
+  well_name: FP0653_B11
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422782
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426240
+  well_name: FP0653_A09
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422781
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426241
+  well_name: FP0653_D09
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422771
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426242
+  well_name: FP0653_C09
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422770
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426243
+  well_name: FP0653_E09
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422753
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426245
+  well_name: FP0653_B12
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422740
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426247
+  well_name: FP0653_G12
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422731
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426255
+  well_name: FP0653_D10
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422739
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426258
+  well_name: FP0653_H11
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422764
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426264
+  well_name: FP0653_A10
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422792
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426265
+  well_name: FP0653_H09
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422747
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426267
+  well_name: FP0653_E12
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422698
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426268
+  well_name: FP0653_G09
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422759
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426270
+  well_name: FP0653_B10
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422720
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426279
+  well_name: FP0653_B09
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422791
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426284
+  well_name: FP0653_F09
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422758
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426287
+  well_name: FP0653_H12
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422766
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426288
+  well_name: FP0653_E10
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422700
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426290
+  well_name: FP0653_F11
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422784
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426292
+  well_name: FP0653_F12
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422785
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426299
+  well_name: FP0653_F10
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422765
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426300
+  well_name: FP0653_H10
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422788
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426302
+  well_name: FP0653_C12
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422763
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426304
+  well_name: FP0653_G10
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422757
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426306
+  well_name: FP0653_C10
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422762
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426307
+  well_name: FP0653_C11
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422752
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426311
+  well_name: FP0653_A11
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422738
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426315
+  well_name: FP0653_A12
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422767
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426318
+  well_name: FP0653_D11
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422726
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426319
+  well_name: FP0653_E11
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422715
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426321
+  well_name: FP0653_D12
+- 
+  design_instance_id: 105990
+  edit_date: 29-JUL-08
+  edit_user: ~
+  parent_well_id: 422746
+  plate_id: 3598
+  qctest_result_id: ~
+  well_id: 426326
+  well_name: FP0653_G11
+- 
+  design_instance_id: 105990
+  edit_date: 04-AUG-08
+  edit_user: ~
+  parent_well_id: 329858
+  plate_id: 3679
+  qctest_result_id: ~
+  well_id: 433721
+  well_name: B03
+- 
+  design_instance_id: 102031
+  edit_date: 08-AUG-08
+  edit_user: ~
+  parent_well_id: 89895
+  plate_id: 3725
+  qctest_result_id: ~
+  well_id: 437768
+  well_name: HEP00512_B01
+- 
+  design_instance_id: 110505
+  edit_date: 15-FEB-10
+  edit_user: apw
+  parent_well_id: 393945
+  plate_id: 3948
+  qctest_result_id: ~
+  well_id: 458263
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 09-SEP-08
+  edit_user: apw
+  parent_well_id: 458263
+  plate_id: 3951
+  qctest_result_id: ~
+  well_id: 458551
+  well_name: B08
+- 
+  design_instance_id: 102031
+  edit_date: 10-SEP-08
+  edit_user: wr1
+  parent_well_id: 155251
+  plate_id: 3989
+  qctest_result_id: ~
+  well_id: 461827
+  well_name: E02
+- 
+  design_instance_id: 110505
+  edit_date: 03-OCT-08
+  edit_user: apw
+  parent_well_id: 393945
+  plate_id: 4176
+  qctest_result_id: ~
+  well_id: 479127
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 03-OCT-08
+  edit_user: apw
+  parent_well_id: 479127
+  plate_id: 4178
+  qctest_result_id: ~
+  well_id: 479319
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 05-OCT-08
+  edit_user: apw
+  parent_well_id: 458263
+  plate_id: 4217
+  qctest_result_id: ~
+  well_id: 482862
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 23-OCT-08
+  edit_user: apw
+  parent_well_id: 479127
+  plate_id: 4422
+  qctest_result_id: ~
+  well_id: 501670
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 21-NOV-08
+  edit_user: wr1
+  parent_well_id: 479319
+  plate_id: 4776
+  qctest_result_id: ~
+  well_id: 534775
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 21-NOV-08
+  edit_user: wr1
+  parent_well_id: 501670
+  plate_id: 4777
+  qctest_result_id: ~
+  well_id: 534871
+  well_name: B08
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 89895
+  plate_id: 4969
+  qctest_result_id: ~
+  well_id: 552392
+  well_name: HEP00527_D05
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553175
+  well_name: HEPD0527_8_B10
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553176
+  well_name: HEPD0527_8_F10
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553184
+  well_name: HEPD0527_8_B09
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553194
+  well_name: HEPD0527_8_H10
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553196
+  well_name: HEPD0527_8_G10
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553199
+  well_name: HEPD0527_8_E10
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553204
+  well_name: HEPD0527_8_E09
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553213
+  well_name: HEPD0527_8_A10
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553214
+  well_name: HEPD0527_8_G09
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553216
+  well_name: HEPD0527_8_C10
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553217
+  well_name: HEPD0527_8_A09
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553225
+  well_name: HEPD0527_8_D10
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553233
+  well_name: HEPD0527_8_C09
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553235
+  well_name: HEPD0527_8_F09
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553251
+  well_name: HEPD0527_8_D09
+- 
+  design_instance_id: 102031
+  edit_date: 06-MAY-09
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 552392
+  plate_id: 4978
+  qctest_result_id: ~
+  well_id: 553254
+  well_name: HEPD0527_8_H09
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553175
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553939
+  well_name: HFP0527_8_B10
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553204
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553942
+  well_name: HFP0527_8_E09
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553176
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553950
+  well_name: HFP0527_8_F10
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553235
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553952
+  well_name: HFP0527_8_F09
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553217
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553958
+  well_name: HFP0527_8_A09
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553199
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553962
+  well_name: HFP0527_8_E10
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553214
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553969
+  well_name: HFP0527_8_G09
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553216
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553970
+  well_name: HFP0527_8_C10
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553213
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553983
+  well_name: HFP0527_8_A10
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553251
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553988
+  well_name: HFP0527_8_D09
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553196
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553994
+  well_name: HFP0527_8_G10
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553225
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553995
+  well_name: HFP0527_8_D10
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553194
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 553997
+  well_name: HFP0527_8_H10
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553254
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 554002
+  well_name: HFP0527_8_H09
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553184
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 554015
+  well_name: HFP0527_8_B09
+- 
+  design_instance_id: 102031
+  edit_date: 10-DEC-08
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 553233
+  plate_id: 4986
+  qctest_result_id: ~
+  well_id: 554022
+  well_name: HFP0527_8_C09
+- 
+  design_instance_id: 105990
+  edit_date: 29-JAN-09
+  edit_user: apw
+  parent_well_id: 347676
+  plate_id: 5402
+  qctest_result_id: ~
+  well_id: 592461
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 11-FEB-09
+  edit_user: wr1
+  parent_well_id: 329858
+  plate_id: 5621
+  qctest_result_id: ~
+  well_id: 612781
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 16-FEB-09
+  edit_user: wr1
+  parent_well_id: 329858
+  plate_id: 5630
+  qctest_result_id: ~
+  well_id: 613681
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 24-FEB-09
+  edit_user: sh13
+  parent_well_id: 349784
+  plate_id: 5738
+  qctest_result_id: ~
+  well_id: 623885
+  well_name: B03
+- 
+  design_instance_id: 110505
+  edit_date: 16-MAR-09
+  edit_user: de2
+  parent_well_id: 501670
+  plate_id: 5893
+  qctest_result_id: ~
+  well_id: 638040
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6816
+  qctest_result_id: ~
+  well_id: 723747
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6816
+  qctest_result_id: ~
+  well_id: 723790
+  well_name: C08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6818
+  qctest_result_id: ~
+  well_id: 723939
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6820
+  qctest_result_id: ~
+  well_id: 724131
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6822
+  qctest_result_id: ~
+  well_id: 724323
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6840
+  qctest_result_id: ~
+  well_id: 726051
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6843
+  qctest_result_id: ~
+  well_id: 726321
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6845
+  qctest_result_id: ~
+  well_id: 726531
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6846
+  qctest_result_id: ~
+  well_id: 726627
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6856
+  qctest_result_id: ~
+  well_id: 727587
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6858
+  qctest_result_id: ~
+  well_id: 727779
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6860
+  qctest_result_id: ~
+  well_id: 727971
+  well_name: B08
+- 
+  design_instance_id: 110505
+  edit_date: 25-JUN-09
+  edit_user: do2
+  parent_well_id: 458263
+  plate_id: 6862
+  qctest_result_id: ~
+  well_id: 728163
+  well_name: B08
+- 
+  design_instance_id: 105990
+  edit_date: 25-JUN-09
+  edit_user: vvi
+  parent_well_id: 349784
+  plate_id: 7678
+  qctest_result_id: ~
+  well_id: 804881
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 25-JUN-09
+  edit_user: vvi
+  parent_well_id: 349784
+  plate_id: 7679
+  qctest_result_id: ~
+  well_id: 804977
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 25-JUN-09
+  edit_user: vvi
+  parent_well_id: 349784
+  plate_id: 7680
+  qctest_result_id: ~
+  well_id: 805073
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 25-JUN-09
+  edit_user: vvi
+  parent_well_id: 349784
+  plate_id: 7681
+  qctest_result_id: ~
+  well_id: 805169
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 25-JUN-09
+  edit_user: vvi
+  parent_well_id: 349784
+  plate_id: 7683
+  qctest_result_id: ~
+  well_id: 805361
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 25-JUN-09
+  edit_user: vvi
+  parent_well_id: 349784
+  plate_id: 7684
+  qctest_result_id: ~
+  well_id: 805457
+  well_name: B03
+- 
+  design_instance_id: 105990
+  edit_date: 25-JUN-09
+  edit_user: vvi
+  parent_well_id: 349784
+  plate_id: 7685
+  qctest_result_id: ~
+  well_id: 805553
+  well_name: B03
+- 
+  design_instance_id: 102031
+  edit_date: 25-AUG-09
+  edit_user: rm7
+  parent_well_id: 89894
+  plate_id: 9033
+  qctest_result_id: ~
+  well_id: 930637
+  well_name: E02
+- 
+  design_instance_id: 102031
+  edit_date: 25-AUG-09
+  edit_user: rm7
+  parent_well_id: 89894
+  plate_id: 9034
+  qctest_result_id: ~
+  well_id: 930733
+  well_name: E02
+- 
+  design_instance_id: 102031
+  edit_date: 25-AUG-09
+  edit_user: rm7
+  parent_well_id: 89894
+  plate_id: 9035
+  qctest_result_id: ~
+  well_id: 930829
+  well_name: E02
+- 
+  design_instance_id: 102031
+  edit_date: 25-AUG-09
+  edit_user: rm7
+  parent_well_id: 89894
+  plate_id: 9036
+  qctest_result_id: ~
+  well_id: 930925
+  well_name: E02
+- 
+  design_instance_id: 102031
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  parent_well_id: 89894
+  plate_id: 10586
+  qctest_result_id: ~
+  well_id: 1076659
+  well_name: C07
+- 
+  design_instance_id: 102031
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  parent_well_id: 89894
+  plate_id: 10587
+  qctest_result_id: ~
+  well_id: 1076755
+  well_name: C07
+- 
+  design_instance_id: 102031
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  parent_well_id: 89894
+  plate_id: 10588
+  qctest_result_id: ~
+  well_id: 1076851
+  well_name: C07
+- 
+  design_instance_id: 102031
+  edit_date: 22-SEP-09
+  edit_user: rm7
+  parent_well_id: 89894
+  plate_id: 10589
+  qctest_result_id: ~
+  well_id: 1076947
+  well_name: C07
+- 
+  design_instance_id: 110505
+  edit_date: 25-MAR-10
+  edit_user: apw
+  parent_well_id: 726531
+  plate_id: 13999
+  qctest_result_id: ~
+  well_id: 1391051
+  well_name: H05
+- 
+  design_instance_id: 110505
+  edit_date: 15-JUN-10
+  edit_user: cb15
+  parent_well_id: 1391051
+  plate_id: 15738
+  qctest_result_id: ~
+  well_id: 1549906
+  well_name: H05
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422782
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585931
+  well_name: LOAT0006_1_A09
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422764
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585932
+  well_name: LOAT0006_1_A10
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422752
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585933
+  well_name: LOAT0006_1_A11
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422738
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585934
+  well_name: LOAT0006_1_A12
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422720
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585943
+  well_name: LOAT0006_1_B09
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422759
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585944
+  well_name: LOAT0006_1_B10
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422727
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585945
+  well_name: LOAT0006_1_B11
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422753
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585946
+  well_name: LOAT0006_1_B12
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422771
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585955
+  well_name: LOAT0006_1_C09
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422757
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585956
+  well_name: LOAT0006_1_C10
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422762
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585957
+  well_name: LOAT0006_1_C11
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422788
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585958
+  well_name: LOAT0006_1_C12
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422781
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585967
+  well_name: LOAT0006_1_D09
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422731
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585968
+  well_name: LOAT0006_1_D10
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422767
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585969
+  well_name: LOAT0006_1_D11
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422715
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585970
+  well_name: LOAT0006_1_D12
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422770
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585979
+  well_name: LOAT0006_1_E09
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422766
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585980
+  well_name: LOAT0006_1_E10
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422726
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585981
+  well_name: LOAT0006_1_E11
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422747
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585982
+  well_name: LOAT0006_1_E12
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422791
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585991
+  well_name: LOAT0006_1_F09
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422785
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585992
+  well_name: LOAT0006_1_F10
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422700
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585993
+  well_name: LOAT0006_1_F11
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422784
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1585994
+  well_name: LOAT0006_1_F12
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422698
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1586003
+  well_name: LOAT0006_1_G09
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422763
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1586004
+  well_name: LOAT0006_1_G10
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422746
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1586005
+  well_name: LOAT0006_1_G11
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422740
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1586006
+  well_name: LOAT0006_1_G12
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422792
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1586015
+  well_name: LOAT0006_1_H09
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422765
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1586016
+  well_name: LOAT0006_1_H10
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422739
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1586017
+  well_name: LOAT0006_1_H11
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: apw
+  parent_well_id: 422758
+  plate_id: 16131
+  qctest_result_id: ~
+  well_id: 1586018
+  well_name: LOAT0006_1_H12
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: wr1
+  parent_well_id: 422752
+  plate_id: 16156
+  qctest_result_id: ~
+  well_id: 1588352
+  well_name: RFP0014_C06
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: wr1
+  parent_well_id: 422759
+  plate_id: 16156
+  qctest_result_id: ~
+  well_id: 1588357
+  well_name: RFP0014_C11
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: wr1
+  parent_well_id: 422727
+  plate_id: 16156
+  qctest_result_id: ~
+  well_id: 1588358
+  well_name: RFP0014_C12
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: wr1
+  parent_well_id: 422781
+  plate_id: 16156
+  qctest_result_id: ~
+  well_id: 1588362
+  well_name: RFP0014_D04
+- 
+  design_instance_id: 105990
+  edit_date: 09-JUL-10
+  edit_user: wr1
+  parent_well_id: 422767
+  plate_id: 16156
+  qctest_result_id: ~
+  well_id: 1588363
+  well_name: RFP0014_D05
+- 
+  design_instance_id: 102031
+  edit_date: 01-SEP-10
+  edit_user: ms10
+  parent_well_id: 89768
+  plate_id: 17106
+  qctest_result_id: ~
+  well_id: 1674728
+  well_name: C07
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 89895
+  plate_id: 18818
+  qctest_result_id: ~
+  well_id: 1833885
+  well_name: WBSB_E02
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835781
+  well_name: WBSB003_E06
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835783
+  well_name: WBSB003_B05
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835787
+  well_name: WBSB003_C07
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835788
+  well_name: WBSB003_G08
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835792
+  well_name: WBSB003_B08
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835794
+  well_name: WBSB003_D08
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835799
+  well_name: WBSB003_D05
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835805
+  well_name: WBSB003_G07
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835807
+  well_name: WBSB003_A06
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835809
+  well_name: WBSB003_C06
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835810
+  well_name: WBSB003_H08
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835811
+  well_name: WBSB003_F07
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835816
+  well_name: WBSB003_E08
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835826
+  well_name: WBSB003_C05
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835827
+  well_name: WBSB003_A08
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835829
+  well_name: WBSB003_F08
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835831
+  well_name: WBSB003_H06
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835832
+  well_name: WBSB003_B07
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835834
+  well_name: WBSB003_D07
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835836
+  well_name: WBSB003_G05
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835839
+  well_name: WBSB003_E07
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835840
+  well_name: WBSB003_D06
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835842
+  well_name: WBSB003_F05
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835843
+  well_name: WBSB003_E05
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835846
+  well_name: WBSB003_F06
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835847
+  well_name: WBSB003_G06
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835849
+  well_name: WBSB003_B06
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835852
+  well_name: WBSB003_A05
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835853
+  well_name: WBSB003_H05
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835854
+  well_name: WBSB003_A07
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835864
+  well_name: WBSB003_H07
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18838
+  qctest_result_id: ~
+  well_id: 1835870
+  well_name: WBSB003_C08
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835871
+  well_name: WBSB004_B12
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835872
+  well_name: WBSB004_B11
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835873
+  well_name: WBSB004_C09
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835876
+  well_name: WBSB004_H12
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835879
+  well_name: WBSB004_E12
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835880
+  well_name: WBSB004_H11
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835883
+  well_name: WBSB004_H10
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835884
+  well_name: WBSB004_A10
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835885
+  well_name: WBSB004_F11
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835888
+  well_name: WBSB004_H09
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835893
+  well_name: WBSB004_B09
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835894
+  well_name: WBSB004_G11
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835895
+  well_name: WBSB004_E10
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835897
+  well_name: WBSB004_C12
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835901
+  well_name: WBSB004_F10
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835903
+  well_name: WBSB004_F12
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835905
+  well_name: WBSB004_G09
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835909
+  well_name: WBSB004_D11
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835914
+  well_name: WBSB004_D10
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835916
+  well_name: WBSB004_C10
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835917
+  well_name: WBSB004_B10
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835924
+  well_name: WBSB004_A12
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835926
+  well_name: WBSB004_E09
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835927
+  well_name: WBSB004_E11
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835929
+  well_name: WBSB004_F09
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835937
+  well_name: WBSB004_A09
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835943
+  well_name: WBSB004_D12
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835945
+  well_name: WBSB004_C11
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835947
+  well_name: WBSB004_G12
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835948
+  well_name: WBSB004_G10
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835952
+  well_name: WBSB004_A11
+- 
+  design_instance_id: 102031
+  edit_date: 09-DEC-10
+  edit_user: wr1
+  parent_well_id: 1833885
+  plate_id: 18839
+  qctest_result_id: ~
+  well_id: 1835959
+  well_name: WBSB004_D09
+- 
+  design_instance_id: 102031
+  edit_date: 17-DEC-10
+  edit_user: wr1
+  parent_well_id: ~
+  plate_id: 18840
+  qctest_result_id: ~
+  well_id: 1836009
+  well_name: WBSB005_D11
+- 
+  design_instance_id: 102031
+  edit_date: 17-DEC-10
+  edit_user: wr1
+  parent_well_id: ~
+  plate_id: 18840
+  qctest_result_id: ~
+  well_id: 1836014
+  well_name: WBSB005_H12
+- 
+  design_instance_id: 102031
+  edit_date: 17-DEC-10
+  edit_user: wr1
+  parent_well_id: ~
+  plate_id: 18840
+  qctest_result_id: ~
+  well_id: 1836020
+  well_name: WBSB005_F10
+- 
+  design_instance_id: 102031
+  edit_date: 17-DEC-10
+  edit_user: wr1
+  parent_well_id: ~
+  plate_id: 18840
+  qctest_result_id: ~
+  well_id: 1836024
+  well_name: WBSB005_A10
+- 
+  design_instance_id: 125775
+  edit_date: 05-JUN-09
+  edit_user: mp7
+  parent_well_id: ~
+  plate_id: 7244
+  qctest_result_id: ~
+  well_id: 763696
+  well_name: C10
+- 
+  design_instance_id: 130086
+  edit_date: 28-SEP-10
+  edit_user: ms10
+  parent_well_id: ~
+  plate_id: 17647
+  qctest_result_id: ~
+  well_id: 1724363
+  well_name: A01
+- 
+  design_instance_id: 130086
+  edit_date: 05-SEP-11
+  edit_user: jfp
+  parent_well_id: 1724363
+  plate_id: 18853
+  qctest_result_id: ~
+  well_id: 1837200
+  well_name: A01
+- 
+  design_instance_id: 130086
+  edit_date: 23-FEB-11
+  edit_user: jfp
+  parent_well_id: 1837200
+  plate_id: 19000
+  qctest_result_id: ~
+  well_id: 1851463
+  well_name: A01
+- 
+  design_instance_id: 130086
+  edit_date: 23-FEB-11
+  edit_user: team87
+  parent_well_id: 1837200
+  plate_id: 19000
+  qctest_result_id: ~
+  well_id: 1851465
+  well_name: A03
+- 
+  design_instance_id: 130086
+  edit_date: 23-FEB-11
+  edit_user: team87
+  parent_well_id: 1837200
+  plate_id: 19000
+  qctest_result_id: ~
+  well_id: 1851535
+  well_name: G01
+- 
+  design_instance_id: 130086
+  edit_date: 23-FEB-11
+  edit_user: team87
+  parent_well_id: 1837200
+  plate_id: 19000
+  qctest_result_id: ~
+  well_id: 1851537
+  well_name: G03
+- 
+  design_instance_id: 130086
+  edit_date: 23-FEB-11
+  edit_user: team87
+  parent_well_id: 1837200
+  plate_id: 19000
+  qctest_result_id: ~
+  well_id: 1851550
+  well_name: H04
+- 
+  design_instance_id: 130086
+  edit_date: 23-FEB-11
+  edit_user: team87
+  parent_well_id: 1837200
+  plate_id: 19000
+  qctest_result_id: ~
+  well_id: 1851552
+  well_name: H06
+- 
+  design_instance_id: 130086
+  edit_date: 23-FEB-11
+  edit_user: team87
+  parent_well_id: 1837200
+  plate_id: 19001
+  qctest_result_id: ~
+  well_id: 1851645
+  well_name: H03
+- 
+  design_instance_id: 130086
+  edit_date: 23-FEB-11
+  edit_user: jfp
+  parent_well_id: 1837200
+  plate_id: 19003
+  qctest_result_id: ~
+  well_id: 1851751
+  well_name: A01
+- 
+  design_instance_id: 130086
+  edit_date: 23-FEB-11
+  edit_user: jfp
+  parent_well_id: 1837200
+  plate_id: 19007
+  qctest_result_id: ~
+  well_id: 1852135
+  well_name: A01
+- 
+  design_instance_id: 130086
+  edit_date: 05-SEP-11
+  edit_user: ms10
+  parent_well_id: 1327000
+  plate_id: 19277
+  qctest_result_id: ~
+  well_id: 1876436
+  well_name: A01
+- 
+  design_instance_id: 130086
+  edit_date: 05-SEP-11
+  edit_user: ms10
+  parent_well_id: 1851751
+  plate_id: 19277
+  qctest_result_id: ~
+  well_id: 1876437
+  well_name: A02
+- 
+  design_instance_id: 130086
+  edit_date: 12-JAN-11
+  edit_user: team87
+  parent_well_id: 1837200
+  plate_id: 19278
+  qctest_result_id: ~
+  well_id: 1876514
+  well_name: H03
+- 
+  design_instance_id: 130086
+  edit_date: 12-JAN-11
+  edit_user: team87
+  parent_well_id: 1837200
+  plate_id: 19278
+  qctest_result_id: ~
+  well_id: 1876519
+  well_name: F09
+- 
+  design_instance_id: 130086
+  edit_date: 12-JAN-11
+  edit_user: team87
+  parent_well_id: 1837200
+  plate_id: 19278
+  qctest_result_id: ~
+  well_id: 1876537
+  well_name: A06
+- 
+  design_instance_id: 130086
+  edit_date: 12-JAN-11
+  edit_user: team87
+  parent_well_id: 1837200
+  plate_id: 19278
+  qctest_result_id: ~
+  well_id: 1876577
+  well_name: B12
+- 
+  design_instance_id: 130086
+  edit_date: 12-JAN-11
+  edit_user: ms10
+  parent_well_id: 1837200
+  plate_id: 19284
+  qctest_result_id: ~
+  well_id: 1877108
+  well_name: A01
+- 
+  design_instance_id: 130086
+  edit_date: 24-JAN-11
+  edit_user: ms10
+  parent_well_id: 1851645
+  plate_id: 19448
+  qctest_result_id: ~
+  well_id: 1891902
+  well_name: A01
+- 
+  design_instance_id: 130086
+  edit_date: 24-JAN-11
+  edit_user: ms10
+  parent_well_id: 1891902
+  plate_id: 19449
+  qctest_result_id: ~
+  well_id: 1892039
+  well_name: A01
+- 
+  design_instance_id: 130086
+  edit_date: 08-FEB-11
+  edit_user: wr1
+  parent_well_id: 1892039
+  plate_id: 19665
+  qctest_result_id: ~
+  well_id: 1911765
+  well_name: HEP00715_E01
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960587
+  well_name: HEPD0715_9_F01
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960590
+  well_name: HEPD0715_9_A02
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960594
+  well_name: HEPD0715_9_C04
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960597
+  well_name: HEPD0715_9_F04
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960598
+  well_name: HEPD0715_9_E02
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960600
+  well_name: HEPD0715_9_C03
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960603
+  well_name: HEPD0715_9_D03
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960608
+  well_name: HEPD0715_9_B01
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960610
+  well_name: HEPD0715_9_B03
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960612
+  well_name: HEPD0715_9_A01
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960617
+  well_name: HEPD0715_9_F02
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960620
+  well_name: HEPD0715_9_C01
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960623
+  well_name: HEPD0715_9_H02
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960624
+  well_name: HEPD0715_9_G03
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960626
+  well_name: HEPD0715_9_B02
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960629
+  well_name: HEPD0715_9_H04
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960634
+  well_name: HEPD0715_9_F03
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960635
+  well_name: HEPD0715_9_H01
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960643
+  well_name: HEPD0715_9_D01
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960644
+  well_name: HEPD0715_9_H03
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960646
+  well_name: HEPD0715_9_G02
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960658
+  well_name: HEPD0715_9_E03
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960660
+  well_name: HEPD0715_9_G04
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960661
+  well_name: HEPD0715_9_B04
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960663
+  well_name: HEPD0715_9_D04
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960665
+  well_name: HEPD0715_9_A03
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960666
+  well_name: HEPD0715_9_E04
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960667
+  well_name: HEPD0715_9_G01
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960669
+  well_name: HEPD0715_9_C02
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960670
+  well_name: HEPD0715_9_E01
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960672
+  well_name: HEPD0715_9_D02
+- 
+  design_instance_id: 130086
+  edit_date: 07-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1911765
+  plate_id: 20193
+  qctest_result_id: ~
+  well_id: 1960682
+  well_name: HEPD0715_9_A04
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960620
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974098
+  well_name: HFP0715_9_C01
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960587
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974101
+  well_name: HFP0715_9_F01
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960590
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974106
+  well_name: HFP0715_9_A02
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960610
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974111
+  well_name: HFP0715_9_B03
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960643
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974113
+  well_name: HFP0715_9_D01
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960603
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974117
+  well_name: HFP0715_9_D03
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960608
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974121
+  well_name: HFP0715_9_B01
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960672
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974122
+  well_name: HFP0715_9_D02
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960682
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974125
+  well_name: HFP0715_9_A04
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960646
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974126
+  well_name: HFP0715_9_G02
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960635
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974129
+  well_name: HFP0715_9_H01
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960661
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974131
+  well_name: HFP0715_9_B04
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960667
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974134
+  well_name: HFP0715_9_G01
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960626
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974136
+  well_name: HFP0715_9_B02
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960624
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974137
+  well_name: HFP0715_9_G03
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960663
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974139
+  well_name: HFP0715_9_D04
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960669
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974142
+  well_name: HFP0715_9_C02
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960644
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974144
+  well_name: HFP0715_9_H03
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960623
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974148
+  well_name: HFP0715_9_H02
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960658
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974149
+  well_name: HFP0715_9_E03
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960660
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974150
+  well_name: HFP0715_9_G04
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960666
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974157
+  well_name: HFP0715_9_E04
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960634
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974161
+  well_name: HFP0715_9_F03
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960594
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974163
+  well_name: HFP0715_9_C04
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960597
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974166
+  well_name: HFP0715_9_F04
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960598
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974168
+  well_name: HFP0715_9_E02
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960670
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974170
+  well_name: HFP0715_9_E01
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960629
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974183
+  well_name: HFP0715_9_H04
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960600
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974184
+  well_name: HFP0715_9_C03
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960612
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974185
+  well_name: HFP0715_9_A01
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960617
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974189
+  well_name: HFP0715_9_F02
+- 
+  design_instance_id: 130086
+  edit_date: 21-MAR-11
+  edit_user: antje.buerger@gsf.de
+  parent_well_id: 1960665
+  plate_id: 20342
+  qctest_result_id: ~
+  well_id: 1974190
+  well_name: HFP0715_9_A03
+- 
+  design_instance_id: 123073
+  edit_date: 27-JAN-09
+  edit_user: ~
+  parent_well_id: ~
+  plate_id: 5401
+  qctest_result_id: ~
+  well_id: 592402
+  well_name: E08
+- 
+  design_instance_id: 123073
+  edit_date: 22-APR-09
+  edit_user: wy1
+  parent_well_id: 592402
+  plate_id: 6263
+  qctest_result_id: ~
+  well_id: 672032
+  well_name: E08
+- 
+  design_instance_id: 123073
+  edit_date: 22-APR-09
+  edit_user: wy1
+  parent_well_id: 672032
+  plate_id: 6264
+  qctest_result_id: ~
+  well_id: 672128
+  well_name: E08
+- 
+  design_instance_id: 130255
+  edit_date: 01-OCT-10
+  edit_user: ms10
+  parent_well_id: ~
+  plate_id: 17686
+  qctest_result_id: ~
+  well_id: 1728203
+  well_name: A01
+- 
+  design_instance_id: 130255
+  edit_date: 23-NOV-10
+  edit_user: jfp
+  parent_well_id: 1728203
+  plate_id: 18617
+  qctest_result_id: ~
+  well_id: 1815444
+  well_name: A01
+- 
+  design_instance_id: 130255
+  edit_date: 05-SEP-11
+  edit_user: team87
+  parent_well_id: 1815444
+  plate_id: 19016
+  qctest_result_id: ~
+  well_id: 1853044
+  well_name: A01
+- 
+  design_instance_id: 130255
+  edit_date: 05-SEP-11
+  edit_user: team87
+  parent_well_id: 1815444
+  plate_id: 19016
+  qctest_result_id: ~
+  well_id: 1853045
+  well_name: A02
+- 
+  design_instance_id: 130255
+  edit_date: 04-JAN-11
+  edit_user: ms10
+  parent_well_id: 1815444
+  plate_id: 19017
+  qctest_result_id: ~
+  well_id: 1853140
+  well_name: A01
+- 
+  design_instance_id: 130255
+  edit_date: 04-JAN-11
+  edit_user: ms10
+  parent_well_id: 1815444
+  plate_id: 19023
+  qctest_result_id: ~
+  well_id: 1853716
+  well_name: A01
+- 
+  design_instance_id: 130255
+  edit_date: 18-JAN-11
+  edit_user: ms10
+  parent_well_id: 1728203
+  plate_id: 19368
+  qctest_result_id: ~
+  well_id: 1884714
+  well_name: A01
+- 
+  design_instance_id: 130255
+  edit_date: 19-JAN-11
+  edit_user: io1
+  parent_well_id: 1815444
+  plate_id: 19373
+  qctest_result_id: ~
+  well_id: 1885155
+  well_name: F06
+- 
+  design_instance_id: 130255
+  edit_date: 19-JAN-11
+  edit_user: io1
+  parent_well_id: 1815444
+  plate_id: 19373
+  qctest_result_id: ~
+  well_id: 1885185
+  well_name: A05
+- 
+  design_instance_id: 130255
+  edit_date: 19-JAN-11
+  edit_user: io1
+  parent_well_id: 1815444
+  plate_id: 19373
+  qctest_result_id: ~
+  well_id: 1885217
+  well_name: F10
+- 
+  design_instance_id: 130255
+  edit_date: 19-JAN-11
+  edit_user: io1
+  parent_well_id: 1815444
+  plate_id: 19373
+  qctest_result_id: ~
+  well_id: 1885221
+  well_name: B04
+- 
+  design_instance_id: 130255
+  edit_date: 19-JAN-11
+  edit_user: io1
+  parent_well_id: 1815444
+  plate_id: 19373
+  qctest_result_id: ~
+  well_id: 1885223
+  well_name: E12
+- 
+  design_instance_id: 130255
+  edit_date: 19-JAN-11
+  edit_user: io1
+  parent_well_id: 1815444
+  plate_id: 19373
+  qctest_result_id: ~
+  well_id: 1885224
+  well_name: H08
+- 
+  design_instance_id: 130255
+  edit_date: 19-JAN-11
+  edit_user: io1
+  parent_well_id: 1815444
+  plate_id: 19373
+  qctest_result_id: ~
+  well_id: 1885236
+  well_name: E10
+- 
+  design_instance_id: 130255
+  edit_date: 19-JAN-11
+  edit_user: io1
+  parent_well_id: 1815444
+  plate_id: 19373
+  qctest_result_id: ~
+  well_id: 1885242
+  well_name: F11
+- 
+  design_instance_id: 130255
+  edit_date: 24-JAN-11
+  edit_user: ms10
+  parent_well_id: 1885224
+  plate_id: 19448
+  qctest_result_id: ~
+  well_id: 1891942
+  well_name: D05
+- 
+  design_instance_id: 130255
+  edit_date: 24-JAN-11
+  edit_user: ms10
+  parent_well_id: 1891942
+  plate_id: 19449
+  qctest_result_id: ~
+  well_id: 1892011
+  well_name: D05
+- 
+  design_instance_id: 130255
+  edit_date: 25-FEB-11
+  edit_user: wr1
+  parent_well_id: 1892011
+  plate_id: 19946
+  qctest_result_id: ~
+  well_id: 1937784
+  well_name: HEP00717_B04
+- 
+  design_instance_id: 130255
+  edit_date: 11-APR-11
+  edit_user: wr1
+  parent_well_id: 1892011
+  plate_id: 20743
+  qctest_result_id: ~
+  well_id: 2011773
+  well_name: HEP00731_A05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065836
+  well_name: HEPD0731_2_G06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065838
+  well_name: HEPD0731_2_G05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065843
+  well_name: HEPD0731_2_G08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065847
+  well_name: HEPD0731_2_D08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065851
+  well_name: HEPD0731_2_C08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065852
+  well_name: HEPD0731_2_D07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065854
+  well_name: HEPD0731_2_H06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065859
+  well_name: HEPD0731_2_H08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065862
+  well_name: HEPD0731_2_E05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065864
+  well_name: HEPD0731_2_C07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065868
+  well_name: HEPD0731_2_G07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065873
+  well_name: HEPD0731_2_C05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065880
+  well_name: HEPD0731_2_F07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065881
+  well_name: HEPD0731_2_A07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065882
+  well_name: HEPD0731_2_F08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065883
+  well_name: HEPD0731_2_H07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065885
+  well_name: HEPD0731_2_A05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065888
+  well_name: HEPD0731_2_F06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065891
+  well_name: HEPD0731_2_H05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065892
+  well_name: HEPD0731_2_C06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065897
+  well_name: HEPD0731_2_D05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065905
+  well_name: HEPD0731_2_E06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065906
+  well_name: HEPD0731_2_F05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065907
+  well_name: HEPD0731_2_A06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065911
+  well_name: HEPD0731_2_B06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065915
+  well_name: HEPD0731_2_E08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065917
+  well_name: HEPD0731_2_B08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065919
+  well_name: HEPD0731_2_E07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065924
+  well_name: HEPD0731_2_A08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065928
+  well_name: HEPD0731_2_B07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065929
+  well_name: HEPD0731_2_D06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2011773
+  plate_id: 21331
+  qctest_result_id: ~
+  well_id: 2065930
+  well_name: HEPD0731_2_B05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065851
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066604
+  well_name: HFP0731_2_C08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065873
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066608
+  well_name: HFP0731_2_C05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065928
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066613
+  well_name: HFP0731_2_B07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065905
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066695
+  well_name: HFP0731_2_E06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065854
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066700
+  well_name: HFP0731_2_H06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065917
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066701
+  well_name: HFP0731_2_B08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065929
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066703
+  well_name: HFP0731_2_D06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065862
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066706
+  well_name: HFP0731_2_E05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065838
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066707
+  well_name: HFP0731_2_G05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065906
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066708
+  well_name: HFP0731_2_F05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065915
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066712
+  well_name: HFP0731_2_E08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065907
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066716
+  well_name: HFP0731_2_A06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065897
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066717
+  well_name: HFP0731_2_D05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065852
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066725
+  well_name: HFP0731_2_D07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065891
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066730
+  well_name: HFP0731_2_H05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065843
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066732
+  well_name: HFP0731_2_G08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065888
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066736
+  well_name: HFP0731_2_F06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065885
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066737
+  well_name: HFP0731_2_A05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065924
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066738
+  well_name: HFP0731_2_A08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065911
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066739
+  well_name: HFP0731_2_B06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065930
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066740
+  well_name: HFP0731_2_B05
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065847
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066745
+  well_name: HFP0731_2_D08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065868
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066746
+  well_name: HFP0731_2_G07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065880
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066747
+  well_name: HFP0731_2_F07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065859
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066753
+  well_name: HFP0731_2_H08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065882
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066758
+  well_name: HFP0731_2_F08
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065883
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066762
+  well_name: HFP0731_2_H07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065836
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066764
+  well_name: HFP0731_2_G06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065881
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066766
+  well_name: HFP0731_2_A07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065919
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066767
+  well_name: HFP0731_2_E07
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065892
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066768
+  well_name: HFP0731_2_C06
+- 
+  design_instance_id: 130255
+  edit_date: 17-MAY-11
+  edit_user: anne.heidenreich@helmholtz-muenchen.de
+  parent_well_id: 2065864
+  plate_id: 21340
+  qctest_result_id: ~
+  well_id: 2066774
+  well_name: HFP0731_2_C07
+- 
+  design_instance_id: 130255
+  edit_date: 01-JUN-11
+  edit_user: jg7
+  parent_well_id: 1885155
+  plate_id: 21709
+  qctest_result_id: ~
+  well_id: 2101460
+  well_name: D06
+- 
+  design_instance_id: 130255
+  edit_date: 01-JUN-11
+  edit_user: jg7
+  parent_well_id: 1885223
+  plate_id: 21709
+  qctest_result_id: ~
+  well_id: 2101461
+  well_name: D07
+- 
+  design_instance_id: 130255
+  edit_date: 01-JUN-11
+  edit_user: jg7
+  parent_well_id: 1885221
+  plate_id: 21709
+  qctest_result_id: ~
+  well_id: 2101464
+  well_name: D10
+- 
+  design_instance_id: 130255
+  edit_date: 15-JUL-11
+  edit_user: ka5
+  parent_well_id: 2101464
+  plate_id: 22387
+  qctest_result_id: ~
+  well_id: 2164325
+  well_name: D10
+- 
+  design_instance_id: 130255
+  edit_date: 15-JUL-11
+  edit_user: ka5
+  parent_well_id: 2101460
+  plate_id: 22387
+  qctest_result_id: ~
+  well_id: 2164360
+  well_name: D06
+- 
+  design_instance_id: 130255
+  edit_date: 15-JUL-11
+  edit_user: ka5
+  parent_well_id: 2101461
+  plate_id: 22387
+  qctest_result_id: ~
+  well_id: 2164361
+  well_name: D07

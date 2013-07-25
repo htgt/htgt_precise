@@ -1,0 +1,112 @@
+
+Gene Recovery
+-------------
+
+Possible states
+---------------
+
+* [rdr] In redesign/resynthesis recovery
+
+* [gwr] In gateway recovery
+
+* [acr] In alternate clone recovery
+
+* [rdr-c] Candidate for redesign/resynthesis recovery
+
+* [gwr-c] Candidate for gateway recovery
+
+* [acr-c] Candidate for alternate clone recovery
+
+
+Supplemental data
+-----------------
+
+rdr
+---
+
+* RDR wells
+
+gwr
+---
+
+* GWR wells
+
+acr
+---
+
+* ACR wells
+
+rdr-c
+-----
+
+* Design id
+
+gwr-c
+-----
+
+* PCS well
+
+acr-c
+-----
+
+* chosen clone names and wells
+* alternate clone wells
+
+Proposed table structure
+------------------------
+
+gr_status_code (
+  gr_status_code_id  PK
+  code               UNIQ
+  description
+)
+
+gr_gene_status (
+  gr_gene_status_id  PK
+  mgi_gene_id        UNIQ, FK
+  gr_status_code_id  FK
+)
+
+gr_redesign (
+  gr_redesign_id     PK
+  gr_gene_status_id  FK
+  rdr_well_id        FK
+)
+
+gr_gateway (
+  gr_gateway_id      PK
+  gr_gene_status_id  FK
+  gwr_well_id        FK
+)
+
+gr_alt_clone (
+  gr_alt_clone_id    PK
+  gr_gene_status_id  FK
+  acr_well_id        FK
+)
+
+grc_redesign (
+  grc_redesign_id    PK
+  gr_gene_status_id  FK
+  design_id          FK
+)
+
+grc_gateway (
+  grc_gateway_id     PK
+  gr_gene_status_id  FK
+  gwr_well_id        FK
+)
+
+grc_alt_clone_chosen (
+  grc_alt_clone_chosen_id  PK
+  gr_gene_status_id        FK
+  chosen_well_id           FK
+  clone_name
+)
+
+grc_alt_clone_alternate (
+  grc_alt_clone_alternate_id  PK
+  gr_gene_status_id           FK
+  alt_clone_well_id           FK
+)
+

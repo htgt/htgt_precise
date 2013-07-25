@@ -1,0 +1,18 @@
+--- 
+- 
+  artificial_intron_status_id: ~
+  artificial_intron_status_notes: ~
+  assembly_id: 101
+  build_id: 69.38
+  design_annotation_id: 27817
+  design_id: 446586
+  design_quality_status_id: valid
+  design_quality_status_notes: "Coding exons: ENSMUSE00000133990 ENSMUSE00000133994 ENSMUSE00000133988 ENSMUSE00000133993"
+  edited_by: design_checker
+  edited_date: 27-NOV-12 15.38.13.105549
+  final_status_id: valid
+  oligo_status_id: valid
+  oligo_status_notes: Number of bases from G5 to G3 oligo is 11237
+  target_gene: ENSMUSG00000023210
+  target_region_status_id: valid
+  target_region_status_notes: One gene found in target region ENSMUSG00000023210

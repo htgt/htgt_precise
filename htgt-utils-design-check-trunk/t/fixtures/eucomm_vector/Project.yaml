@@ -1,0 +1,2242 @@
+--- 
+- 
+  bac: C57BL/6J
+  backbone: L3L4_pD223_DTA_spec
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 41064
+  design_instance_id: 100851
+  design_plate_name: 27
+  design_well_name: E02
+  distribution_centre_url: mailto:mouseinterest@sanger.ac.uk
+  edit_date: 05-NOV-12
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 7
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 95306
+  intvec_pass_level: pass1
+  intvec_plate_name: PCS00027_A
+  intvec_well_name: E02
+  is_eucomm: ~
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: 1
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: 1
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 8704
+  phenotype_url: ~
+  project_id: 27306
+  project_status_id: 81
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 16
+      day_of_quarter: 16
+      day_of_week: 2
+      day_of_year: 290
+      hour: 0
+      minute: 0
+      month: 10
+      quarter: 4
+      second: 0
+      year: 2012
+    local_rd_days: 734792
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734792
+    utc_rd_secs: 0
+    utc_year: 2013
+  targeted_trap: 0
+  targeting_vector_id: 319813
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass2.2a
+  targvec_plate_name: PRPGS00027_A
+  targvec_well_name: E02
+  total_colonies: 264
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: L4L3_pD223_DTA_spec
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 80068
+  design_instance_id: 109178
+  design_plate_name: 96
+  design_well_name: H08
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 13
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 459050
+  intvec_pass_level: ~
+  intvec_plate_name: PCS00096_A
+  intvec_well_name: H08
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 8977
+  phenotype_url: ~
+  project_id: 47381
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 9
+      day_of_quarter: 9
+      day_of_week: 5
+      day_of_year: 99
+      hour: 0
+      minute: 0
+      month: 4
+      quarter: 2
+      second: 0
+      year: 2010
+    local_rd_days: 733871
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 733871
+    utc_rd_secs: 0
+    utc_year: 2011
+  targeted_trap: 0
+  targeting_vector_id: 732092
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass2.2
+  targvec_plate_name: PG00096_Z_1
+  targvec_well_name: H09
+  total_colonies: 164
+  vector_only: ~
+- 
+  bac: ~
+  backbone: L3L4_pD223_DTA_spec
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 278619
+  design_instance_id: 130178
+  design_plate_name: 222
+  design_well_name: F08
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 10
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 1837197
+  intvec_pass_level: ~
+  intvec_plate_name: PCS00222_A
+  intvec_well_name: F08
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 39453
+  phenotype_url: ~
+  project_id: 92672
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 9
+      day_of_quarter: 9
+      day_of_week: 6
+      day_of_year: 99
+      hour: 0
+      minute: 0
+      month: 4
+      quarter: 2
+      second: 0
+      year: 2011
+    local_rd_days: 734236
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734236
+    utc_rd_secs: 0
+    utc_year: 2012
+  targeted_trap: 12
+  targeting_vector_id: 1851967
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass4.1
+  targvec_plate_name: PG00222_Z_6
+  targvec_well_name: C01
+  total_colonies: 420
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: L4L3_pD223_DTA_spec
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 95294
+  design_instance_id: 109191
+  design_plate_name: 96
+  design_well_name: G01
+  distribution_centre_url: ~
+  edit_date: 25-OCT-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 10
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 458999
+  intvec_pass_level: ~
+  intvec_plate_name: PCS00096_A
+  intvec_well_name: G01
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: 1
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 23560
+  phenotype_url: ~
+  project_id: 47402
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 25
+      day_of_quarter: 25
+      day_of_week: 2
+      day_of_year: 298
+      hour: 0
+      minute: 0
+      month: 10
+      quarter: 4
+      second: 0
+      year: 2011
+    local_rd_days: 734435
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734435
+    utc_rd_secs: 0
+    utc_year: 2012
+  targeted_trap: 6
+  targeting_vector_id: 733219
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass3
+  targvec_plate_name: PG00096_Y_3
+  targvec_well_name: G01
+  total_colonies: 165
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: L4L3_pD223_DTA_spec
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 39205
+  design_instance_id: 102898
+  design_plate_name: 44
+  design_well_name: G10
+  distribution_centre_url: ~
+  edit_date: 16-OCT-12
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 7
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 92219
+  intvec_pass_level: pass1
+  intvec_plate_name: PCS00044_A
+  intvec_well_name: G10
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 31441
+  phenotype_url: ~
+  project_id: 34994
+  project_status_id: 83
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 16
+      day_of_quarter: 16
+      day_of_week: 2
+      day_of_year: 290
+      hour: 0
+      minute: 0
+      month: 10
+      quarter: 4
+      second: 0
+      year: 2012
+    local_rd_days: 734792
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734792
+    utc_rd_secs: 0
+    utc_year: 2013
+  targeted_trap: 4
+  targeting_vector_id: 931869
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass2.2
+  targvec_plate_name: PGR00006_A_2
+  targvec_well_name: B06
+  total_colonies: 220
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: L3L4_pD223_DTA_T_spec
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 262
+  design_instance_id: 101879
+  design_plate_name: 35
+  design_well_name: F05
+  distribution_centre_url: ~
+  edit_date: 07-SEP-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 14
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 1718782
+  intvec_pass_level: ~
+  intvec_plate_name: PCS03017_A
+  intvec_well_name: B08
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 43816
+  phenotype_url: ~
+  project_id: 87100
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 2
+      day_of_quarter: 33
+      day_of_week: 2
+      day_of_year: 214
+      hour: 0
+      minute: 0
+      month: 8
+      quarter: 3
+      second: 0
+      year: 2011
+    local_rd_days: 734351
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734351
+    utc_rd_secs: 0
+    utc_year: 2012
+  targeted_trap: 1
+  targeting_vector_id: 1719012
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass4.1
+  targvec_plate_name: HTGR03017_Z_2
+  targvec_well_name: E10
+  total_colonies: 4492
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: L4L3_pD223_DTA_spec
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 39496
+  design_instance_id: 102920
+  design_plate_name: 44
+  design_well_name: G09
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 8
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 92218
+  intvec_pass_level: pass1
+  intvec_plate_name: PCS00044_A
+  intvec_well_name: G09
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 53594
+  phenotype_url: ~
+  project_id: 29908
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 20
+      day_of_quarter: 51
+      day_of_week: 5
+      day_of_year: 324
+      hour: 0
+      minute: 0
+      month: 11
+      quarter: 4
+      second: 0
+      year: 2009
+    local_rd_days: 733731
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 733731
+    utc_rd_secs: 0
+    utc_year: 2010
+  targeted_trap: 0
+  targeting_vector_id: 931953
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass3
+  targvec_plate_name: PGR00006_A_3
+  targvec_well_name: B05
+  total_colonies: 332
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: R3R4_pBR_DTA+_Bsd_amp
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 214629
+  design_instance_id: 117819
+  design_plate_name: 161
+  design_well_name: H11
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 22
+  epd_recovered: ~
+  esc_only: 1
+  intermediate_vector_id: 1344786
+  intvec_pass_level: pass
+  intvec_plate_name: PCS6003_A
+  intvec_well_name: F08
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: 0
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 18316
+  phenotype_url: ~
+  project_id: 89504
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 26
+      day_of_quarter: 26
+      day_of_week: 3
+      day_of_year: 26
+      hour: 0
+      minute: 0
+      month: 1
+      quarter: 1
+      second: 0
+      year: 2011
+    local_rd_days: 734163
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734163
+    utc_rd_secs: 0
+    utc_year: 2012
+  targeted_trap: 0
+  targeting_vector_id: 1344853
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass
+  targvec_plate_name: HTGRS6003_A
+  targvec_well_name: F08
+  total_colonies: 105
+  vector_only: 0
+- 
+  bac: C57BL/6J
+  backbone: L3L4_pZero_DTA_kan
+  cassette: L1L2_Bact_P
+  colonies_picked: ~
+  computational_gene_id: ~
+  design_id: 107633
+  design_instance_id: 114658
+  design_plate_name: 127
+  design_well_name: F04
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: vvi
+  epd_distribute: 0
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 627958
+  intvec_pass_level: fail
+  intvec_plate_name: PCS00127_A
+  intvec_well_name: F04
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 0
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 37830
+  phenotype_url: ~
+  project_id: 47446
+  project_status_id: 12
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 17
+      day_of_quarter: 76
+      day_of_week: 4
+      day_of_year: 76
+      hour: 0
+      minute: 0
+      month: 3
+      quarter: 1
+      second: 0
+      year: 2011
+    local_rd_days: 734213
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734213
+    utc_rd_secs: 0
+    utc_year: 2012
+  targeted_trap: 0
+  targeting_vector_id: 634874
+  targvec_distribute: ~
+  targvec_pass_level: ~
+  targvec_plate_name: PRPGS00127_A
+  targvec_well_name: F04
+  total_colonies: ~
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: L4L3_pD223_DTA_spec
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 33642
+  design_instance_id: 102755
+  design_plate_name: 42
+  design_well_name: F03
+  distribution_centre_url: http://www.emmanet.org/mutant_types.php?keyword=D730039F16Rik
+  edit_date: 05-NOV-12
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 11
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 90918
+  intvec_pass_level: pass1
+  intvec_plate_name: PCS00042_A
+  intvec_well_name: F03
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 36597
+  phenotype_url: ~
+  project_id: 28641
+  project_status_id: 81
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 16
+      day_of_quarter: 16
+      day_of_week: 2
+      day_of_year: 290
+      hour: 0
+      minute: 0
+      month: 10
+      quarter: 4
+      second: 0
+      year: 2012
+    local_rd_days: 734792
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734792
+    utc_rd_secs: 0
+    utc_year: 2013
+  targeted_trap: 6
+  targeting_vector_id: 931536
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass2.2
+  targvec_plate_name: PGR00005_A_3
+  targvec_well_name: B09
+  total_colonies: 271
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: L3L4_pZero_DTA_kan
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 33642
+  design_instance_id: 102755
+  design_plate_name: 42
+  design_well_name: F03
+  distribution_centre_url: http://www.emmanet.org/mutant_types.php?keyword=D730039F16Rik
+  edit_date: 05-NOV-12
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 11
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 90918
+  intvec_pass_level: pass1
+  intvec_plate_name: PCS00042_A
+  intvec_well_name: F03
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 39453
+  phenotype_url: ~
+  project_id: 99999
+  project_status_id: 81
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 16
+      day_of_quarter: 16
+      day_of_week: 2
+      day_of_year: 290
+      hour: 0
+      minute: 0
+      month: 10
+      quarter: 4
+      second: 0
+      year: 2012
+    local_rd_days: 734792
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734792
+    utc_rd_secs: 0
+    utc_year: 2013
+  targeted_trap: 6
+  targeting_vector_id: 931536
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass2.2
+  targvec_plate_name: PGR00005_A_3
+  targvec_well_name: B09
+  total_colonies: 271
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: L3L4_pZero_kan
+  cassette: L1L2_gt2
+  colonies_picked: 24
+  computational_gene_id: ~
+  design_id: 39792
+  design_instance_id: 101175
+  design_plate_name: 19
+  design_well_name: B11
+  distribution_centre_url: http://www.emmanet.org/mutant_types.php?keyword=Cbx1
+  edit_date: 16-OCT-12
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 14
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 94772
+  intvec_pass_level: pass1
+  intvec_plate_name: PCS00019_A
+  intvec_well_name: B11
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: 1
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 16703
+  phenotype_url: http://www.sanger.ac.uk/mouseportal/search?query=colony_prefix:MAAT
+  project_id: 35505
+  project_status_id: 84
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 28
+      day_of_quarter: 59
+      day_of_week: 2
+      day_of_year: 241
+      hour: 0
+      minute: 0
+      month: 8
+      quarter: 3
+      second: 0
+      year: 2012
+    local_rd_days: 734743
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734743
+    utc_rd_secs: 0
+    utc_year: 2013
+  targeted_trap: 9
+  targeting_vector_id: 94773
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass1a
+  targvec_plate_name: PGS00019_A
+  targvec_well_name: B11
+  total_colonies: 210
+  vector_only: ~
+- 
+  bac: ~
+  backbone: L3L4_pD223_DTA_spec
+  cassette: Ifitm2_intron_L1L2_GT2_LF2A_LacZ_BetactP_neo
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 393702
+  design_instance_id: 133636
+  design_plate_name: 258
+  design_well_name: H11
+  distribution_centre_url: ~
+  edit_date: 13-JUL-12
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 11
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: ~
+  intvec_pass_level: ~
+  intvec_plate_name: ~
+  intvec_well_name: ~
+  is_eucomm: ~
+  is_eucomm_tools: 1
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: 0
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 32421
+  phenotype_url: ~
+  project_id: 33035
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 29
+      day_of_quarter: 89
+      day_of_week: 4
+      day_of_year: 89
+      hour: 0
+      minute: 0
+      month: 3
+      quarter: 1
+      second: 0
+      year: 2012
+    local_rd_days: 734591
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734591
+    utc_rd_secs: 0
+    utc_year: 2013
+  targeted_trap: 7
+  targeting_vector_id: 2575560
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass
+  targvec_plate_name: PG00258_Z_8
+  targvec_well_name: B05
+  total_colonies: 274
+  vector_only: ~
+- 
+  bac: ~
+  backbone: ~
+  cassette: ~
+  colonies_picked: 0
+  computational_gene_id: ~
+  design_id: 437840
+  design_instance_id: 136577
+  design_plate_name: 277
+  design_well_name: F03
+  distribution_centre_url: ~
+  edit_date: 08-MAY-12
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 0
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: ~
+  intvec_pass_level: ~
+  intvec_plate_name: ~
+  intvec_well_name: ~
+  is_eucomm: ~
+  is_eucomm_tools: 1
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 42379
+  phenotype_url: ~
+  project_id: 98516
+  project_status_id: 11
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 22
+      day_of_quarter: 82
+      day_of_week: 4
+      day_of_year: 82
+      hour: 0
+      minute: 0
+      month: 3
+      quarter: 1
+      second: 0
+      year: 2012
+    local_rd_days: 734584
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734584
+    utc_rd_secs: 0
+    utc_year: 2013
+  targeted_trap: 0
+  targeting_vector_id: ~
+  targvec_distribute: ~
+  targvec_pass_level: ~
+  targvec_plate_name: ~
+  targvec_well_name: ~
+  total_colonies: 0
+  vector_only: ~
+- 
+  bac: ~
+  backbone: ~
+  cassette: ~
+  colonies_picked: 0
+  computational_gene_id: ~
+  design_id: 369477
+  design_instance_id: ~
+  design_plate_name: ~
+  design_well_name: ~
+  distribution_centre_url: ~
+  edit_date: 26-JUN-12
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 0
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: ~
+  intvec_pass_level: ~
+  intvec_plate_name: ~
+  intvec_well_name: ~
+  is_eucomm: ~
+  is_eucomm_tools: 1
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 48455
+  phenotype_url: ~
+  project_id: 98792
+  project_status_id: 10
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 6
+      day_of_quarter: 67
+      day_of_week: 3
+      day_of_year: 158
+      hour: 0
+      minute: 0
+      month: 6
+      quarter: 2
+      second: 0
+      year: 2012
+    local_rd_days: 734660
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734660
+    utc_rd_secs: 0
+    utc_year: 2013
+  targeted_trap: 0
+  targeting_vector_id: ~
+  targvec_distribute: ~
+  targvec_pass_level: ~
+  targvec_plate_name: ~
+  targvec_well_name: ~
+  total_colonies: 0
+  vector_only: ~
+- 
+  bac: ~
+  backbone: ~
+  cassette: ~
+  colonies_picked: 0
+  computational_gene_id: ~
+  design_id: 117767
+  design_instance_id: ~
+  design_plate_name: ~
+  design_well_name: ~
+  distribution_centre_url: ~
+  edit_date: 26-JUN-12
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 0
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: ~
+  intvec_pass_level: ~
+  intvec_plate_name: ~
+  intvec_well_name: ~
+  is_eucomm: ~
+  is_eucomm_tools: 1
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 99999
+  phenotype_url: ~
+  project_id: 999999
+  project_status_id: 10
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 6
+      day_of_quarter: 67
+      day_of_week: 3
+      day_of_year: 158
+      hour: 0
+      minute: 0
+      month: 6
+      quarter: 2
+      second: 0
+      year: 2012
+    local_rd_days: 734660
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734660
+    utc_rd_secs: 0
+    utc_year: 2013
+  targeted_trap: 0
+  targeting_vector_id: ~
+  targvec_distribute: ~
+  targvec_pass_level: ~
+  targvec_plate_name: ~
+  targvec_well_name: ~
+  total_colonies: 0
+  vector_only: ~
+- 
+  bac: ~
+  backbone: ~
+  cassette: ~
+  colonies_picked: 0
+  computational_gene_id: ~
+  design_id: 430363
+  design_instance_id: 135542
+  design_plate_name: 270
+  design_well_name: D09
+  distribution_centre_url: ~
+  edit_date: 07-DEC-12
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 0
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 3018811
+  intvec_pass_level: ~
+  intvec_plate_name: ETPCS00270_A_1
+  intvec_well_name: D09
+  is_eucomm: ~
+  is_eucomm_tools: 1
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 99999
+  phenotype_url: ~
+  project_id: 97277
+  project_status_id: 11
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 18
+      day_of_quarter: 18
+      day_of_week: 3
+      day_of_year: 18
+      hour: 0
+      minute: 0
+      month: 1
+      quarter: 1
+      second: 0
+      year: 2012
+    local_rd_days: 734520
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734520
+    utc_rd_secs: 0
+    utc_year: 2013
+  targeted_trap: 0
+  targeting_vector_id: ~
+  targvec_distribute: ~
+  targvec_pass_level: ~
+  targvec_plate_name: ~
+  targvec_well_name: ~
+  total_colonies: 0
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: L3L4_pD223_DTA_T_spec
+  cassette: L1L2_Bact_P
+  colonies_picked: 24
+  computational_gene_id: ~
+  design_id: 55553
+  design_instance_id: 107276
+  design_plate_name: 79
+  design_well_name: B11
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 5
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 375123
+  intvec_pass_level: pass4.3
+  intvec_plate_name: PCS00079_A
+  intvec_well_name: B11
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 99999
+  phenotype_url: ~
+  project_id: 36014
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 31
+      day_of_quarter: 90
+      day_of_week: 2
+      day_of_year: 90
+      hour: 0
+      minute: 0
+      month: 3
+      quarter: 1
+      second: 0
+      year: 2009
+    local_rd_days: 733497
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 733497
+    utc_rd_secs: 0
+    utc_year: 2010
+  targeted_trap: 1
+  targeting_vector_id: 387023
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass2.2
+  targvec_plate_name: PRPGS00079_A
+  targvec_well_name: B11
+  total_colonies: 25
+  vector_only: ~
+- 
+  bac: ~
+  backbone: ~
+  cassette: ~
+  colonies_picked: ~
+  computational_gene_id: ~
+  design_id: 452123
+  design_instance_id: ~
+  design_plate_name: ~
+  design_well_name: ~
+  distribution_centre_url: ~
+  edit_date: 02-NOV-12
+  edit_user: ib2
+  epd_distribute: ~
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: ~
+  intvec_pass_level: ~
+  intvec_plate_name: ~
+  intvec_well_name: ~
+  is_eucomm: ~
+  is_eucomm_tools: 1
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 45188
+  phenotype_url: ~
+  project_id: 98699
+  project_status_id: 10
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 2
+      day_of_quarter: 33
+      day_of_week: 5
+      day_of_year: 307
+      hour: 0
+      minute: 0
+      month: 11
+      quarter: 4
+      second: 0
+      year: 2012
+    local_rd_days: 734809
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734809
+    utc_rd_secs: 0
+    utc_year: 2013
+  targeted_trap: ~
+  targeting_vector_id: ~
+  targvec_distribute: ~
+  targvec_pass_level: ~
+  targvec_plate_name: ~
+  targvec_well_name: ~
+  total_colonies: ~
+  vector_only: ~
+- 
+  bac: ~
+  backbone: ~
+  cassette: ~
+  colonies_picked: 0
+  computational_gene_id: ~
+  design_id: 280668
+  design_instance_id: 129813
+  design_plate_name: 219
+  design_well_name: D12
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 0
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 2004461
+  intvec_pass_level: ~
+  intvec_plate_name: PCS00219_A
+  intvec_well_name: D12
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: 0
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 10986
+  phenotype_url: ~
+  project_id: 71993
+  project_status_id: 11
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 1
+      day_of_quarter: 63
+      day_of_week: 3
+      day_of_year: 244
+      hour: 0
+      minute: 0
+      month: 9
+      quarter: 3
+      second: 0
+      year: 2010
+    local_rd_days: 734016
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734016
+    utc_rd_secs: 0
+    utc_year: 2011
+  targeted_trap: 0
+  targeting_vector_id: ~
+  targvec_distribute: ~
+  targvec_pass_level: ~
+  targvec_plate_name: ~
+  targvec_well_name: ~
+  total_colonies: 0
+  vector_only: ~
+- 
+  bac: ~
+  backbone: ~
+  cassette: ~
+  colonies_picked: ~
+  computational_gene_id: ~
+  design_id: 301348
+  design_instance_id: ~
+  design_plate_name: ~
+  design_well_name: ~
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: wy1
+  epd_distribute: ~
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: ~
+  intvec_pass_level: ~
+  intvec_plate_name: ~
+  intvec_well_name: ~
+  is_eucomm: ~
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: 1
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 39365
+  phenotype_url: ~
+  project_id: 42318
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 21
+      day_of_quarter: 82
+      day_of_week: 2
+      day_of_year: 355
+      hour: 0
+      minute: 0
+      month: 12
+      quarter: 4
+      second: 0
+      year: 2010
+    local_rd_days: 734127
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734127
+    utc_rd_secs: 0
+    utc_year: 2011
+  targeted_trap: ~
+  targeting_vector_id: ~
+  targvec_distribute: ~
+  targvec_pass_level: ~
+  targvec_plate_name: ~
+  targvec_well_name: ~
+  total_colonies: ~
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: R3R4_pBR_DTA+_Bsd_amp
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 231427
+  design_instance_id: 123507
+  design_plate_name: 167
+  design_well_name: C05
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 0
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 1164178
+  intvec_pass_level: pass4.3
+  intvec_plate_name: PCS00167_A
+  intvec_well_name: C05
+  is_eucomm: ~
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: 1
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 18868
+  phenotype_url: ~
+  project_id: 41357
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 16
+      day_of_quarter: 47
+      day_of_week: 1
+      day_of_year: 228
+      hour: 0
+      minute: 0
+      month: 8
+      quarter: 3
+      second: 0
+      year: 2010
+    local_rd_days: 734000
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734000
+    utc_rd_secs: 0
+    utc_year: 2011
+  targeted_trap: 4
+  targeting_vector_id: 1164274
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass4.3
+  targvec_plate_name: PRPGS00167_A
+  targvec_well_name: C05
+  total_colonies: 102
+  vector_only: ~
+- 
+  bac: ~
+  backbone: L3L4_pD223_DTA_T_spec
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 259710
+  design_instance_id: 130712
+  design_plate_name: 228
+  design_well_name: E01
+  distribution_centre_url: ~
+  edit_date: 22-JUL-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 4
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 1985650
+  intvec_pass_level: ~
+  intvec_plate_name: PCS04018_A
+  intvec_well_name: G02
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 39657
+  phenotype_url: ~
+  project_id: 77236
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 22
+      day_of_quarter: 22
+      day_of_week: 5
+      day_of_year: 203
+      hour: 0
+      minute: 0
+      month: 7
+      quarter: 3
+      second: 0
+      year: 2011
+    local_rd_days: 734340
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734340
+    utc_rd_secs: 0
+    utc_year: 2012
+  targeted_trap: 0
+  targeting_vector_id: 1986267
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass4.1
+  targvec_plate_name: HTGR04018_Z_7
+  targvec_well_name: A05
+  total_colonies: 876
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: R3R4_pBR_DTA+_Bsd_amp
+  cassette: Ty1_EGFP
+  colonies_picked: 64
+  computational_gene_id: ~
+  design_id: 221787
+  design_instance_id: 123151
+  design_plate_name: 157
+  design_well_name: C11
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 0
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 612876
+  intvec_pass_level: ~
+  intvec_plate_name: PCS00157_A
+  intvec_well_name: C11
+  is_eucomm: ~
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: 1
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 9197
+  phenotype_url: ~
+  project_id: 65455
+  project_status_id: 17
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 17
+      day_of_quarter: 76
+      day_of_week: 3
+      day_of_year: 76
+      hour: 0
+      minute: 0
+      month: 3
+      quarter: 1
+      second: 0
+      year: 2010
+    local_rd_days: 733848
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 733848
+    utc_rd_secs: 0
+    utc_year: 2011
+  targeted_trap: 0
+  targeting_vector_id: 640844
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass
+  targvec_plate_name: EPGS00157_B
+  targvec_well_name: C11
+  total_colonies: 385
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: R3R4_pBR_DTA+_Bsd_amp
+  cassette: L1L2_Pgk_P
+  colonies_picked: 0
+  computational_gene_id: ~
+  design_id: 115588
+  design_instance_id: 115904
+  design_plate_name: 142
+  design_well_name: E08
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 0
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 575049
+  intvec_pass_level: ~
+  intvec_plate_name: PCS00142_A
+  intvec_well_name: E08
+  is_eucomm: ~
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: 1
+  is_komp_regeneron: ~
+  is_latest_for_gene: 0
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 65531
+  phenotype_url: ~
+  project_id: 25111
+  project_status_id: 14
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 31
+      day_of_quarter: 90
+      day_of_week: 2
+      day_of_year: 90
+      hour: 0
+      minute: 0
+      month: 3
+      quarter: 1
+      second: 0
+      year: 2009
+    local_rd_days: 733497
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 733497
+    utc_rd_secs: 0
+    utc_year: 2010
+  targeted_trap: 0
+  targeting_vector_id: 575145
+  targvec_distribute: ~
+  targvec_pass_level: fail
+  targvec_plate_name: DPGS00142_A
+  targvec_well_name: E08
+  total_colonies: 0
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: R3R4_pBR_DTA+_Bsd_amp
+  cassette: L1L2_Bact_P
+  colonies_picked: 32
+  computational_gene_id: ~
+  design_id: 115588
+  design_instance_id: 115904
+  design_plate_name: 142
+  design_well_name: E08
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: StatusUpdater_v0.0.0
+  epd_distribute: 6
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 575049
+  intvec_pass_level: ~
+  intvec_plate_name: PCS00142_A
+  intvec_well_name: E08
+  is_eucomm: ~
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: 1
+  is_komp_regeneron: ~
+  is_latest_for_gene: 1
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 65531
+  phenotype_url: ~
+  project_id: 69088
+  project_status_id: 19
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 15
+      day_of_quarter: 76
+      day_of_week: 1
+      day_of_year: 166
+      hour: 0
+      minute: 0
+      month: 6
+      quarter: 2
+      second: 0
+      year: 2009
+    local_rd_days: 733573
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 733573
+    utc_rd_secs: 0
+    utc_year: 2010
+  targeted_trap: 0
+  targeting_vector_id: 640776
+  targvec_distribute: 'yes'
+  targvec_pass_level: pass
+  targvec_plate_name: DPGS00142_B
+  targvec_well_name: E08
+  total_colonies: 164
+  vector_only: ~
+- 
+  bac: C57BL/6J
+  backbone: L3L4_pD223_DTA_spec
+  cassette: L1L2_Bact_P
+  colonies_picked: ~
+  computational_gene_id: ~
+  design_id: 176415
+  design_instance_id: 115973
+  design_plate_name: 141
+  design_well_name: F02
+  distribution_centre_url: ~
+  edit_date: 07-JUN-11
+  edit_user: vvi
+  epd_distribute: 0
+  epd_recovered: ~
+  esc_only: ~
+  intermediate_vector_id: 1128501
+  intvec_pass_level: fail
+  intvec_plate_name: PCS00141_A
+  intvec_well_name: F02
+  is_eucomm: 1
+  is_eucomm_tools: ~
+  is_eucomm_tools_cre: ~
+  is_eutracc: ~
+  is_komp_csd: ~
+  is_komp_regeneron: ~
+  is_latest_for_gene: 0
+  is_mgp: ~
+  is_mgp_bespoke: ~
+  is_norcomm: ~
+  is_publicly_reported: 1
+  is_switch: ~
+  is_tpp: ~
+  is_trap: ~
+  mgi_gene_id: 32051
+  phenotype_url: ~
+  project_id: 46358
+  project_status_id: 12
+  status_change_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 17
+      day_of_quarter: 76
+      day_of_week: 4
+      day_of_year: 76
+      hour: 0
+      minute: 0
+      month: 3
+      quarter: 1
+      second: 0
+      year: 2011
+    local_rd_days: 734213
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 734213
+    utc_rd_secs: 0
+    utc_year: 2012
+  targeted_trap: 0
+  targeting_vector_id: 1129365
+  targvec_distribute: ~
+  targvec_pass_level: fail
+  targvec_plate_name: PG00141_Z_8
+  targvec_well_name: F02
+  total_colonies: ~
+  vector_only: ~

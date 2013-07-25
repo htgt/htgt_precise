@@ -1,0 +1,43 @@
+--- 
+- 
+  category_id: 9
+  category_name: Alternative variant not targeted
+- 
+  category_id: 61
+  category_name: Artificial intron design
+- 
+  category_id: 13
+  category_name: Conserved elements
+- 
+  category_id: 81
+  category_name: Intron replacement
+- 
+  category_id: 10
+  category_name: NMD rescue
+- 
+  category_id: 21
+  category_name: No BACs available
+- 
+  category_id: 15
+  category_name: No NMD
+- 
+  category_id: 12
+  category_name: Non protein coding locus
+- 
+  category_id: 16
+  category_name: Other
+- 
+  category_id: 42
+  category_name: Overlapping locus
+- 
+  category_id: 11
+  category_name: Possible reinitiation
+- 
+  category_id: 14
+  category_name: Recovery design
+- 
+  category_id: 41
+  category_name: Upstream domain unaffected
+- 
+  category_id: 22
+  category_name: Warning!

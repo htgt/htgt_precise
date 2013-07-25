@@ -1,0 +1,78 @@
+--- 
+- 
+  ensembl_gene_chromosome: 1
+  ensembl_gene_end: 98894154
+  ensembl_gene_id: ENSMUSG00000045463
+  ensembl_gene_start: 98808389
+  ensembl_gene_strand: -1
+  entrez_gene_id: 67854
+  marker_name: solute carrier organic anion transporter family, member 6b1
+  marker_symbol: Slco6b1
+  marker_type: Gene
+  mgi_accession_id: MGI:1915104
+  mgi_gene_id: 29755
+  mgi_gt_count: ~
+  mgi_qtl_gene_end: ~
+  mgi_qtl_gene_start: ~
+  mirbase_gene_end: ~
+  mirbase_gene_start: ~
+  ncbi_gene_chromosome: 1
+  ncbi_gene_end: 98894137
+  ncbi_gene_start: 98802753
+  ncbi_gene_strand: -1
+  representative_genome_build: NCBI Build 37
+  representative_genome_chr: 1
+  representative_genome_end: 98894154
+  representative_genome_id: OTTMUSG00000036859
+  representative_genome_start: 98802753
+  representative_genome_strand: -1
+  roopenian_sts_gene_end: ~
+  roopenian_sts_gene_start: ~
+  sp: 0
+  tm: 1
+  unists_gene_end: ~
+  unists_gene_start: ~
+  vega_gene_chromosome: 1
+  vega_gene_end: 98894154
+  vega_gene_id: OTTMUSG00000036859
+  vega_gene_start: 98802753
+  vega_gene_strand: -1
+- 
+  ensembl_gene_chromosome: 2
+  ensembl_gene_end: 121839378
+  ensembl_gene_id: ENSMUSG00000033411
+  ensembl_gene_start: 121781737
+  ensembl_gene_strand: 1
+  entrez_gene_id: 329506
+  marker_name: CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase like 2
+  marker_symbol: Ctdspl2
+  marker_type: Gene
+  mgi_accession_id: MGI:1196405
+  mgi_gene_id: 21539
+  mgi_gt_count: 72
+  mgi_qtl_gene_end: ~
+  mgi_qtl_gene_start: ~
+  mirbase_gene_end: ~
+  mirbase_gene_id: ~
+  mirbase_gene_start: ~
+  ncbi_gene_chromosome: 2
+  ncbi_gene_end: 121839322
+  ncbi_gene_start: 121782189
+  ncbi_gene_strand: 1
+  representative_genome_build: NCBI Build 37
+  representative_genome_chr: 2
+  representative_genome_end: 121839378
+  representative_genome_id: OTTMUSG00000015440
+  representative_genome_start: 121781737
+  representative_genome_strand: 1
+  roopenian_sts_gene_end: ~
+  roopenian_sts_gene_start: ~
+  sp: 0
+  tm: 0
+  unists_gene_end: ~
+  unists_gene_start: ~
+  vega_gene_chromosome: 2
+  vega_gene_end: 121839378
+  vega_gene_id: OTTMUSG00000015440
+  vega_gene_start: 121781737
+  vega_gene_strand: 1

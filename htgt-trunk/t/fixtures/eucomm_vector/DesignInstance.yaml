@@ -1,0 +1,43 @@
+--- 
+- 
+  design_id: 99198
+  design_instance_id: 110505
+  plate: 109
+  source: ~
+  well: B08
+- 
+  design_id: 41258
+  design_instance_id: 102031
+  plate: 33
+  source: BT
+  well: C07
+- 
+  design_id: 48020
+  design_instance_id: 105990
+  plate: 68
+  source: ~
+  well: B03
+- 
+  design_id: 77880
+  design_instance_id: 130086
+  plate: 222
+  source: ~
+  well: A01
+- 
+  design_id: 238289
+  design_instance_id: 125775
+  plate: 185
+  source: ~
+  well: C10 
+- 
+  design_id: 277826
+  design_instance_id: 130255
+  plate: 223
+  source: ~
+  well: A01
+- 
+  design_id: 117661
+  design_instance_id: 123073
+  plate: 160
+  source: ~
+  well: E08

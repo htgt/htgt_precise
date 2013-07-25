@@ -1,0 +1,177 @@
+---
+table: gr_valid_state
+columns:
+  - name: state
+    type: char
+    size: 20
+    pk: 1
+  - name: description
+    type: char
+    size: 200
+    null: 1
+---
+table: gr_gene_status
+columns:
+  - name: gr_gene_status_id
+    pkauto: 1
+  - name: mgi_gene_id
+    fk: 'mgi_gene(mgi_gene_id)'
+    uniq: 1
+  - name: state
+    type: char
+    size: 20
+    fk: 'gr_valid_state(state)'
+  - name: note
+    type: char
+    size: 200
+    null: 1
+  - name: updated
+    type: timestamp
+---
+trigger: gr_gene_status_updated
+plsql: |
+        before insert or update on "GR_GENE_STATUS"
+            for each row begin
+                :NEW.UPDATED := sysdate;
+            end;
+---
+table: gr_gene_status_history
+columns:
+  - name: gr_gene_status_history_id
+    pkauto: 1
+  - name: mgi_gene_id
+    fk: 'mgi_gene(mgi_gene_id)'
+  - name: state
+    type: char
+    size: 20
+    fk: 'gr_valid_state(state)'
+  - name: note
+    type: char
+    size: 200
+    null: 1
+  - name: updated
+    type: timestamp
+---
+trigger: gr_gene_status_history
+plsql: |
+        after insert or update on "GR_GENE_STATUS"
+            for each row begin
+                INSERT INTO GR_GENE_STATUS_HISTORY( MGI_GENE_ID, STATE, NOTE, UPDATED )
+                VALUES ( :NEW.MGI_GENE_ID, :NEW.STATE, :NEW.NOTE, :NEW.UPDATED );
+            end;
+---
+table: gr_redesign
+columns:
+  - name: gr_redesign_id
+    pkauto: 1
+  - name: gr_gene_status_id
+    fk: gr_gene_status(gr_gene_status_id) on delete cascade
+  - name: rdr_well_id
+    fk: well(well_id)
+indexes:
+  - name: gr_redesign_rdr_well
+    columns: [ rdr_well_id ]
+    uniq: 1
+---
+table: gr_gateway
+columns:
+  - name: gr_gateway_id
+    pkauto: 1
+  - name: gr_gene_status_id
+    fk: gr_gene_status(gr_gene_status_id) on delete cascade
+  - name: gwr_well_id
+    fk: well(well_id)
+indexes:
+  - name: gr_gateway_gwr_well
+    columns: [ gwr_well_id ]
+    uniq: 1
+---
+table: gr_alt_clone
+columns:
+  - name: gr_alt_clone_id
+    pkauto: 1
+  - name: gr_gene_status_id
+    fk: gr_gene_status(gr_gene_status_id) on delete cascade
+  - name: acr_well_id
+    fk: well(well_id)
+indexes:
+  - name: gr_alt_clone_acr_well
+    columns: [ acr_well_id ]
+    uniq: 1
+---
+table: grc_redesign
+columns:
+  - name: grc_redesign_id
+    pkauto: 1
+  - name: gr_gene_status_id
+    fk: gr_gene_status(gr_gene_status_id) on delete cascade
+  - name: design_well_id
+    fk: well(well_id)    
+indexes:
+  - name: grc_design_well
+    columns: [ design_well_id ]
+    uniq: 1
+---
+table: grc_gateway
+columns:
+  - name: grc_gateway_id
+    pkauto: 1
+  - name: gr_gene_status_id
+    fk: gr_gene_status(gr_gene_status_id) on delete cascade
+  - name: pcs_well_id
+    fk: well(well_id)
+  - name: valid_primers
+    type: char
+    size: 200
+indexes:
+  - name: grc_gateway_gwr_well
+    columns: [ pcs_well_id ]
+    uniq: 1
+---
+table: grc_reseq
+columns:
+  - name: grc_reseq_id
+    pkauto: 1
+  - name: gr_gene_status_id
+    fk: gr_gene_status(gr_gene_status_id) on delete cascade
+  - name: targvec_well_id
+    fk: well(well_id)
+  - name: valid_primers
+    type: char
+    size: 200
+indexes:
+  - name: grc_reseq_targvec_well
+    columns: [ targvec_well_id ]
+    uniq: 1
+---
+table: grc_alt_clone_chosen
+columns:
+  - name: grc_alt_clone_chosen_id
+    pkauto: 1
+  - name: gr_gene_status_id
+    fk: gr_gene_status(gr_gene_status_id) on delete cascade
+  - name: chosen_well_id
+    fk: well(well_id)
+  - name: chosen_clone_name
+    type: char
+    size: 200
+  - name: child_plates
+    type: char
+    size: 400
+indexes:
+  - name: grc_alt_clone_chosen_well
+    columns: [ chosen_well_id ]
+    uniq: 1
+---
+table: grc_alt_clone_alternate
+columns:
+  - name: grc_alt_clone_alternate_id
+    pkauto: 1
+  - name: gr_gene_status_id
+    fk: gr_gene_status(gr_gene_status_id) on delete cascade
+  - name: alt_clone_well_id
+    fk: well(well_id)
+indexes:
+  - name: grc_alt_clone_alternate_well
+    columns: [ alt_clone_well_id ]
+    uniq: 1

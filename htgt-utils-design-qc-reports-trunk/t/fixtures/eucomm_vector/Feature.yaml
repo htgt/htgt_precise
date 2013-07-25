@@ -1,0 +1,609 @@
+--- 
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173327299
+  feature_id: 487786
+  feature_start: 173327180
+  feature_type_id: 3
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173327179
+  feature_id: 487788
+  feature_start: 173327060
+  feature_type_id: 4
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173327359
+  feature_id: 487790
+  feature_start: 173327240
+  feature_type_id: 3
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173327239
+  feature_id: 487793
+  feature_start: 173327120
+  feature_type_id: 4
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173326526
+  feature_id: 487795
+  feature_start: 173326407
+  feature_type_id: 5
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173326406
+  feature_id: 487797
+  feature_start: 173326287
+  feature_type_id: 6
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173326466
+  feature_id: 487799
+  feature_start: 173326347
+  feature_type_id: 5
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173326346
+  feature_id: 487801
+  feature_start: 173326227
+  feature_type_id: 6
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173332259
+  feature_id: 487803
+  feature_start: 173331260
+  feature_type_id: 1
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173322126
+  feature_id: 487804
+  feature_start: 173321127
+  feature_type_id: 2
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173331847
+  feature_id: 487843
+  feature_start: 173331798
+  feature_type_id: 7
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173327347
+  feature_id: 487844
+  feature_start: 173327298
+  feature_type_id: 9
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173327202
+  feature_id: 487845
+  feature_start: 173327153
+  feature_type_id: 10
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173326465
+  feature_id: 487846
+  feature_start: 173326416
+  feature_type_id: 11
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173326280
+  feature_id: 487847
+  feature_start: 173326231
+  feature_type_id: 12
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173321251
+  feature_id: 487848
+  feature_start: 173321202
+  feature_type_id: 8
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173321256
+  feature_id: 487849
+  feature_start: 173321207
+  feature_type_id: 8
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173327246
+  feature_id: 487850
+  feature_start: 173327197
+  feature_type_id: 9
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173332257
+  feature_id: 487851
+  feature_start: 173332208
+  feature_type_id: 7
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173326336
+  feature_id: 487852
+  feature_start: 173326287
+  feature_type_id: 12
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173321246
+  feature_id: 487853
+  feature_start: 173321197
+  feature_type_id: 8
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173326513
+  feature_id: 487854
+  feature_start: 173326464
+  feature_type_id: 11
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173327174
+  feature_id: 487855
+  feature_start: 173327125
+  feature_type_id: 10
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173331854
+  feature_id: 487856
+  feature_start: 173331805
+  feature_type_id: 7
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173332257
+  feature_id: 507367
+  feature_start: 173327197
+  feature_type_id: 1000
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173327174
+  feature_id: 507368
+  feature_start: 173326464
+  feature_type_id: 1001
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173326336
+  feature_id: 507369
+  feature_start: 173321197
+  feature_type_id: 1002
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 570325
+  feature_start: -1
+  feature_type_id: 3000
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 570326
+  feature_start: -1
+  feature_type_id: 3001
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 570327
+  feature_start: -1
+  feature_type_id: 3002
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 570328
+  feature_start: -1
+  feature_type_id: 3003
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 570329
+  feature_start: -1
+  feature_type_id: 3004
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 570330
+  feature_start: -1
+  feature_type_id: 3005
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 571602
+  feature_start: -1
+  feature_type_id: 3006
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 571603
+  feature_start: -1
+  feature_type_id: 3007
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 571604
+  feature_start: -1
+  feature_type_id: 3008
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 571605
+  feature_start: -1
+  feature_type_id: 3009
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 571606
+  feature_start: -1
+  feature_type_id: 3010
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 41044
+  feature_end: -1
+  feature_id: 571607
+  feature_start: -1
+  feature_type_id: 3011
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173342246
+  feature_id: 790960
+  feature_start: 173327197
+  feature_type_id: 2001
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173326336
+  feature_id: 790961
+  feature_start: 173311287
+  feature_type_id: 2002
+- 
+  allocate_to_instance: ~
+  chr_id: 12
+  design_id: 220202
+  feature_end: 85487764
+  feature_id: 3639011
+  feature_start: 85488874
+  feature_type_id: 1666
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95969038
+  feature_id: 3811346
+  feature_start: 95968919
+  feature_type_id: 3
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95963960
+  feature_id: 3811347
+  feature_start: 95963841
+  feature_type_id: 6
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95975417
+  feature_id: 3811348
+  feature_start: 95974418
+  feature_type_id: 1
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95960461
+  feature_id: 3811349
+  feature_start: 95959462
+  feature_type_id: 2
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95974486
+  feature_id: 3811350
+  feature_start: 95974437
+  feature_type_id: 7
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95975114
+  feature_id: 3811351
+  feature_start: 95975065
+  feature_type_id: 7
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95960085
+  feature_id: 3811352
+  feature_start: 95960036
+  feature_type_id: 8
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95960249
+  feature_id: 3811353
+  feature_start: 95960200
+  feature_type_id: 8
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95974743
+  feature_id: 3811354
+  feature_start: 95974694
+  feature_type_id: 7
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95960077
+  feature_id: 3811355
+  feature_start: 95960028
+  feature_type_id: 8
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95969003
+  feature_id: 3811356
+  feature_start: 95968954
+  feature_type_id: 9
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95963927
+  feature_id: 3811357
+  feature_start: 95963878
+  feature_type_id: 12
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95975114
+  feature_id: 3811368
+  feature_start: 95968954
+  feature_type_id: 1000
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95969003
+  feature_id: 3811369
+  feature_start: 95963878
+  feature_type_id: 1003
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95963927
+  feature_id: 3811370
+  feature_start: 95960028
+  feature_type_id: 1002
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95984003
+  feature_id: 3811371
+  feature_start: 95968954
+  feature_type_id: 2001
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95963927
+  feature_id: 3811372
+  feature_start: 95948878
+  feature_type_id: 2002
+- 
+  allocate_to_instance: ~
+  chr_id: 11
+  design_id: 233442
+  feature_end: 95984003
+  feature_id: 3811373
+  feature_start: 95948878
+  feature_type_id: 2003
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 233442
+  feature_end: -1
+  feature_id: 3927066
+  feature_start: -1
+  feature_type_id: 3006
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 233442
+  feature_end: -1
+  feature_id: 3927067
+  feature_start: -1
+  feature_type_id: 3007
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 233442
+  feature_end: -1
+  feature_id: 3927068
+  feature_start: -1
+  feature_type_id: 3008
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 233442
+  feature_end: -1
+  feature_id: 3927069
+  feature_start: -1
+  feature_type_id: 3009
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 233442
+  feature_end: -1
+  feature_id: 3927070
+  feature_start: -1
+  feature_type_id: 3010
+- 
+  allocate_to_instance: ~
+  chr_id: 1
+  design_id: 233442
+  feature_end: -1
+  feature_id: 3927071
+  feature_start: -1
+  feature_type_id: 3011
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 173326463
+  feature_id: 4914649
+  feature_start: 173326337
+  feature_type_id: 26
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 172937570
+  feature_id: 5210573
+  feature_start: 172937549
+  feature_type_id: 3018
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 172937572
+  feature_id: 5210574
+  feature_start: 172937552
+  feature_type_id: 3019
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 172937547
+  feature_id: 5210575
+  feature_start: 172937528
+  feature_type_id: 3020
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 172939019
+  feature_id: 5210606
+  feature_start: 172939000
+  feature_type_id: 3015
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 172938764
+  feature_id: 5210607
+  feature_start: 172938745
+  feature_type_id: 3016
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 172938721
+  feature_id: 5210608
+  feature_start: 172938702
+  feature_type_id: 3017
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 172935704
+  feature_id: 5210649
+  feature_start: 172935685
+  feature_type_id: 3012
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 172936817
+  feature_id: 5210650
+  feature_start: 172936798
+  feature_type_id: 3013
+- 
+  allocate_to_instance: ~
+  chr_id: 2
+  design_id: 41044
+  feature_end: 172936013
+  feature_id: 5210651
+  feature_start: 172935994
+  feature_type_id: 3014

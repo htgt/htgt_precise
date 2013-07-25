@@ -1,0 +1,211 @@
+--- 
+- 
+  code: M-GC
+  description: The genotype of testcross offspring has been confirmed molecularly.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: Mice - Genotype confirmed
+  order_by: 115
+  project_status_id: 81
+  stage: mice
+  status_type: normal
+- 
+  code: M-GLT
+  description: "Test crosses of chimaeras indicate germline transmission of the ES cell mutation based on coat color. "
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: Mice - Germline transmission
+  order_by: 110
+  project_status_id: 82
+  stage: mice
+  status_type: normal
+- 
+  code: M-MIP
+  description: "Targeted ES cells have been microinjected for the purpose of creating mutant mice for distribution. "
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: Mice - Microinjection in progress
+  order_by: 100
+  project_status_id: 83
+  stage: mice
+  status_type: normal
+- 
+  code: W
+  description: The EUCOMM/KOMP project(s) will not, or has ceased to, work on this gene.  This may occur for a number of reasons for example if it is registered as having 6 or more hits in the <a href="http://www.tigm.org">TIGM database</a>.
+  does_not_compete_for_latest: ~
+  is_terminal: 1
+  name: Withdrawn From Pipeline
+  order_by: 25
+  project_status_id: 5
+  stage: pre
+  status_type: error
+- 
+  code: ESC-GT
+  description: DNA sequence from the gene trap clones is used to identify the intronic insertion site, sequence from the targeting vectors is used to define the precise allele structures and BAC ends are used to position the BACs in the genome.  This information is mapped onto the mouse genome sequence using standard methods.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: ES Cells - Conditional Gene Trap
+  order_by: 5
+  project_status_id: 1
+  stage: ~
+  status_type: ~
+- 
+  code: DR
+  description: The gene has been manually annotated by the Havana group but has yet to enter the design process.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: Design Requested
+  order_by: 30
+  project_status_id: 6
+  stage: designs
+  status_type: normal
+- 
+  code: DC
+  description: The gene has been manually annotated by the Havana group and the design of a conditional allele has been generated.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: Design Completed
+  order_by: 50
+  project_status_id: 10
+  stage: designs
+  status_type: normal
+- 
+  code: DNP
+  description: The gene has been manually annotated by the Havana group but the design of a conditional allele has not been possible. Reasons for this may include the absence of frame-shifting (critical) exons, the introns flanking critical exons are too small, too few exons (our vector design strategy requires the presence of at least two exons), etc. Requests are usually put on hold in this status unless other designs (e.g. deletion alleles) are specified.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: Design Not Possible
+  order_by: 45
+  project_status_id: 9
+  stage: designs
+  status_type: error
+- 
+  code: AR
+  description: The first step in the process of making an allele is to manually annotate the gene. This is carried out by the Havana group and the annotation is made publicly available on the <a href="http://vega.sanger.ac.uk">Vega website</a> at the next release.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: VEGA Annotation Requested
+  order_by: 40
+  project_status_id: 8
+  stage: designs
+  status_type: warn
+- 
+  code: TV-PT
+  description: A project is terminated when two attempts at producing a valid conditional design (allele) have failed.
+  does_not_compete_for_latest: 1
+  is_terminal: 1
+  name: Vector Unsuccessful - Project Terminated
+  order_by: 71
+  project_status_id: 12
+  stage: vectors
+  status_type: error
+- 
+  code: TVIP
+  description: Oligos for recombineering have been ordered for the construction of the targeting vectors.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: Vector Construction in Progress
+  order_by: 55
+  project_status_id: 11
+  stage: vectors
+  status_type: normal
+- 
+  code: ES-NQP
+  description: ~
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: ES Cells - No QC Positives
+  order_by: 85
+  project_status_id: 17
+  stage: cells
+  status_type: warn
+- 
+  code: ES-EP
+  description: Electroporation of the final targeting construct is underway.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: ES Cells - Electroporation in Progress
+  order_by: 80
+  project_status_id: 16
+  stage: cells
+  status_type: normal
+- 
+  code: TVC
+  description: A final targeting vector (post Gateway) has been constructed, has passed sequence-based QC, and is available for use in ES cells. These vectors can be requested from the EUCOMM/KOMP repositories.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: Vector Complete
+  order_by: 75
+  project_status_id: 15
+  stage: vectors
+  status_type: normal
+- 
+  code: TV-IAU
+  description: The construction of a final targeting construct, following the Gateway exchange reaction, was not successful or did not pass sequence-based QC; pending a second attempt.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: Vector - Initial Attempt Unsuccessful
+  order_by: 70
+  project_status_id: 14
+  stage: vectors
+  status_type: warn
+- 
+  code: ES-TC
+  description: Correctly targeted ES cell clones have passed LR-PCR/sequenced-based QC. These ES cell clones can be requested from the EUCOMM/KOMP repositories.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: ES Cells - Targeting Confirmed
+  order_by: 95
+  project_status_id: 19
+  stage: cells
+  status_type: normal
+- 
+  code: TVC-PT
+  description: A project which has targeting vector but after re-sythesis still no successful es cell, so it terminated.
+  does_not_compete_for_latest: 1
+  is_terminal: 1
+  name: Vector Complete - Project Terminated
+  order_by: 89
+  project_status_id: 60
+  stage: vectors
+  status_type: warn
+- 
+  code: ES-EU
+  description: ES cell clones were picked and screened, but did not pass LR-PCR/sequenced-based QC. These ES cell clones may be re-screened with additional genotyping primers.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: ES Cells - Electroporation Unsuccessful
+  order_by: 82
+  project_status_id: 50
+  stage: cells
+  status_type: normal
+- 
+  code: ES-DNA
+  description: A final targeting vector (post Gateway) has been constructed, has passed sequence-based QC, but has failed gel-based QC prior to electroporation (low DNA yield, incomplete digestion or multiple DNA bands).   These vectors will be re-prepped for electroporation and can be requested from the EUCOMM/KOMP repositories.
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: Vector - DNA Not Suitable for Electroporation
+  order_by: 77
+  project_status_id: 55
+  stage: vectors
+  status_type: warn
+- 
+  code: REG
+  description: ~
+  does_not_compete_for_latest: ~
+  is_terminal: 1
+  name: Regeneron
+  order_by: 0
+  project_status_id: 99
+  stage: pre
+  status_type: normal
+- 
+  code: RR
+  description: The gene's earlier designs have not succeeded, and a new design is needed
+  does_not_compete_for_latest: ~
+  is_terminal: ~
+  name: Redesign Requested
+  order_by: 32
+  project_status_id: 7
+  stage: designs
+  status_type: normal

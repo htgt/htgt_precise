@@ -1,0 +1,124 @@
+--- 
+- 
+  chr_id: 1
+  name: 1
+- 
+  chr_id: 2
+  name: 2
+- 
+  chr_id: 3
+  name: 3
+- 
+  chr_id: 4
+  name: 4
+- 
+  chr_id: 5
+  name: 5
+- 
+  chr_id: 6
+  name: 6
+- 
+  chr_id: 7
+  name: 7
+- 
+  chr_id: 8
+  name: 8
+- 
+  chr_id: 9
+  name: 9
+- 
+  chr_id: 10
+  name: 10
+- 
+  chr_id: 11
+  name: 11
+- 
+  chr_id: 12
+  name: 12
+- 
+  chr_id: 13
+  name: 13
+- 
+  chr_id: 14
+  name: 14
+- 
+  chr_id: 15
+  name: 15
+- 
+  chr_id: 16
+  name: 16
+- 
+  chr_id: 17
+  name: 17
+- 
+  chr_id: 18
+  name: 18
+- 
+  chr_id: 19
+  name: 19
+- 
+  chr_id: 20
+  name: X
+- 
+  chr_id: 21
+  name: 'Y'
+- 
+  chr_id: 22
+  name: 1-IDD5.1_CHORI29
+- 
+  chr_id: 23
+  name: 1-IDD5.1_NOD
+- 
+  chr_id: 24
+  name: 3-IDD10_NOD
+- 
+  chr_id: 25
+  name: 3-IDD18_NOD
+- 
+  chr_id: 26
+  name: 3-IDD3_129
+- 
+  chr_id: 27
+  name: 3-IDD3_NOD
+- 
+  chr_id: 42
+  name: Pberg_chr7
+- 
+  chr_id: 43
+  name: Pberg_chr2
+- 
+  chr_id: 44
+  name: Pberg_chr8
+- 
+  chr_id: 45
+  name: Pberg_chr12
+- 
+  chr_id: 46
+  name: Pberg_chr9
+- 
+  chr_id: 47
+  name: Pberg_chr11
+- 
+  chr_id: 48
+  name: Pberg_chr4
+- 
+  chr_id: 49
+  name: Pberg_chr1
+- 
+  chr_id: 50
+  name: Pberg_chr14
+- 
+  chr_id: 51
+  name: Pberg_chr13
+- 
+  chr_id: 52
+  name: Pberg_chr5
+- 
+  chr_id: 53
+  name: Pberg_chr6
+- 
+  chr_id: 54
+  name: Pberg_chr3
+- 
+  chr_id: 55
+  name: Pberg_chr10

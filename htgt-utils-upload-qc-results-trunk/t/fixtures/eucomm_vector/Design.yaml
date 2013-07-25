@@ -1,0 +1,129 @@
+--- 
+- 
+  atg: ~
+  build_id: 0
+  created_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 15
+      day_of_quarter: 15
+      day_of_week: 2
+      day_of_year: 197
+      hour: 0
+      minute: 0
+      month: 7
+      quarter: 3
+      second: 0
+      year: 2008
+    local_rd_days: 733238
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 733238
+    utc_rd_secs: 0
+    utc_year: 2009
+  created_user: dk3
+  design_id: 112764
+  design_name: EUCTV9538
+  design_parameter_id: 64325
+  design_type: KO
+  edited_by: ahorton@watson.wustl.edu
+  edited_date: 07-MAR-11 20.57.09.189240
+  end_exon_id: 6227768
+  final_plate: 116
+  gene_build_id: 31
+  has_ensembl_image: 1
+  locus_id: 9966249
+  phase: ~
+  pi: ~
+  pseudo_plate: ~
+  random_name: V1MR
+  sp: ~
+  start_exon_id: 6227768
+  subtype: ~
+  subtype_description: ~
+  target_id: 0
+  tm: ~
+  validated_by_annotation: maybe
+  well_loc: H03
+- 
+  atg: ~
+  build_id: 4
+  created_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 2
+      day_of_quarter: 61
+      day_of_week: 5
+      day_of_year: 61
+      hour: 0
+      minute: 0
+      month: 3
+      quarter: 1
+      second: 0
+      year: 2007
+    local_rd_days: 732737
+    local_rd_secs: 0
+    locale: !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 732737
+    utc_rd_secs: 0
+    utc_year: 2008
+  created_user: ~
+  design_id: 35033
+  design_name: EUCTV01171
+  design_parameter_id: 2
+  design_type: KO
+  edited_by: dk3
+  edited_date: 23-JUN-08 11.19.52.994146
+  end_exon_id: 2463935
+  final_plate: 15
+  gene_build_id: 12
+  has_ensembl_image: ~
+  locus_id: 2994272
+  phase: ~
+  pi: ~
+  pseudo_plate: ~
+  random_name: R8VB
+  sp: ~
+  start_exon_id: 2463935
+  subtype: ~
+  subtype_description: ~
+  target_id: 10016575
+  tm: ~
+  validated_by_annotation: ~
+  well_loc: H05

@@ -1,0 +1,389 @@
+--- 
+- 
+  atg: ~
+  build_id: 5
+  created_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 2
+      day_of_quarter: 61
+      day_of_week: 5
+      day_of_year: 61
+      hour: 0
+      minute: 0
+      month: 3
+      quarter: 1
+      second: 0
+      year: 2007
+    local_rd_days: 732737
+    local_rd_secs: 0
+    locale: &1 !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: &2 !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 732737
+    utc_rd_secs: 0
+    utc_year: 2008
+  created_user: ~
+  design_id: 41258
+  design_name: EUCTV02238
+  design_parameter_id: 2
+  design_type: KO
+  edited_by: dk3
+  edited_date: 23-JUN-08 11.19.52.994146
+  end_exon_id: 2832758
+  final_plate: 33
+  gene_build_id: 15
+  has_ensembl_image: ~
+  locus_id: 3444049
+  phase: 1
+  pi: ~
+  pseudo_plate: ~
+  random_name: G4HF
+  sp: ~
+  start_exon_id: 2832758
+  subtype: ~
+  subtype_description: ~
+  target_id: 0
+  tm: ~
+  validated_by_annotation: ~
+  well_loc: C07
+- 
+  atg: 0
+  build_id: 5
+  created_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 21
+      day_of_quarter: 52
+      day_of_week: 3
+      day_of_year: 325
+      hour: 0
+      minute: 0
+      month: 11
+      quarter: 4
+      second: 0
+      year: 2007
+    local_rd_days: 733001
+    local_rd_secs: 0
+    locale: *1
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: *2
+    utc_rd_days: 733001
+    utc_rd_secs: 0
+    utc_year: 2008
+  created_user: ~
+  design_id: 48020
+  design_name: EUCTV4990
+  design_parameter_id: 2
+  design_type: KO
+  edited_by: dk3
+  edited_date: 23-JUN-08 11.19.52.994146
+  end_exon_id: 3980487
+  final_plate: 68
+  gene_build_id: 15
+  has_ensembl_image: 1
+  locus_id: 5655423
+  phase: 0
+  pi: 0
+  pseudo_plate: ~
+  random_name: P6EL
+  sp: 0
+  start_exon_id: 3980514
+  subtype: ~
+  subtype_description: ~
+  target_id: 0
+  tm: 0
+  validated_by_annotation: ~
+  well_loc: B03
+- 
+  atg: ~
+  build_id: 0
+  created_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 13
+      day_of_quarter: 74
+      day_of_week: 5
+      day_of_year: 165
+      hour: 0
+      minute: 0
+      month: 6
+      quarter: 2
+      second: 0
+      year: 2008
+    local_rd_days: 733206
+    local_rd_secs: 0
+    locale: *1
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: *2
+    utc_rd_days: 733206
+    utc_rd_secs: 0
+    utc_year: 2009
+  created_user: erb
+  design_id: 99198
+  design_name: EUCTV8883
+  design_parameter_id: 50875
+  design_type: KO
+  edited_by: ~
+  edited_date: 23-JUN-08 11.19.52.994146
+  end_exon_id: 6465095
+  final_plate: 109
+  gene_build_id: 31
+  has_ensembl_image: 1
+  locus_id: 8380033
+  phase: ~
+  pi: ~
+  pseudo_plate: ~
+  random_name: O1ZT
+  sp: ~
+  start_exon_id: 6465095
+  subtype: frameshift
+  subtype_description: ~
+  target_id: 0
+  tm: ~
+  validated_by_annotation: ~
+  well_loc: B08
+- 
+  atg: ~
+  build_id: 0
+  created_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 28
+      day_of_quarter: 59
+      day_of_week: 4
+      day_of_year: 59
+      hour: 0
+      minute: 0
+      month: 2
+      quarter: 1
+      second: 0
+      year: 2008
+    local_rd_days: 733100
+    local_rd_secs: 0
+    locale: &1 !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: &2 !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 733100
+    utc_rd_secs: 0
+    utc_year: 2009
+  created_user: vvi
+  design_id: 77880
+  design_name: EUCTV17809
+  design_parameter_id: 30045
+  design_type: KO
+  edited_by: ~
+  edited_date: 23-JUN-08 11.19.52.994146
+  end_exon_id: 5727564
+  final_plate: 222
+  gene_build_id: 30
+  has_ensembl_image: ~
+  locus_id: 7429366
+  phase: ~
+  pi: ~
+  pseudo_plate: ~
+  random_name: M7TG
+  sp: ~
+  start_exon_id: 5727564
+  subtype: frameshift
+  subtype_description: ~
+  target_id: 0
+  tm: ~
+  validated_by_annotation: ~
+  well_loc: A01
+- 
+  atg: ~
+  build_id: 0
+  created_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 27
+      day_of_quarter: 57
+      day_of_week: 3
+      day_of_year: 147
+      hour: 0
+      minute: 0
+      month: 5
+      quarter: 2
+      second: 0
+      year: 2009
+    local_rd_days: 733554
+    local_rd_secs: 0
+    locale: *1
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: *2
+    utc_rd_days: 733554
+    utc_rd_secs: 0
+    utc_year: 2010
+  created_user: mp7
+  design_id: 238289
+  design_name: EUCTV15988
+  design_parameter_id: 180610
+  design_type: Del_Block
+  edited_by: ~
+  edited_date: 27-MAY-09 23.34.51.005316
+  end_exon_id: 6136832
+  final_plate: 185
+  gene_build_id: 31
+  has_ensembl_image: ~
+  locus_id: 11541616
+  phase: ~
+  pi: ~
+  pseudo_plate: ~
+  random_name: ~
+  sp: ~
+  start_exon_id: 6136832
+  subtype: frameshift
+  subtype_description: ~
+  target_id: 0
+  tm: ~
+  validated_by_annotation: ~
+  well_loc: C10 
+- 
+  atg: 0
+  build_id: 0
+  created_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 19
+      day_of_quarter: 50
+      day_of_week: 2
+      day_of_year: 232
+      hour: 0
+      minute: 0
+      month: 8
+      quarter: 3
+      second: 0
+      year: 2008
+    local_rd_days: 733273
+    local_rd_secs: 0
+    locale: &1 !!perl/hash:DateTime::Locale::en_US 
+      _converted_patterns: 
+        MMM d, y: "%b %{day}, %y"
+        MMM d, y h:mm:ss a: "%b %{day}, %y %{hour_12}:%M:%S %p"
+        h:mm:ss a: "%{hour_12}:%M:%S %p"
+      default_date_format_length: medium
+      default_time_format_length: medium
+      en_complete_name: English United States
+      en_language: English
+      en_territory: United States
+      id: en_US
+      native_complete_name: English United States
+      native_language: English
+      native_territory: United States
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: &2 !!perl/hash:DateTime::TimeZone::Floating 
+      name: floating
+      offset: 0
+    utc_rd_days: 733273
+    utc_rd_secs: 0
+    utc_year: 2009
+  created_user: mp7
+  design_id: 117661
+  design_name: EUCTV14045
+  design_parameter_id: 69079
+  design_type: Del_Block
+  edited_by: ~
+  edited_date: 19-AUG-08 11.34.29.315175
+  end_exon_id: 6348293
+  final_plate: 160
+  gene_build_id: 31
+  has_ensembl_image: ~
+  locus_id: 9971526
+  phase: 2
+  pi: 0
+  pseudo_plate: ~
+  random_name: U2JQ
+  sp: 0
+  start_exon_id: 6348290
+  subtype: ~
+  subtype_description: ~
+  target_id: 0
+  tm: 0
+  validated_by_annotation: ~
+  well_loc: E08
+- 
+  atg: ~
+  build_id: 0
+  created_date: !!perl/hash:DateTime 
+    formatter: ~
+    local_c: 
+      day: 11
+      day_of_quarter: 42
+      day_of_week: 3
+      day_of_year: 223
+      hour: 0
+      minute: 0
+      month: 8
+      quarter: 3
+      second: 0
+      year: 2010
+    local_rd_days: 733995
+    local_rd_secs: 0
+    locale: *1
+    offset_modifier: 0
+    rd_nanosecs: 000000000
+    tz: *2
+    utc_rd_days: 733995
+    utc_rd_secs: 0
+    utc_year: 2011
+  created_user: rm7
+  design_id: 277826
+  design_name: EUCTV17907
+  design_parameter_id: 194594
+  design_type: KO
+  edited_by: ~
+  edited_date: 11-AUG-10 17.09.42.255329
+  end_exon_id: 8546514
+  final_plate: 223
+  gene_build_id: 36
+  has_ensembl_image: ~
+  locus_id: 12610253
+  phase: ~
+  pi: ~
+  pseudo_plate: ~
+  random_name: ~
+  sp: ~
+  start_exon_id: 8546512
+  subtype: ~
+  subtype_description: ~
+  target_id: 0
+  tm: ~
+  validated_by_annotation: ~
+  well_loc: A01

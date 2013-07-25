@@ -1,0 +1,13 @@
+--- 
+- 
+  assay_id: 17_K19_U_CC6RM30
+  deleted_region: u
+  design_id: 258111
+  design_taqman_assay_id: 1817
+  edit_date: 21-OCT-11
+  edit_user: sp12
+  forward_primer_seq: TGACTTTCGATTCCACGTGCAT
+  reporter_probe_seq: ACCACACATAAATACATATCAAAAATT
+  reverse_primer_seq: ACATGGGAACAGGCATACAAACAT
+  taqman_plate_id: 43
+  well_name: A01
