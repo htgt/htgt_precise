@@ -90,8 +90,8 @@ Log::Log4perl->easy_init( $DEBUG );
                          'select[mem>3000] rusage[mem=3000]',
                          qw( -M 3000000 -g /team87/qc /bin/echo -htgtlookup -dbstore -plate PC00123_1 -tsproj PC00123 ) ],
                              'bsub command';
-    like $bsub[4], qr{^/t/qc_runs/PC00123_1\.PC00123.+\.out$}, 'outfile';
-    like $bsub[6], qr{^/t/qc_runs/PC00123_1\.PC00123.+\.err$}, 'errfile';
+    like $bsub[4], qr{^t/qc_runs/PC00123_1\.PC00123.+\.out$}, 'outfile';
+    like $bsub[6], qr{^t/qc_runs/PC00123_1\.PC00123.+\.err$}, 'errfile';
 }    
 
 {
