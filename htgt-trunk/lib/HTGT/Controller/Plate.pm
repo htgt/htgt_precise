@@ -1001,7 +1001,7 @@ EOT
             # Filter numbers and text.
             # If int or text, leave alone.
             # If float, do some manipulation.
-            if ( $unprocd_well_data_hash->{ $data_type } =~ /^$RE{num}{real}$/
+            if ( $unprocd_well_data_hash->{ $data_type } and $unprocd_well_data_hash->{ $data_type } =~ /^$RE{num}{real}$/
                 and not $unprocd_well_data_hash->{ $data_type } =~ /^\d+$/ )
             {
 
