@@ -5,11 +5,11 @@ use Test::More;
 use_ok 'HTGT::Utils::MutagenesisPrediction::FloxedExons', 'get_floxed_exons';
 
 is_deeply get_floxed_exons( 'ENSMUSG00000018666', 96800600, 96801000 ),
-    [ 'ENSMUSE00001062012' ],
+    [ 'ENSMUSE00001122566' ],
     'floxed exons for Cbx1 (conditional)';
 
 is_deeply get_floxed_exons( 'ENSMUSG00000018666', 96800600 ),
-    [ 'ENSMUSE00001062012', 'ENSMUSE00001022518', 'ENSMUSE00000110987', 'ENSMUSE00000585970', 'ENSMUSE00000585969' ],
+    [ 'ENSMUSE00001122566', 'ENSMUSE00001167818', 'ENSMUSE00000110987', 'ENSMUSE00000585970', 'ENSMUSE00000585969' ],
     'floxed exons for Cbx1 (non-conditional)';
 
 is_deeply get_floxed_exons( 'ENSMUSG00000030217', 136855200, 136854200 ),
