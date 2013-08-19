@@ -68,8 +68,8 @@ sub constructor :Tests(startup => 5) {
             ensembl_gene_id   => 'ENSMUSG00000018666',
             transcript_id     => 'ENSMUST00000093943',
             slice_id          => 'chromosome:GRCm38:11:96796597:96806551:1',
-            first_floxed_exon => 'ENSMUSE00001022518',
-            last_floxed_exon  => 'ENSMUSE00001022518',
+            first_floxed_exon => 'ENSMUSE00001167818',
+            last_floxed_exon  => 'ENSMUSE00001167818',
             num_floxed_exons  => 1,
             marker_symbol     => 'Cbx1',
             chr_name          => 11,
@@ -319,7 +319,7 @@ sub slice :Tests(5) {
 
 sub constrained_elements :Tests(3) {
     my $test = shift;
-
+$DB::single=1;
     can_ok $test->class, 'constrained_elements';
 
     for ( @{ $test->data } ) {
