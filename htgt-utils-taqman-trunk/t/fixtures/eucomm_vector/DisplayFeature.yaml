@@ -154,7 +154,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -182,7 +182,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -210,7 +210,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -238,7 +238,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -266,7 +266,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -294,7 +294,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -308,7 +308,7 @@
   gene_build_id: 100
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 12
   created_date: 19-JAN-09
   created_user: dk3
@@ -322,7 +322,7 @@
   gene_build_id: 31
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 11
   created_date: 24-MAR-09
   created_user: vvi
@@ -336,7 +336,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 11
   created_date: 24-MAR-09
   created_user: vvi
@@ -350,7 +350,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 11
   created_date: 24-MAR-09
   created_user: vvi
@@ -364,7 +364,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 11
   created_date: 24-MAR-09
   created_user: vvi
@@ -378,7 +378,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 11
   created_date: 24-MAR-09
   created_user: vvi
@@ -392,7 +392,7 @@
   gene_build_id: 100
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 11
   created_date: 24-MAR-09
   created_user: vvi
@@ -406,7 +406,7 @@
   gene_build_id: 100
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 11
   created_date: 24-MAR-09
   created_user: vvi
@@ -420,7 +420,7 @@
   gene_build_id: 100
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 11
   created_date: 24-MAR-09
   created_user: vvi
@@ -589,7 +589,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -617,7 +617,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -645,7 +645,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -673,7 +673,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -701,7 +701,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -729,7 +729,7 @@
   gene_build_id: 11
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 2
   created_date: 23-OCT-07
   created_user: vvi
@@ -743,7 +743,7 @@
   gene_build_id: 100
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -757,7 +757,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -771,7 +771,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -785,7 +785,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -799,7 +799,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -813,7 +813,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -827,7 +827,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -841,7 +841,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -855,7 +855,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -869,7 +869,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -883,7 +883,7 @@
   gene_build_id: 100
   label: cr
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -897,7 +897,7 @@
   gene_build_id: 100
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -911,7 +911,7 @@
   gene_build_id: 100
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -925,7 +925,7 @@
   gene_build_id: 100
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -939,7 +939,7 @@
   gene_build_id: 100
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi
@@ -953,7 +953,7 @@
   gene_build_id: 100
   label: construct
 - 
-  assembly_id: 11
+  assembly_id: 101
   chr_id: 16
   created_date: 07-DEC-09
   created_user: vvi

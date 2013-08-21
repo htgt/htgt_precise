@@ -37,7 +37,6 @@ sub startup : Tests(startup => 8) {
         '..create test object';
     ok $test->{KO}{design} = $schema->resultset('Design')->find( { design_id => 41044 } ),
         '..get KO design';
-$DB::single=1;
     ok $test->{del}{design} = $schema->resultset('Design')->find( { design_id => 233442 } ),
         '.. get deletion design';
     ok $test->{fail}{design} = $schema->resultset('Design')->find( { design_id => 220202 } ),
@@ -122,7 +121,7 @@ sub fetch_wildtype_data_non_KO_design : Tests(2) {
 
 sub assert_required_features_present : Tests(3) {
     my $test = shift;
-$DB::single=1;
+
     ok $test->{o}->assert_required_features_present($test->{del}{features}, 'del');
     ok $test->{o}->assert_required_features_present($test->{KO}{features}, 'KO');
     throws_ok {$test->{o}->assert_required_features_present( $test->{fail}{features}, 'Del' )}
