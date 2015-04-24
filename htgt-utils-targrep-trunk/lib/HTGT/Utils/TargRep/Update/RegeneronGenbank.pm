@@ -9,7 +9,7 @@ use Try::Tiny;
 use List::MoreUtils qw( uniq any );
 use Const::Fast;
 
-const my %REGENERON_CASSETTES => (
+my %REGENERON_CASSETTES = (
     'TM-ZEN-UB1' => 'TM_Zen_Ub1',
     'ZEN-UB1.GB' => 'Zen_Ub1',
     'ZEN-Ub1'    => 'Zen_Ub1',

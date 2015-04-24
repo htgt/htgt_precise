@@ -16,7 +16,7 @@ use Perl6::Slurp;
 use Log::Log4perl qw( :easy );
 use Const::Fast;
 
-const my $NCBIM37_ASSEMBLY_ID => get_assembly_id( 'NCBIM37' );
+const my $GRCm38_ASSEMBLY_ID => get_assembly_id( 'GRCm38' );
 
 {    
     my $log_level = $WARN;
@@ -59,7 +59,7 @@ sub delete_duplicate_display_features {
         or die "Failed to retrieve design $design_id";
 
     return unless defined $design->locus and defined $design->locus->assembly_id and
-        $design->locus->assembly_id == $NCBIM37_ASSEMBLY_ID;
+        $design->locus->assembly_id == $GRCm38_ASSEMBLY_ID;
     my $validated_features = $design->features_rs->search(
         {
             'feature_data_type.description' => 'validated'
@@ -143,7 +143,7 @@ sub get_display_features_on_current_assembly{
     for my $df( @$df_ref ){
         my $df_ass_id = $df->assembly_id;
         next unless defined $df_ass_id;
-        push @current_df, $df if $df->assembly_id == $NCBIM37_ASSEMBLY_ID;
+        push @current_df, $df if $df->assembly_id == $GRCm38_ASSEMBLY_ID;
     }
 
     return \@current_df;

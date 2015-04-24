@@ -10,13 +10,13 @@ use Try::Tiny;
 use List::MoreUtils qw( uniq any );
 use Const::Fast;
 
-const my %NORCOMM_CASSETTES => (
+my %NORCOMM_CASSETTES = (
     'L1L2_NTARU-0' => 'L1L2_NTARU-0',
     'L1L2_NTARU-1' => 'L1L2_NTARU-1',
     'L1L2_NTARU-2' => 'L1L2_NTARU-2',
     'L1L2_NTARU-K' => 'L1L2_NTARU-K',
 );
-const my $NORCOMM_BACKBONE => 'L3L4_pZero_DTA_kan';
+my $NORCOMM_BACKBONE = 'L3L4_pZero_DTA_kan';
 
 with qw( MooseX::Log::Log4perl );
 

@@ -46,7 +46,8 @@ sub run_bsub_cmd {
 
     #default memory required to 2000
     $memory_required = 2000 unless $memory_required;
-    my $memory_limit = $memory_required * 1000; #farm -M is weird and not in MB or GB.
+#    my $memory_limit = $memory_required * 1000; #farm -M is weird and not in MB or GB.
+    my $memory_limit = $memory_required; 
 
     my @bsub = (
         'bsub',

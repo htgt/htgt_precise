@@ -10,8 +10,8 @@ use Try::Tiny;
 use List::MoreUtils qw( uniq );
 use Const::Fast;
 
-const my $MIRKO_CASSETTE => 'PGK_EM7_PuDtk_bGHpA';
-const my $MIRKO_BACKBONE => 'PL611';
+my $MIRKO_CASSETTE = 'PGK_EM7_PuDtk_bGHpA';
+my $MIRKO_BACKBONE = 'PL611';
 
 with qw( MooseX::Log::Log4perl );
 

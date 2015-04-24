@@ -11,8 +11,11 @@ use base 'Catalyst::Controller';
 #use LWP::Simple;
 use Bio::Perl;
 use Data::Dumper;
-use HTGT::Utils::DesignPhase qw( get_phase_from_transcript_id_and_U5_oligo
-                                 create_U5_oligo_loc_from_cassette_coords );
+use Bio::Location::Simple;
+use HTGT::Utils::DesignPhase qw(
+get_phase_from_gene_and_U5_oligo
+create_U5_oligo_loc_from_cassette_coords
+);
 
 =head1 NAME
 
@@ -1035,8 +1038,29 @@ sub create_design_for_KO_Block_Specified {
                 $subtype,     $subtype_description, $artificial_intron_design
             );
 
+            my $approx_u5_oligo_loc;
+            if ( $chr_strand == 1 ) {
+                $approx_u5_oligo_loc = Bio::Location::Simple->new(
+                    -start  => $target_start - 10,
+                    -end    => $target_start - 1,
+                    -strand => $chr_strand,
+                );
+            }
+            else {
+                $approx_u5_oligo_loc = Bio::Location::Simple->new(
+                    -start  => $target_start + 1,
+                    -end    => $target_start + 10,
+                    -strand => $chr_strand,
+                );
+            }
+
+            my $design_phase = get_phase_from_gene_and_U5_oligo(
+                $design_info->{selected_gene_build_gene},
+                $approx_u5_oligo_loc
+            );
+
             $design->update( {
-                phase => $design->start_exon->phase,
+                phase => $design_phase
             } );
         }
     }
@@ -1458,8 +1482,7 @@ sub create_design_for_KO_Location_Specified {
     );
 
     my $u5_oligo_loc = create_U5_oligo_loc_from_cassette_coords( $design_info{ cassette_start }, $design_info{ cassette_end }, $design_info{ chr_strand } );
-    my $transcript_id = $c->model( 'HTGTDB::GnmExon' )->find( { id => $design_info{ start_exon_id } } )->transcript->primary_name;
-    my $design_phase = get_phase_from_transcript_id_and_U5_oligo( $transcript_id, $u5_oligo_loc );
+    my $design_phase = get_phase_from_gene_and_U5_oligo( $design_info{selected_gene_build_gene}, $u5_oligo_loc );
 
     $design->update( {
         phase => $design_phase,

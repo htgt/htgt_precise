@@ -2,12 +2,15 @@ package HTGT::Utils::DesignPhase;
 
 use Sub::Exporter -setup => { exports => [qw( get_phase_from_transcript_id_and_U5_oligo
                                               get_phase_from_design_and_transcript
+                                              get_phase_from_gene_and_U5_oligo
                                               compute_and_set_phase
                                               create_U5_oligo_loc_from_cassette_coords
                                               phase_warning_comment )] };
 use HTGT::Utils::EnsEMBL;
 use Data::Dump 'pp';
 use Log::Log4perl ':easy';
+use Try::Tiny;
+use Bio::Location::Simple;
 use Carp 'confess';
 
 sub compute_and_set_phase{
@@ -54,6 +57,22 @@ sub get_phase_from_design_and_transcript {
     }
 
     return get_phase_from_transcript_id_and_U5_oligo( $transcript, $u5_oligo_loc );
+}
+
+sub get_phase_from_gene_and_U5_oligo {
+    my ( $ensembl_gene_id, $u5_oligo_loc ) = @_;
+
+    my $gene = try{ HTGT::Utils::EnsEMBL->gene_adaptor->fetch_by_stable_id( $ensembl_gene_id ) };
+
+    confess "Can not find EnsEMBL gene $ensembl_gene_id"
+        unless defined $gene;
+
+    my $transcript = $gene->canonical_transcript;
+
+    confess "Can not get canonical transcript from gene $ensembl_gene_id"
+        unless defined $transcript;
+
+    return design_phase( $transcript, $u5_oligo_loc );
 }
 
 sub get_phase_from_transcript_id_and_U5_oligo {

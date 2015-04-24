@@ -100,10 +100,10 @@ Forwards to /biomart/martview
 
 =cut
 
-#sub biomart : Local {
-#    my ( $self, $c ) = @_;
-#    $c->response->redirect('http://www.sanger.ac.uk/htgt/biomart/martview');
-#}
+sub biomart : Local {
+    my ( $self, $c ) = @_;
+    $c->response->redirect('http://www.sanger.ac.uk/htgt/biomart/martview');
+}
 
 =head2 access denied
 

@@ -21,6 +21,7 @@ BEGIN {
         $DEFAULT_ANNOTATION_BUILD_ID
         @ANNOTATION_BUILDS
         %ANNOTATION_ASSEMBLIES
+        %TARGETING_PASS_QC_RESULTS 
     );
     our %EXPORT_TAGS = ();
 }
@@ -47,6 +48,15 @@ const our %RANKED_QC_RESULTS => (
     passb => 3,
     fail => 4,
     fa   => 5, #Failed Assay
+);
+
+const our %TARGETING_PASS_QC_RESULTS => (
+    na   => 1,
+    pass => 2,
+    passb => 3,
+    pass_lrpcr_only => 4,
+    fail => 5,
+    fa   => 6, #Failed Assay
 );
 
 const our %QC_RESULT_TYPES => (
@@ -736,6 +746,42 @@ our %CASSETTES = (
         filename          => '',
         artificial_intron => 0,
         cre_knock_in      => 0,
+    },
+    pL1L2GT0_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro => {
+        full_name         => 'pL1L2GT0_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro',
+        class             => 'promotor',
+        phase_match_group => 'pL1L2GT?_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro',
+        phase             => 0,
+        filename          => '',
+        artificial_intron => 0,
+        cre_knock_in      => 1,
+    },
+    pL1L2GT1_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro => {
+        full_name         => 'pL1L2GT1_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro',
+        class             => 'promotor',
+        phase_match_group => 'pL1L2GT?_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro',
+        phase             => 1,
+        filename          => '',
+        artificial_intron => 0,
+        cre_knock_in      => 1,
+    },
+    pL1L2GT2_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro => {
+        full_name         => 'pL1L2GT2_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro',
+        class             => 'promotor',
+        phase_match_group => 'pL1L2GT?_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro',
+        phase             => 2,
+        filename          => '',
+        artificial_intron => 0,
+        cre_knock_in      => 1,
+    },
+    pL1L2GTK_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro => {
+        full_name         => 'pL1L2GTK_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro',
+        class             => 'promotor',
+        phase_match_group => 'pL1L2GT?_LF2A_nEGFPOT2A_CreERT2_pAroxbActNeopAro',
+        phase             => -1,
+        filename          => '',
+        artificial_intron => 0,
+        cre_knock_in      => 1,
     },
 );
 
